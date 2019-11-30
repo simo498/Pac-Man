@@ -15,28 +15,32 @@ public class MovementPacMan : MonoBehaviour
     
     void Update()
     {
-        Movement();        
+        Movement();
+        Move();
     }
 
     void Movement()
     { 
         if(Input.GetKeyDown(KeyCode.LeftArrow))
         {
-           Input.GetAxisRaw("Horizontal");
+            direzione = Vector2.left;
         }
-        /*else if (Input.GetKeyDown(KeyCode.RightArrow))
+        else if (Input.GetKeyDown(KeyCode.RightArrow))
         {
-            direzione = Vector2.Right;
+            direzione = Vector2.right;
         }
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        else if (Input.GetKeyDown(KeyCode.UpArrow))
         {
-            direzione =  Vector2.Up;
+            direzione =  Vector2.up;
         }
         else if (Input.GetKeyDown(KeyCode.DownArrow))
         {
-            direzione = Vector2.Down;
-        }*/
+            direzione = Vector2.down;
+        }
     }
 
-
+    void Move()
+    {
+        transform.localPosition += (Vector3)(direzione * speedPacMan) * Time.deltaTime;
+    }
 }
