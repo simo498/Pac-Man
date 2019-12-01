@@ -4,23 +4,24 @@ using UnityEngine;
 
 public class MovementPacMan : MonoBehaviour
 {
-    Rigidbody2D rb2D;
+    Rigidbody2D pacManRB;
     public float speedPacMan = 20.0F;
     public Vector2 direzione = Vector2.zero;
     void Start()
     {
-        rb2D = GetComponent<Rigidbody2D>();
+        pacManRB = GetComponent<Rigidbody2D>();
     }
 
-    
     void Update()
     {
-        Movement();
-        Move();
+        GetInput();
     }
 
-    void Movement()
-    { 
+
+    /*Ottiene l'input (freccette o WASD), cambia la direzione del vettore a cui
+         * punta Pac-Man e muove lo sprite*/
+    void GetInput()
+    {
         if(Input.GetKeyDown(KeyCode.LeftArrow)|| Input.GetKeyDown(KeyCode.A)) 
         {
             direzione = Vector2.left;
@@ -41,8 +42,10 @@ public class MovementPacMan : MonoBehaviour
             direzione = Vector2.down;
             transform.localRotation = Quaternion.Euler(0, 0, -90);
         }
+        Move();
     }
 
+    //Modifica la posizione di pacman in base alla direzione del vettore
     void Move()
     {
         transform.localPosition += (Vector3)(direzione * speedPacMan) * Time.deltaTime;
