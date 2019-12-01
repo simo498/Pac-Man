@@ -3,8 +3,53 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class MovementPacMan : MonoBehaviour
-{
+{ 
+    //ROTAZIONE IN GRADI
+    const int UP_DIRECTION = 90;
+    const int DOWN_DIRECTION = -90;
+    const int LEFT_DIRECTION = -180;
+    const int RIGHT_DIRECTION = 0;
+
+    Vector2 Direction = Vector2.zero;
+
+    void _move(Vector2 direction)
+    {
+        transform.localPosition += (Vector3)(direction * speedPacMan) * Time.deltaTime;
+    }
+
+    Vector2 _getInput()
+    {
+        if(Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
+            return Vector2.left;
+        else if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
+            return Vector2.right;
+        else if (Input.GetKeyDown(KeyCode.UpArrow)|| Input.GetKeyDown(KeyCode.W))
+            return Vector2.up;
+        else if (Input.GetKeyDown(KeyCode.DownArrow)|| Input.GetKeyDown(KeyCode.S))
+            return Vector2.down;
+
+        else return Vector2.zero;
+    }
+
+    void _rotate(int rotation)
+    {
+        transform.localRotation = Quaternion.Euler(0, 0, rotation);
+    }
+
+    void _isValid(Vector2 direction)
+    {
+
+    }
+
+
+
+
+
+
+
+    //CODICE VECCHIO
     Rigidbody2D pacManRB;
+    Collider2D collider;
     public float speedPacMan = 20.0F;
     public Vector2 direzione = Vector2.zero;
     void Start()
