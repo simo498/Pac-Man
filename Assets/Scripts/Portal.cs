@@ -8,7 +8,7 @@ public class Portal : MonoBehaviour
     //dichiatazione variabili 
     private Transform destinazione;
     public bool isOrange;
-    float DistMin = 0.3f;    
+    float DistMin = 0.1f;    
 
     void Start()
     {
@@ -27,7 +27,7 @@ public class Portal : MonoBehaviour
     //metodo che riconosce la collisione tra il player e il portale 
     void OnTriggerEnter2D(Collider2D other)
     {
-       if(Vector2.Distance(transform.position, other.transform.position) > 0.1f)
+       if(Vector2.Distance(transform.position, other.transform.position) > DistMin)
        {           
             other.transform.position = new Vector2(destinazione.position.x, destinazione.position.y);
        }                       
