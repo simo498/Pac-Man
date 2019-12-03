@@ -6,6 +6,8 @@ TagManager:
   tags:
   - orange
   - blue
+  - PacManfood
+  - PacManSfood
   layers:
   - Default
   - TransparentFX
