@@ -15,6 +15,7 @@ public class MovementPacMan : MonoBehaviour
     Vector2 Direction = Vector2.zero;
 
     public float PacManSpeed;
+
     //Muove PacMan in base al vettore passato come parametro
     void Move(Vector2 direction)
     {
@@ -66,7 +67,7 @@ public class MovementPacMan : MonoBehaviour
         else return false;
 
         var hit = Physics2D.Linecast(linecastVector, pos);
-        if (hit.collider == pacManCollider)
+        if (hit.collider == pacManCollider || hit.collider.tag == "PacManfood")
             return true;
         else return false;
     }
