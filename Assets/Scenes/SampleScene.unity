@@ -231,6 +231,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &4476788
 GameObject:
   m_ObjectHideFlags: 0
@@ -342,6 +344,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &6230273
 GameObject:
   m_ObjectHideFlags: 0
@@ -453,6 +457,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &13328101
 GameObject:
   m_ObjectHideFlags: 0
@@ -564,6 +570,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &23374877
 GameObject:
   m_ObjectHideFlags: 0
@@ -675,6 +683,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &25082373
 GameObject:
   m_ObjectHideFlags: 0
@@ -786,6 +796,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &35061931
 GameObject:
   m_ObjectHideFlags: 0
@@ -897,6 +909,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &40933598
 GameObject:
   m_ObjectHideFlags: 0
@@ -1008,6 +1022,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &75954770
 GameObject:
   m_ObjectHideFlags: 0
@@ -1119,6 +1135,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &100468930
 GameObject:
   m_ObjectHideFlags: 0
@@ -1230,6 +1248,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &102244067
 GameObject:
   m_ObjectHideFlags: 0
@@ -1341,6 +1361,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &109415196
 GameObject:
   m_ObjectHideFlags: 0
@@ -1452,6 +1474,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &110922107
 GameObject:
   m_ObjectHideFlags: 0
@@ -1563,6 +1587,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &115469993
 GameObject:
   m_ObjectHideFlags: 0
@@ -1674,6 +1700,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &119496284
 GameObject:
   m_ObjectHideFlags: 0
@@ -1785,6 +1813,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &123322783
 GameObject:
   m_ObjectHideFlags: 0
@@ -1896,6 +1926,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &136665408
 GameObject:
   m_ObjectHideFlags: 0
@@ -2007,6 +2039,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &146209594
 GameObject:
   m_ObjectHideFlags: 0
@@ -2118,6 +2152,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &148437636
 GameObject:
   m_ObjectHideFlags: 0
@@ -2229,6 +2265,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
+--- !u!1 &155577082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 155577083}
+  m_Layer: 0
+  m_Name: Fantasmini
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &155577083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 155577082}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.80596584, y: 0.051957395, z: -22.53711}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 831300766}
+  - {fileID: 906701697}
+  - {fileID: 1419506909}
+  - {fileID: 1909493951}
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &167178022
 GameObject:
   m_ObjectHideFlags: 0
@@ -2340,6 +2412,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &167226545
 GameObject:
   m_ObjectHideFlags: 0
@@ -2451,6 +2525,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &175185046
 GameObject:
   m_ObjectHideFlags: 0
@@ -2562,6 +2638,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &176176076
 GameObject:
   m_ObjectHideFlags: 0
@@ -2673,6 +2751,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &197108453
 GameObject:
   m_ObjectHideFlags: 0
@@ -2784,6 +2864,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &212175640
 GameObject:
   m_ObjectHideFlags: 0
@@ -2895,6 +2977,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &222722434
 GameObject:
   m_ObjectHideFlags: 0
@@ -3006,6 +3090,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &227315274
 GameObject:
   m_ObjectHideFlags: 0
@@ -3117,6 +3203,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &228537708
 GameObject:
   m_ObjectHideFlags: 0
@@ -3228,6 +3316,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &234496636
 GameObject:
   m_ObjectHideFlags: 0
@@ -3339,6 +3429,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &245092219
 GameObject:
   m_ObjectHideFlags: 0
@@ -3450,6 +3542,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &263277119
 GameObject:
   m_ObjectHideFlags: 0
@@ -3561,6 +3655,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &263326342
 GameObject:
   m_ObjectHideFlags: 0
@@ -3703,6 +3799,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &272383003
 GameObject:
   m_ObjectHideFlags: 0
@@ -3814,6 +3912,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &273718638
 GameObject:
   m_ObjectHideFlags: 0
@@ -3925,6 +4025,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &278758913
 GameObject:
   m_ObjectHideFlags: 0
@@ -4036,6 +4138,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &286080666
 GameObject:
   m_ObjectHideFlags: 0
@@ -4147,6 +4251,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &299792406
 GameObject:
   m_ObjectHideFlags: 0
@@ -4258,6 +4364,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &326836462
 GameObject:
   m_ObjectHideFlags: 0
@@ -4369,6 +4477,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &328506666
 GameObject:
   m_ObjectHideFlags: 0
@@ -4480,6 +4590,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &330223222
 GameObject:
   m_ObjectHideFlags: 0
@@ -4591,6 +4703,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &337170747
 GameObject:
   m_ObjectHideFlags: 0
@@ -4702,6 +4816,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &347758421
 GameObject:
   m_ObjectHideFlags: 0
@@ -4813,6 +4929,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &348367629
 GameObject:
   m_ObjectHideFlags: 0
@@ -4924,6 +5042,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &348981905
 GameObject:
   m_ObjectHideFlags: 0
@@ -5035,6 +5155,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &350864948
 GameObject:
   m_ObjectHideFlags: 0
@@ -5146,6 +5268,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &352382954
 GameObject:
   m_ObjectHideFlags: 0
@@ -5257,6 +5381,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &353219499
 GameObject:
   m_ObjectHideFlags: 0
@@ -5368,6 +5494,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &372796314
 GameObject:
   m_ObjectHideFlags: 0
@@ -5479,6 +5607,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &386200202
 GameObject:
   m_ObjectHideFlags: 0
@@ -5590,6 +5720,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &386826355
 GameObject:
   m_ObjectHideFlags: 0
@@ -5701,6 +5833,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &388360386
 GameObject:
   m_ObjectHideFlags: 0
@@ -5812,6 +5946,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &388913181
 GameObject:
   m_ObjectHideFlags: 0
@@ -5923,6 +6059,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &392163733
 GameObject:
   m_ObjectHideFlags: 0
@@ -6034,6 +6172,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &395950132
 GameObject:
   m_ObjectHideFlags: 0
@@ -6145,6 +6285,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &396929413
 GameObject:
   m_ObjectHideFlags: 0
@@ -6256,6 +6398,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &397901001
 GameObject:
   m_ObjectHideFlags: 0
@@ -6367,6 +6511,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &399951741
 GameObject:
   m_ObjectHideFlags: 0
@@ -6478,6 +6624,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &401875866
 GameObject:
   m_ObjectHideFlags: 0
@@ -6589,6 +6737,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &405814117
 GameObject:
   m_ObjectHideFlags: 0
@@ -6780,6 +6930,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &408530810
 GameObject:
   m_ObjectHideFlags: 0
@@ -6891,6 +7043,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &412850196
 GameObject:
   m_ObjectHideFlags: 0
@@ -7002,6 +7156,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &415531359
 GameObject:
   m_ObjectHideFlags: 0
@@ -7113,6 +7269,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &422569223
 GameObject:
   m_ObjectHideFlags: 0
@@ -7224,6 +7382,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &428015626
 GameObject:
   m_ObjectHideFlags: 0
@@ -7335,6 +7495,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &451554737
 GameObject:
   m_ObjectHideFlags: 0
@@ -7446,6 +7608,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &468704880
 GameObject:
   m_ObjectHideFlags: 0
@@ -7557,6 +7721,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &491387602
 GameObject:
   m_ObjectHideFlags: 0
@@ -7668,6 +7834,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -7862,6 +8030,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &571421322
 GameObject:
   m_ObjectHideFlags: 0
@@ -7973,6 +8143,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &575087317
 GameObject:
   m_ObjectHideFlags: 0
@@ -8084,6 +8256,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &577426636
 GameObject:
   m_ObjectHideFlags: 0
@@ -8195,6 +8369,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &593472622
 GameObject:
   m_ObjectHideFlags: 0
@@ -8306,6 +8482,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &617251563
 GameObject:
   m_ObjectHideFlags: 0
@@ -8417,6 +8595,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &619198259
 GameObject:
   m_ObjectHideFlags: 0
@@ -8528,6 +8708,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &637934190
 GameObject:
   m_ObjectHideFlags: 0
@@ -8639,6 +8821,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &642580294
 GameObject:
   m_ObjectHideFlags: 0
@@ -8750,6 +8934,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &643424849
 GameObject:
   m_ObjectHideFlags: 0
@@ -8861,6 +9047,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &654716690
 GameObject:
   m_ObjectHideFlags: 0
@@ -8972,6 +9160,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &672336846
 GameObject:
   m_ObjectHideFlags: 0
@@ -9083,6 +9273,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &697509892
 GameObject:
   m_ObjectHideFlags: 0
@@ -9110,6 +9302,7 @@ Transform:
   m_LocalPosition: {x: -0.003, y: -0.004, z: -0}
   m_LocalScale: {x: 0.987, y: 1, z: 1}
   m_Children:
+  - {fileID: 1261651846}
   - {fileID: 1396360535}
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -9225,6 +9418,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &702291583
 GameObject:
   m_ObjectHideFlags: 0
@@ -9336,6 +9531,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &703040738
 GameObject:
   m_ObjectHideFlags: 0
@@ -9621,6 +9818,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &722017617
 GameObject:
   m_ObjectHideFlags: 0
@@ -9732,6 +9931,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &732289808
 GameObject:
   m_ObjectHideFlags: 0
@@ -9843,6 +10044,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &737074368
 GameObject:
   m_ObjectHideFlags: 0
@@ -9954,6 +10157,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &759911869
 GameObject:
   m_ObjectHideFlags: 0
@@ -10065,6 +10270,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &762113003
 GameObject:
   m_ObjectHideFlags: 0
@@ -10176,6 +10383,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &774207181
 GameObject:
   m_ObjectHideFlags: 0
@@ -10287,6 +10496,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &788025693
 GameObject:
   m_ObjectHideFlags: 0
@@ -10398,6 +10609,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &795900322
 GameObject:
   m_ObjectHideFlags: 0
@@ -10509,6 +10722,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &799265898
 GameObject:
   m_ObjectHideFlags: 0
@@ -10620,6 +10835,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &808348608
 GameObject:
   m_ObjectHideFlags: 0
@@ -10731,6 +10948,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &815448602
 GameObject:
   m_ObjectHideFlags: 0
@@ -10842,6 +11061,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &824068394
 GameObject:
   m_ObjectHideFlags: 0
@@ -10901,9 +11122,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.07667223, y: -0.034054197}
+  m_Offset: {x: -0.027172077, y: -0.13299067}
   serializedVersion: 2
-  m_Radius: 1.4618452
+  m_Radius: 1.6102499
 --- !u!212 &824068399
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10953,6 +11174,113 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &831300765
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 831300766}
+  - component: {fileID: 831300768}
+  - component: {fileID: 831300767}
+  m_Layer: 0
+  m_Name: RedGhost
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &831300766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831300765}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.80596584, y: 0.54504263, z: 22.53711}
+  m_LocalScale: {x: 0.9868, y: 0.9604, z: 1}
+  m_Children: []
+  m_Father: {fileID: 155577083}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &831300767
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831300765}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0009574592, y: 0.009837896}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.32}
+    newSize: {x: 0.32, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.2797867, y: 0.26097327}
+  m_EdgeRadius: 0
+--- !u!212 &831300768
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831300765}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 4
+  m_Sprite: {fileID: 21300000, guid: afc88b02996d26b4aac7c37075c0183b, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &844846964
 GameObject:
   m_ObjectHideFlags: 0
@@ -10980,7 +11308,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 844846964}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.3582575, y: -0.01281624, z: 0}
+  m_LocalPosition: {x: -6.423, y: -1.528, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -11064,6 +11392,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &846968471
 GameObject:
   m_ObjectHideFlags: 0
@@ -11175,6 +11505,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &858400337
 GameObject:
   m_ObjectHideFlags: 0
@@ -11286,6 +11618,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &890561723
 GameObject:
   m_ObjectHideFlags: 0
@@ -11397,6 +11731,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &901762248
 GameObject:
   m_ObjectHideFlags: 0
@@ -11508,6 +11844,115 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
+--- !u!1 &906701696
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 906701697}
+  - component: {fileID: 906701699}
+  - component: {fileID: 906701698}
+  m_Layer: 0
+  m_Name: OrangeGhost
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &906701697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 906701696}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.7929658, y: -0.013957396, z: 22.53711}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 155577083}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &906701698
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 906701696}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.010282099}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.32}
+    newSize: {x: 0.32, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.2822072, y: 0.26119918}
+  m_EdgeRadius: 0
+--- !u!212 &906701699
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 906701696}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 4
+  m_Sprite: {fileID: 21300000, guid: d6022b85e98a36e41bb30eddaf6b37fe, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &907533228
 GameObject:
   m_ObjectHideFlags: 0
@@ -11619,6 +12064,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &920444028
 GameObject:
   m_ObjectHideFlags: 0
@@ -11730,6 +12177,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &928146342
 GameObject:
   m_ObjectHideFlags: 0
@@ -11841,6 +12290,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &933200640
 GameObject:
   m_ObjectHideFlags: 0
@@ -11952,6 +12403,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &941815674
 GameObject:
   m_ObjectHideFlags: 0
@@ -12063,6 +12516,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &943083618
 GameObject:
   m_ObjectHideFlags: 0
@@ -12174,6 +12629,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &948647640
 GameObject:
   m_ObjectHideFlags: 0
@@ -12285,6 +12742,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &952444808
 GameObject:
   m_ObjectHideFlags: 0
@@ -12396,6 +12855,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &953790340
 GameObject:
   m_ObjectHideFlags: 0
@@ -12507,6 +12968,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &960384732
 GameObject:
   m_ObjectHideFlags: 0
@@ -12618,6 +13081,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &961455904
 GameObject:
   m_ObjectHideFlags: 0
@@ -12729,6 +13194,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &973101841
 GameObject:
   m_ObjectHideFlags: 0
@@ -12840,6 +13307,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &983369278
 GameObject:
   m_ObjectHideFlags: 0
@@ -12951,6 +13420,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &987166637
 GameObject:
   m_ObjectHideFlags: 0
@@ -13062,6 +13533,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &987462147
 GameObject:
   m_ObjectHideFlags: 0
@@ -13173,6 +13646,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1005443163
 GameObject:
   m_ObjectHideFlags: 0
@@ -13284,6 +13759,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1011026008
 GameObject:
   m_ObjectHideFlags: 0
@@ -13395,6 +13872,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1013050793
 GameObject:
   m_ObjectHideFlags: 0
@@ -13506,6 +13985,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1016559780
 GameObject:
   m_ObjectHideFlags: 0
@@ -13617,6 +14098,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1017167727
 GameObject:
   m_ObjectHideFlags: 0
@@ -13728,6 +14211,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1035381037
 GameObject:
   m_ObjectHideFlags: 0
@@ -13839,6 +14324,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1052391290
 GameObject:
   m_ObjectHideFlags: 0
@@ -13950,6 +14437,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1082845434
 GameObject:
   m_ObjectHideFlags: 0
@@ -14061,6 +14550,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1088208179
 GameObject:
   m_ObjectHideFlags: 0
@@ -14204,6 +14695,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1106003360
 GameObject:
   m_ObjectHideFlags: 0
@@ -14315,6 +14808,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1120900946
 GameObject:
   m_ObjectHideFlags: 0
@@ -14426,6 +14921,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1125164978
 GameObject:
   m_ObjectHideFlags: 0
@@ -14537,6 +15034,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1129386962
 GameObject:
   m_ObjectHideFlags: 0
@@ -14648,6 +15147,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1134383639
 GameObject:
   m_ObjectHideFlags: 0
@@ -14759,6 +15260,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1156942749
 GameObject:
   m_ObjectHideFlags: 0
@@ -14870,6 +15373,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
+--- !u!1 &1169493795
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1169493796}
+  - component: {fileID: 1169493797}
+  m_Layer: 0
+  m_Name: A*fantasmi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1169493796
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169493795}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.2972869, y: -0.40257174, z: -22.351562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1169493797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169493795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78396926cbbfc4ac3b48fc5fc34a87d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  data:
+    dataString: UEsDBBQAAAgIAAAIIexmxuPaSAIAAPAEAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQF9VMlu2zAQ/RWD57qQlzpOb63sOD04NuIWuehCiyOLMEUKXOIl8L93SEmWogI9iXjvzfDNQn0QLk0JqVV6pTlbKwbk+4D4M/kyaMlnONODkjt+hUbzxpnNvYgGzSu1XCE+8mFGFWA1T3/Ig/DiCEEneaZ0sWQHiJWxBuGMCgNIaWV9tEToY0DO+Bk++pALnsYP/nTF02M0uOExBWlBt9JG2MgqlZOpoEUJzFtuxaNGPapkEoupFd54qoTgpnZC7KUMlca0NA7rQAHjFCsL13t9DvyQW++yG7zJMgO2tqTpZcE1NqjKSn6qqmsFNcfK1zsVDu7Gq5Trf9jhKNCZVsVzc+so8jfYnKfHV3pJqbGdpnbhxWfbTp6oONK9gLcc5ItaaeUkQ9Jq50OdgfGik+peWZxDemx1ldce6Mr/zuYWaj/Hghd7j3ydVsBOqNDtMHjQOJdfaDishakzIOpN/DHwmx66+1MTT1wbi1RdpfTu9sppLyXL0DNfjLOx0hICXHsuQVJhL1tMY/sD7HGda3vME/Uvpb685poH0AsJcKuPoh61Vaf7sEyuTmsw+cZZwSW0pj3xgn2KlZTVfnV70oTtnM5o2gk7OM4+rxZh08lsHmUP89mcjubz8ZDNo8l4OsvYN8r2ABMSdo9LrJOKbWW0bg9OTbbJJe5Z8wMZrDQtw64zTU8rfi1Up+VcZmqXagC5qTLcjYPGS/BNsiXj2KAdWMtlmDf5SIhQ6RFYck+UhEqXZ6tp0mZJSMnflfVIQuLwx0jIjdz+AlBLAwQUAAAICAAACCHsMwLkb2wAAAB3AAAACQAkAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAatWKkstKs7Mz1OyUjDRM9Kz0FFQSi9KLMgoBgoYgjilmSkgdrRSiomxmYVBmrmFmUWioYWFkW6KhYGxkYlZWoppYkpSaqqxUixQfUllQapfYm4qRE9AYklGWmZeSmZeup57UWaKO8hopdhaAFBLAQItABQAAAgIAAAIIexmxuPaSAIAAPAEAAALACQAAAAAAAAAAAAAAAAAAABncmFwaDAuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLAQItABQAAAgIAAAIIewzAuRvbAAAAHcAAAAJACQAAAAAAAAAAAAAAJUCAABtZXRhLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFQSwUGAAAAAAIAAgC4AAAATAMAAAAA
+    upgradeData: 
+    file_cachedStartup: {fileID: 0}
+    data_cachedStartup: 
+    cacheStartup: 0
+  showNavGraphs: 1
+  showUnwalkableNodes: 1
+  debugMode: 0
+  debugFloor: 0
+  debugRoof: 1
+  manualDebugFloorRoof: 0
+  showSearchTree: 0
+  unwalkableNodeDebugSize: 0.3
+  logPathResults: 1
+  maxNearestNodeDistance: 100
+  scanOnStartup: 1
+  fullGetNearestSearch: 0
+  prioritizeGraphs: 0
+  prioritizeGraphsLimit: 1
+  colorSettings:
+    _SolidColor: {r: 0.11764706, g: 0.4, b: 0.7882353, a: 0.9}
+    _UnwalkableNode: {r: 1, g: 0, b: 0, a: 0.5}
+    _BoundsHandles: {r: 0.29, g: 0.454, b: 0.741, a: 0.9}
+    _ConnectionLowLerp: {r: 0, g: 1, b: 0, a: 0.5}
+    _ConnectionHighLerp: {r: 1, g: 0, b: 0, a: 0.5}
+    _MeshEdgeColor: {r: 0, g: 0, b: 0, a: 0.5}
+    _AreaColors:
+    - {r: 0, g: 0, b: 0, a: 0}
+  tagNames: []
+  heuristic: 2
+  heuristicScale: 1
+  threadCount: 1
+  maxFrameTime: 1
+  batchGraphUpdates: 0
+  graphUpdateBatchingInterval: 0.2
+  euclideanEmbedding:
+    mode: 0
+    seed: 0
+    pivotPointRoot: {fileID: 0}
+    spreadOutCount: 1
+  showGraphs: 1
 --- !u!1 &1170988427
 GameObject:
   m_ObjectHideFlags: 0
@@ -14981,6 +15572,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1177277446
 GameObject:
   m_ObjectHideFlags: 0
@@ -15092,6 +15685,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1178947582
 GameObject:
   m_ObjectHideFlags: 0
@@ -15203,6 +15798,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1181697140
 GameObject:
   m_ObjectHideFlags: 0
@@ -15314,6 +15911,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1188881578
 GameObject:
   m_ObjectHideFlags: 0
@@ -15425,6 +16024,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1198930259
 GameObject:
   m_ObjectHideFlags: 0
@@ -15616,6 +16217,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1231892604
 GameObject:
   m_ObjectHideFlags: 0
@@ -15727,6 +16330,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1236951191
 GameObject:
   m_ObjectHideFlags: 0
@@ -15838,6 +16443,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1254308282
 GameObject:
   m_ObjectHideFlags: 0
@@ -15949,6 +16556,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1258658292
 GameObject:
   m_ObjectHideFlags: 0
@@ -16060,6 +16669,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1261651844
 GameObject:
   m_ObjectHideFlags: 0
@@ -16134,12 +16745,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1261651844}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.001, y: -0.028, z: -0.00013583113}
-  m_LocalScale: {x: 0.9859998, y: 1.002, z: 1}
+  m_LocalRotation: {x: -0, y: -0.0016002367, z: -0, w: 0.99999875}
+  m_LocalPosition: {x: 0.0040531047, y: -0.024, z: -0.00012302856}
+  m_LocalScale: {x: 0.9989864, y: 1.002, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_Father: {fileID: 697509893}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1261651849
 MonoBehaviour:
@@ -16264,6 +16875,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1269274601
 GameObject:
   m_ObjectHideFlags: 0
@@ -16375,6 +16988,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1274475087
 GameObject:
   m_ObjectHideFlags: 0
@@ -16486,6 +17101,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1285196676
 GameObject:
   m_ObjectHideFlags: 0
@@ -16597,6 +17214,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1307132436
 GameObject:
   m_ObjectHideFlags: 0
@@ -16708,6 +17327,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1312036500
 GameObject:
   m_ObjectHideFlags: 0
@@ -16819,6 +17440,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1320312965
 GameObject:
   m_ObjectHideFlags: 0
@@ -16930,6 +17553,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1335182807
 GameObject:
   m_ObjectHideFlags: 0
@@ -17041,6 +17666,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1335749063
 GameObject:
   m_ObjectHideFlags: 0
@@ -17152,6 +17779,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1343289318
 GameObject:
   m_ObjectHideFlags: 0
@@ -17263,6 +17892,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1343601196
 GameObject:
   m_ObjectHideFlags: 0
@@ -17374,6 +18005,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1347306136
 GameObject:
   m_ObjectHideFlags: 0
@@ -17565,6 +18198,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1370424053
 GameObject:
   m_ObjectHideFlags: 0
@@ -17676,6 +18311,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1370574317
 GameObject:
   m_ObjectHideFlags: 0
@@ -17787,6 +18424,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1390492490
 GameObject:
   m_ObjectHideFlags: 0
@@ -17898,6 +18537,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1391917822
 GameObject:
   m_ObjectHideFlags: 0
@@ -18009,6 +18650,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1396360532
 GameObject:
   m_ObjectHideFlags: 0
@@ -18157,7 +18800,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 697509893}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0.18300001, z: 0}
 --- !u!70 &1396360536
 CapsuleCollider2D:
@@ -19168,6 +19811,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1406334706
 GameObject:
   m_ObjectHideFlags: 0
@@ -19279,6 +19924,115 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
+--- !u!1 &1419506908
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1419506909}
+  - component: {fileID: 1419506911}
+  - component: {fileID: 1419506910}
+  m_Layer: 0
+  m_Name: BlueGhost
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1419506909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419506908}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.0969658, y: -0.014957394, z: 22.53711}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 155577083}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1419506910
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419506908}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.000944823, y: 0.010393083}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.32}
+    newSize: {x: 0.32, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.28031754, y: 0.25764173}
+  m_EdgeRadius: 0
+--- !u!212 &1419506911
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419506908}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 4
+  m_Sprite: {fileID: 21300000, guid: b1c103778cff0734ba96e64755c2fdfa, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1427089361
 GameObject:
   m_ObjectHideFlags: 0
@@ -19390,6 +20144,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1430541908
 GameObject:
   m_ObjectHideFlags: 0
@@ -19501,6 +20257,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1432321704
 GameObject:
   m_ObjectHideFlags: 0
@@ -19612,6 +20370,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1439888225
 GameObject:
   m_ObjectHideFlags: 0
@@ -19723,6 +20483,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1472475031
 GameObject:
   m_ObjectHideFlags: 0
@@ -19834,6 +20596,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1476270592
 GameObject:
   m_ObjectHideFlags: 0
@@ -19863,8 +20627,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1476270592}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.2, y: -0.17, z: 0}
-  m_LocalScale: {x: 1.2067832, y: 1.3457966, z: 1}
+  m_LocalPosition: {x: 17.57, y: 9.261, z: 0}
+  m_LocalScale: {x: 1.3593882, y: 1.3917117, z: 1}
   m_Children: []
   m_Father: {fileID: 263326343}
   m_RootOrder: 0
@@ -20109,6 +20873,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1483985085
 GameObject:
   m_ObjectHideFlags: 0
@@ -20220,6 +20986,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1500957628
 GameObject:
   m_ObjectHideFlags: 0
@@ -20331,6 +21099,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1512690070
 GameObject:
   m_ObjectHideFlags: 0
@@ -20442,6 +21212,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1523542688
 GameObject:
   m_ObjectHideFlags: 0
@@ -20553,6 +21325,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1528373786
 GameObject:
   m_ObjectHideFlags: 0
@@ -20664,6 +21438,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1560797865
 GameObject:
   m_ObjectHideFlags: 0
@@ -20775,6 +21551,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1579682058
 GameObject:
   m_ObjectHideFlags: 0
@@ -20886,6 +21664,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1583298989
 GameObject:
   m_ObjectHideFlags: 0
@@ -20997,6 +21777,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1583654755
 GameObject:
   m_ObjectHideFlags: 0
@@ -21108,6 +21890,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1614266275
 GameObject:
   m_ObjectHideFlags: 0
@@ -21219,6 +22003,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1616471426
 GameObject:
   m_ObjectHideFlags: 0
@@ -21330,6 +22116,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1617945373
 GameObject:
   m_ObjectHideFlags: 0
@@ -21441,6 +22229,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1625665149
 GameObject:
   m_ObjectHideFlags: 0
@@ -21552,6 +22342,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1626102546
 GameObject:
   m_ObjectHideFlags: 0
@@ -21663,6 +22455,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1628041486
 GameObject:
   m_ObjectHideFlags: 0
@@ -21774,6 +22568,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1631865211
 GameObject:
   m_ObjectHideFlags: 0
@@ -21885,6 +22681,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1637701874
 GameObject:
   m_ObjectHideFlags: 0
@@ -21996,6 +22794,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1646082657
 GameObject:
   m_ObjectHideFlags: 0
@@ -22107,6 +22907,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1667336565
 GameObject:
   m_ObjectHideFlags: 0
@@ -22218,6 +23020,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1671250321
 GameObject:
   m_ObjectHideFlags: 0
@@ -22329,6 +23133,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1672156852
 GameObject:
   m_ObjectHideFlags: 0
@@ -22440,6 +23246,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1673340251
 GameObject:
   m_ObjectHideFlags: 0
@@ -22551,6 +23359,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1679589905
 GameObject:
   m_ObjectHideFlags: 0
@@ -22662,6 +23472,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1694707281
 GameObject:
   m_ObjectHideFlags: 0
@@ -22773,6 +23585,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1706054864
 GameObject:
   m_ObjectHideFlags: 0
@@ -22884,6 +23698,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1709692575
 GameObject:
   m_ObjectHideFlags: 0
@@ -22995,6 +23811,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1738845054
 GameObject:
   m_ObjectHideFlags: 0
@@ -23106,6 +23924,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1745576989
 GameObject:
   m_ObjectHideFlags: 0
@@ -23217,6 +24037,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1745943521
 GameObject:
   m_ObjectHideFlags: 0
@@ -23408,6 +24230,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1753898366
 GameObject:
   m_ObjectHideFlags: 0
@@ -23519,6 +24343,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1767491129
 GameObject:
   m_ObjectHideFlags: 0
@@ -23630,6 +24456,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1768114905
 GameObject:
   m_ObjectHideFlags: 0
@@ -23741,6 +24569,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1798099216
 GameObject:
   m_ObjectHideFlags: 0
@@ -23852,6 +24682,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1804532533
 GameObject:
   m_ObjectHideFlags: 0
@@ -23963,6 +24795,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1810231515
 GameObject:
   m_ObjectHideFlags: 0
@@ -24074,6 +24908,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1818849450
 GameObject:
   m_ObjectHideFlags: 0
@@ -24185,6 +25021,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1822994754
 GameObject:
   m_ObjectHideFlags: 0
@@ -24296,6 +25134,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1824429259
 GameObject:
   m_ObjectHideFlags: 0
@@ -24407,6 +25247,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1827945396
 GameObject:
   m_ObjectHideFlags: 0
@@ -24518,6 +25360,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1829765805
 GameObject:
   m_ObjectHideFlags: 0
@@ -24629,6 +25473,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1839748905
 GameObject:
   m_ObjectHideFlags: 0
@@ -24740,6 +25586,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1839803050
 GameObject:
   m_ObjectHideFlags: 0
@@ -24851,6 +25699,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1864263785
 GameObject:
   m_ObjectHideFlags: 0
@@ -24883,7 +25733,7 @@ Transform:
   - {fileID: 405814118}
   - {fileID: 1745943522}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1864393048
 GameObject:
@@ -24996,6 +25846,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1875523626
 GameObject:
   m_ObjectHideFlags: 0
@@ -25107,6 +25959,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1892463176
 GameObject:
   m_ObjectHideFlags: 0
@@ -25218,6 +26072,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1893088376
 GameObject:
   m_ObjectHideFlags: 0
@@ -25329,6 +26185,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1898754903
 GameObject:
   m_ObjectHideFlags: 0
@@ -25440,6 +26298,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1902312162
 GameObject:
   m_ObjectHideFlags: 0
@@ -25551,6 +26411,115 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
+--- !u!1 &1909493950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1909493951}
+  - component: {fileID: 1909493953}
+  - component: {fileID: 1909493952}
+  m_Layer: 0
+  m_Name: PinkyGhost
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1909493951
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909493950}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.49666584, y: -0.012957394, z: 22.53711}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 155577083}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1909493952
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909493950}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.000000014901161, y: 0.009037256}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.32}
+    newSize: {x: 0.32, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.283851, y: 0.26577646}
+  m_EdgeRadius: 0
+--- !u!212 &1909493953
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909493950}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 4
+  m_Sprite: {fileID: 21300000, guid: 8c19e45b8a0beb74fb0fc656e207384c, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1922655824
 GameObject:
   m_ObjectHideFlags: 0
@@ -25662,6 +26631,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1927779575
 GameObject:
   m_ObjectHideFlags: 0
@@ -25773,6 +26744,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1930470805
 GameObject:
   m_ObjectHideFlags: 0
@@ -25884,6 +26857,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1935717187
 GameObject:
   m_ObjectHideFlags: 0
@@ -25995,6 +26970,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1950156155
 GameObject:
   m_ObjectHideFlags: 0
@@ -26106,6 +27083,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1970399050
 GameObject:
   m_ObjectHideFlags: 0
@@ -26217,6 +27196,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1971296321
 GameObject:
   m_ObjectHideFlags: 0
@@ -26328,6 +27309,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1975684211
 GameObject:
   m_ObjectHideFlags: 0
@@ -26439,6 +27422,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1985402684
 GameObject:
   m_ObjectHideFlags: 0
@@ -26550,6 +27535,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1988945423
 GameObject:
   m_ObjectHideFlags: 0
@@ -26661,6 +27648,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1989401121
 GameObject:
   m_ObjectHideFlags: 0
@@ -26772,6 +27761,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1990816837
 GameObject:
   m_ObjectHideFlags: 0
@@ -26883,6 +27874,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2003285883
 GameObject:
   m_ObjectHideFlags: 0
@@ -26994,6 +27987,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2005379578
 GameObject:
   m_ObjectHideFlags: 0
@@ -27105,6 +28100,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2011539502
 GameObject:
   m_ObjectHideFlags: 0
@@ -27216,6 +28213,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2012295544
 GameObject:
   m_ObjectHideFlags: 0
@@ -27327,6 +28326,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2022107764
 GameObject:
   m_ObjectHideFlags: 0
@@ -27438,6 +28439,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2024231452
 GameObject:
   m_ObjectHideFlags: 0
@@ -27549,6 +28552,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2025801856
 GameObject:
   m_ObjectHideFlags: 0
@@ -27660,6 +28665,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2032801776
 GameObject:
   m_ObjectHideFlags: 0
@@ -27771,6 +28778,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2040547249
 GameObject:
   m_ObjectHideFlags: 0
@@ -27882,6 +28891,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2043556337
 GameObject:
   m_ObjectHideFlags: 0
@@ -27993,6 +29004,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2046961536
 GameObject:
   m_ObjectHideFlags: 0
@@ -28104,6 +29117,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2055364980
 GameObject:
   m_ObjectHideFlags: 0
@@ -28215,6 +29230,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2055567888
 GameObject:
   m_ObjectHideFlags: 0
@@ -28326,6 +29343,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2061244269
 GameObject:
   m_ObjectHideFlags: 0
@@ -28437,6 +29456,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2063569417
 GameObject:
   m_ObjectHideFlags: 0
@@ -28548,6 +29569,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2079314608
 GameObject:
   m_ObjectHideFlags: 0
@@ -28659,6 +29682,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2088223586
 GameObject:
   m_ObjectHideFlags: 0
@@ -28705,9 +29730,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.00000018070735}
+  m_Offset: {x: 0, y: -0.03193605}
   serializedVersion: 2
-  m_Radius: 0.8216862
+  m_Radius: 1.2794302
 --- !u!212 &2088223589
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28881,6 +29906,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2110138491
 GameObject:
   m_ObjectHideFlags: 0
@@ -28992,6 +30019,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2124356170
 GameObject:
   m_ObjectHideFlags: 0
@@ -29103,6 +30132,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &2147313316
 GameObject:
   m_ObjectHideFlags: 0
@@ -29214,3 +30245,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFood: 1
+  Player: {fileID: 0}
+  Food: {fileID: 0}
