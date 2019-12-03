@@ -8,8 +8,6 @@ TagManager:
   - blue
   - PacManfood
   - PacManSfood
-  - Wall
-  - Pellet
   layers:
   - Default
   - TransparentFX

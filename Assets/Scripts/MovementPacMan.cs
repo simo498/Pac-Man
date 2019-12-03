@@ -9,13 +9,12 @@ public class MovementPacMan : MonoBehaviour
     const int DOWN_DIRECTION = -90;
     const int LEFT_DIRECTION = -180;
     const int RIGHT_DIRECTION = 0;
-
+    
     Vector2 NextDirection;
     Collider2D pacManCollider;
     Vector2 Direction = Vector2.zero;
 
     public float PacManSpeed;
-
     //Muove PacMan in base al vettore passato come parametro
     void Move(Vector2 direction)
     {
@@ -55,7 +54,7 @@ public class MovementPacMan : MonoBehaviour
     bool IsValid(Vector2 direction)
     {
         Vector2 pos = transform.position;
-        Vector2 linecastVector;
+        Vector2 linecastVector = Vector2.zero;
         if (direction == Vector2.left)
             linecastVector = pos + new Vector2(-0.4f, 0.0f);
         else if (direction == Vector2.right)
@@ -67,8 +66,7 @@ public class MovementPacMan : MonoBehaviour
         else return false;
 
         var hit = Physics2D.Linecast(linecastVector, pos);
-
-        if (hit.collider == pacManCollider || hit.collider.gameObject.tag == "PacManfood")
+        if (hit.collider == pacManCollider)
             return true;
         else return false;
     }
