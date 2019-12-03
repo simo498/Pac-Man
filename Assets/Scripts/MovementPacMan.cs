@@ -83,7 +83,7 @@ public class MovementPacMan : MonoBehaviour
     //CODICE VECCHIO
     Rigidbody2D pacManRB;
     Collider2D _pacManCollider;
-    public float PacManSpeed = 10.0F;
+    public float PacManSpeed;
     public Vector2 direzione = Vector2.left;
     public Vector2 _nextDirection = Vector2.zero;
     void Start()
