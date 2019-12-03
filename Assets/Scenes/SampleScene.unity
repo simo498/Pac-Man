@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 2200603}
   - component: {fileID: 2200604}
   - component: {fileID: 2200605}
+  - component: {fileID: 2200606}
   m_Layer: 0
   m_Name: pellet_energizer (118)
   m_TagString: PacManfood
@@ -233,6 +234,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2200606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2200601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4476788
 GameObject:
   m_ObjectHideFlags: 0
@@ -245,6 +258,7 @@ GameObject:
   - component: {fileID: 4476790}
   - component: {fileID: 4476791}
   - component: {fileID: 4476792}
+  - component: {fileID: 4476793}
   m_Layer: 0
   m_Name: pellet_energizer (82)
   m_TagString: PacManfood
@@ -346,6 +360,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &4476793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4476788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6230273
 GameObject:
   m_ObjectHideFlags: 0
@@ -358,6 +384,7 @@ GameObject:
   - component: {fileID: 6230275}
   - component: {fileID: 6230276}
   - component: {fileID: 6230277}
+  - component: {fileID: 6230278}
   m_Layer: 0
   m_Name: pellet_energizer (197)
   m_TagString: PacManfood
@@ -459,6 +486,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &6230278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &13328101
 GameObject:
   m_ObjectHideFlags: 0
@@ -471,6 +510,7 @@ GameObject:
   - component: {fileID: 13328103}
   - component: {fileID: 13328104}
   - component: {fileID: 13328105}
+  - component: {fileID: 13328106}
   m_Layer: 0
   m_Name: pellet_energizer (108)
   m_TagString: PacManfood
@@ -572,6 +612,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &13328106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13328101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &23374877
 GameObject:
   m_ObjectHideFlags: 0
@@ -584,6 +636,7 @@ GameObject:
   - component: {fileID: 23374879}
   - component: {fileID: 23374880}
   - component: {fileID: 23374881}
+  - component: {fileID: 23374882}
   m_Layer: 0
   m_Name: pellet_energizer (117)
   m_TagString: PacManfood
@@ -685,6 +738,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &23374882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 23374877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &25082373
 GameObject:
   m_ObjectHideFlags: 0
@@ -697,6 +762,7 @@ GameObject:
   - component: {fileID: 25082375}
   - component: {fileID: 25082376}
   - component: {fileID: 25082377}
+  - component: {fileID: 25082378}
   m_Layer: 0
   m_Name: pellet_energizer (159)
   m_TagString: PacManfood
@@ -798,6 +864,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &25082378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 25082373}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &35061931
 GameObject:
   m_ObjectHideFlags: 0
@@ -810,6 +888,7 @@ GameObject:
   - component: {fileID: 35061933}
   - component: {fileID: 35061934}
   - component: {fileID: 35061935}
+  - component: {fileID: 35061936}
   m_Layer: 0
   m_Name: pellet_energizer (231)
   m_TagString: PacManfood
@@ -911,6 +990,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &35061936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 35061931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &40933598
 GameObject:
   m_ObjectHideFlags: 0
@@ -923,6 +1014,7 @@ GameObject:
   - component: {fileID: 40933600}
   - component: {fileID: 40933601}
   - component: {fileID: 40933602}
+  - component: {fileID: 40933603}
   m_Layer: 0
   m_Name: pellet_energizer (189)
   m_TagString: PacManfood
@@ -1024,6 +1116,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &40933603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 40933598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &75954770
 GameObject:
   m_ObjectHideFlags: 0
@@ -1036,6 +1140,7 @@ GameObject:
   - component: {fileID: 75954772}
   - component: {fileID: 75954773}
   - component: {fileID: 75954774}
+  - component: {fileID: 75954775}
   m_Layer: 0
   m_Name: pellet_energizer (144)
   m_TagString: PacManfood
@@ -1137,6 +1242,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &75954775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 75954770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &100468930
 GameObject:
   m_ObjectHideFlags: 0
@@ -1149,6 +1266,7 @@ GameObject:
   - component: {fileID: 100468932}
   - component: {fileID: 100468933}
   - component: {fileID: 100468934}
+  - component: {fileID: 100468935}
   m_Layer: 0
   m_Name: pellet_energizer (170)
   m_TagString: PacManfood
@@ -1250,6 +1368,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &100468935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100468930}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &102244067
 GameObject:
   m_ObjectHideFlags: 0
@@ -1262,6 +1392,7 @@ GameObject:
   - component: {fileID: 102244069}
   - component: {fileID: 102244070}
   - component: {fileID: 102244071}
+  - component: {fileID: 102244072}
   m_Layer: 0
   m_Name: pellet_energizer (211)
   m_TagString: PacManfood
@@ -1363,6 +1494,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &102244072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 102244067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &109415196
 GameObject:
   m_ObjectHideFlags: 0
@@ -1375,6 +1518,7 @@ GameObject:
   - component: {fileID: 109415198}
   - component: {fileID: 109415199}
   - component: {fileID: 109415200}
+  - component: {fileID: 109415201}
   m_Layer: 0
   m_Name: pellet_energizer (254)
   m_TagString: PacManfood
@@ -1476,6 +1620,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &109415201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 109415196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &110922107
 GameObject:
   m_ObjectHideFlags: 0
@@ -1488,6 +1644,7 @@ GameObject:
   - component: {fileID: 110922109}
   - component: {fileID: 110922110}
   - component: {fileID: 110922111}
+  - component: {fileID: 110922112}
   m_Layer: 0
   m_Name: pellet_energizer (206)
   m_TagString: PacManfood
@@ -1589,6 +1746,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &110922112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 110922107}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &115469993
 GameObject:
   m_ObjectHideFlags: 0
@@ -1601,6 +1770,7 @@ GameObject:
   - component: {fileID: 115469995}
   - component: {fileID: 115469996}
   - component: {fileID: 115469997}
+  - component: {fileID: 115469998}
   m_Layer: 0
   m_Name: pellet_energizer (227)
   m_TagString: PacManfood
@@ -1702,6 +1872,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &115469998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115469993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &119496284
 GameObject:
   m_ObjectHideFlags: 0
@@ -1714,6 +1896,7 @@ GameObject:
   - component: {fileID: 119496286}
   - component: {fileID: 119496287}
   - component: {fileID: 119496288}
+  - component: {fileID: 119496289}
   m_Layer: 0
   m_Name: pellet_energizer (167)
   m_TagString: PacManfood
@@ -1815,6 +1998,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &119496289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119496284}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &123322783
 GameObject:
   m_ObjectHideFlags: 0
@@ -1827,6 +2022,7 @@ GameObject:
   - component: {fileID: 123322785}
   - component: {fileID: 123322786}
   - component: {fileID: 123322787}
+  - component: {fileID: 123322788}
   m_Layer: 0
   m_Name: pellet_energizer (155)
   m_TagString: PacManfood
@@ -1928,6 +2124,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &123322788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123322783}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &136665408
 GameObject:
   m_ObjectHideFlags: 0
@@ -1940,6 +2148,7 @@ GameObject:
   - component: {fileID: 136665410}
   - component: {fileID: 136665411}
   - component: {fileID: 136665412}
+  - component: {fileID: 136665413}
   m_Layer: 0
   m_Name: pellet_energizer (257)
   m_TagString: PacManfood
@@ -2041,6 +2250,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &136665413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136665408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &146209594
 GameObject:
   m_ObjectHideFlags: 0
@@ -2053,6 +2274,7 @@ GameObject:
   - component: {fileID: 146209596}
   - component: {fileID: 146209597}
   - component: {fileID: 146209598}
+  - component: {fileID: 146209599}
   m_Layer: 0
   m_Name: pellet_energizer (232)
   m_TagString: PacManfood
@@ -2154,6 +2376,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &146209599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146209594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &148437636
 GameObject:
   m_ObjectHideFlags: 0
@@ -2166,6 +2400,7 @@ GameObject:
   - component: {fileID: 148437638}
   - component: {fileID: 148437639}
   - component: {fileID: 148437640}
+  - component: {fileID: 148437641}
   m_Layer: 0
   m_Name: pellet_energizer (266)
   m_TagString: PacManfood
@@ -2267,6 +2502,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &148437641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148437636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &155577082
 GameObject:
   m_ObjectHideFlags: 0
@@ -2313,6 +2560,7 @@ GameObject:
   - component: {fileID: 167178024}
   - component: {fileID: 167178025}
   - component: {fileID: 167178026}
+  - component: {fileID: 167178027}
   m_Layer: 0
   m_Name: pellet_energizer (179)
   m_TagString: PacManfood
@@ -2414,6 +2662,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &167178027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 167178022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &167226545
 GameObject:
   m_ObjectHideFlags: 0
@@ -2426,6 +2686,7 @@ GameObject:
   - component: {fileID: 167226547}
   - component: {fileID: 167226548}
   - component: {fileID: 167226549}
+  - component: {fileID: 167226550}
   m_Layer: 0
   m_Name: pellet_energizer (20)
   m_TagString: PacManfood
@@ -2527,6 +2788,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &167226550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 167226545}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &175185046
 GameObject:
   m_ObjectHideFlags: 0
@@ -2539,6 +2812,7 @@ GameObject:
   - component: {fileID: 175185048}
   - component: {fileID: 175185049}
   - component: {fileID: 175185050}
+  - component: {fileID: 175185051}
   m_Layer: 0
   m_Name: pellet_energizer (60)
   m_TagString: PacManfood
@@ -2640,6 +2914,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &175185051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 175185046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &176176076
 GameObject:
   m_ObjectHideFlags: 0
@@ -2652,6 +2938,7 @@ GameObject:
   - component: {fileID: 176176078}
   - component: {fileID: 176176079}
   - component: {fileID: 176176080}
+  - component: {fileID: 176176081}
   m_Layer: 0
   m_Name: pellet_energizer (213)
   m_TagString: PacManfood
@@ -2753,6 +3040,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &176176081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 176176076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &197108453
 GameObject:
   m_ObjectHideFlags: 0
@@ -2765,6 +3064,7 @@ GameObject:
   - component: {fileID: 197108455}
   - component: {fileID: 197108456}
   - component: {fileID: 197108457}
+  - component: {fileID: 197108458}
   m_Layer: 0
   m_Name: pellet_energizer (224)
   m_TagString: PacManfood
@@ -2866,6 +3166,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &197108458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 197108453}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &212175640
 GameObject:
   m_ObjectHideFlags: 0
@@ -2878,6 +3190,7 @@ GameObject:
   - component: {fileID: 212175642}
   - component: {fileID: 212175643}
   - component: {fileID: 212175644}
+  - component: {fileID: 212175645}
   m_Layer: 0
   m_Name: pellet_energizer (244)
   m_TagString: PacManfood
@@ -2979,6 +3292,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &212175645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 212175640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &222722434
 GameObject:
   m_ObjectHideFlags: 0
@@ -2991,6 +3316,7 @@ GameObject:
   - component: {fileID: 222722436}
   - component: {fileID: 222722437}
   - component: {fileID: 222722438}
+  - component: {fileID: 222722439}
   m_Layer: 0
   m_Name: pellet_energizer (162)
   m_TagString: PacManfood
@@ -3092,6 +3418,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &222722439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 222722434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &227315274
 GameObject:
   m_ObjectHideFlags: 0
@@ -3104,6 +3442,7 @@ GameObject:
   - component: {fileID: 227315276}
   - component: {fileID: 227315277}
   - component: {fileID: 227315278}
+  - component: {fileID: 227315279}
   m_Layer: 0
   m_Name: pellet_energizer (168)
   m_TagString: PacManfood
@@ -3205,6 +3544,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &227315279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 227315274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &228537708
 GameObject:
   m_ObjectHideFlags: 0
@@ -3217,6 +3568,7 @@ GameObject:
   - component: {fileID: 228537710}
   - component: {fileID: 228537711}
   - component: {fileID: 228537712}
+  - component: {fileID: 228537713}
   m_Layer: 0
   m_Name: pellet_energizer (90)
   m_TagString: PacManfood
@@ -3318,6 +3670,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &228537713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 228537708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &234496636
 GameObject:
   m_ObjectHideFlags: 0
@@ -3330,6 +3694,7 @@ GameObject:
   - component: {fileID: 234496638}
   - component: {fileID: 234496639}
   - component: {fileID: 234496640}
+  - component: {fileID: 234496641}
   m_Layer: 0
   m_Name: pellet_energizer (84)
   m_TagString: PacManfood
@@ -3431,6 +3796,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &234496641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 234496636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &245092219
 GameObject:
   m_ObjectHideFlags: 0
@@ -3443,6 +3820,7 @@ GameObject:
   - component: {fileID: 245092221}
   - component: {fileID: 245092222}
   - component: {fileID: 245092223}
+  - component: {fileID: 245092224}
   m_Layer: 0
   m_Name: pellet_energizer (58)
   m_TagString: PacManfood
@@ -3544,6 +3922,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &245092224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245092219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &263277119
 GameObject:
   m_ObjectHideFlags: 0
@@ -3556,6 +3946,7 @@ GameObject:
   - component: {fileID: 263277121}
   - component: {fileID: 263277122}
   - component: {fileID: 263277123}
+  - component: {fileID: 263277124}
   m_Layer: 0
   m_Name: pellet_energizer (45)
   m_TagString: PacManfood
@@ -3657,6 +4048,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &263277124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263277119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &263326342
 GameObject:
   m_ObjectHideFlags: 0
@@ -3700,6 +4103,7 @@ GameObject:
   - component: {fileID: 267108141}
   - component: {fileID: 267108142}
   - component: {fileID: 267108143}
+  - component: {fileID: 267108144}
   m_Layer: 0
   m_Name: pellet_energizer (43)
   m_TagString: PacManfood
@@ -3801,6 +4205,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &267108144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 267108139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &272383003
 GameObject:
   m_ObjectHideFlags: 0
@@ -3813,6 +4229,7 @@ GameObject:
   - component: {fileID: 272383005}
   - component: {fileID: 272383006}
   - component: {fileID: 272383007}
+  - component: {fileID: 272383008}
   m_Layer: 0
   m_Name: pellet_energizer (46)
   m_TagString: PacManfood
@@ -3914,6 +4331,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &272383008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272383003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &273718638
 GameObject:
   m_ObjectHideFlags: 0
@@ -3926,6 +4355,7 @@ GameObject:
   - component: {fileID: 273718640}
   - component: {fileID: 273718641}
   - component: {fileID: 273718642}
+  - component: {fileID: 273718643}
   m_Layer: 0
   m_Name: pellet_energizer (19)
   m_TagString: PacManfood
@@ -4027,6 +4457,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &273718643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 273718638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &278758913
 GameObject:
   m_ObjectHideFlags: 0
@@ -4039,6 +4481,7 @@ GameObject:
   - component: {fileID: 278758915}
   - component: {fileID: 278758916}
   - component: {fileID: 278758917}
+  - component: {fileID: 278758918}
   m_Layer: 0
   m_Name: pellet_energizer (105)
   m_TagString: PacManfood
@@ -4140,6 +4583,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &278758918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 278758913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &286080666
 GameObject:
   m_ObjectHideFlags: 0
@@ -4152,6 +4607,7 @@ GameObject:
   - component: {fileID: 286080668}
   - component: {fileID: 286080669}
   - component: {fileID: 286080670}
+  - component: {fileID: 286080671}
   m_Layer: 0
   m_Name: pellet_energizer (239)
   m_TagString: PacManfood
@@ -4253,6 +4709,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &286080671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 286080666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &299792406
 GameObject:
   m_ObjectHideFlags: 0
@@ -4265,6 +4733,7 @@ GameObject:
   - component: {fileID: 299792408}
   - component: {fileID: 299792409}
   - component: {fileID: 299792410}
+  - component: {fileID: 299792411}
   m_Layer: 0
   m_Name: pellet_energizer (104)
   m_TagString: PacManfood
@@ -4366,6 +4835,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &299792411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 299792406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &326836462
 GameObject:
   m_ObjectHideFlags: 0
@@ -4378,6 +4859,7 @@ GameObject:
   - component: {fileID: 326836464}
   - component: {fileID: 326836465}
   - component: {fileID: 326836466}
+  - component: {fileID: 326836467}
   m_Layer: 0
   m_Name: pellet_energizer (180)
   m_TagString: PacManfood
@@ -4479,6 +4961,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &326836467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 326836462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &328506666
 GameObject:
   m_ObjectHideFlags: 0
@@ -4491,6 +4985,7 @@ GameObject:
   - component: {fileID: 328506668}
   - component: {fileID: 328506669}
   - component: {fileID: 328506670}
+  - component: {fileID: 328506671}
   m_Layer: 0
   m_Name: pellet_energizer (40)
   m_TagString: PacManfood
@@ -4592,6 +5087,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &328506671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328506666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &330223222
 GameObject:
   m_ObjectHideFlags: 0
@@ -4604,6 +5111,7 @@ GameObject:
   - component: {fileID: 330223224}
   - component: {fileID: 330223225}
   - component: {fileID: 330223226}
+  - component: {fileID: 330223227}
   m_Layer: 0
   m_Name: pellet_energizer (69)
   m_TagString: PacManfood
@@ -4705,6 +5213,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &330223227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330223222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &337170747
 GameObject:
   m_ObjectHideFlags: 0
@@ -4717,6 +5237,7 @@ GameObject:
   - component: {fileID: 337170749}
   - component: {fileID: 337170750}
   - component: {fileID: 337170751}
+  - component: {fileID: 337170752}
   m_Layer: 0
   m_Name: pellet_energizer (198)
   m_TagString: PacManfood
@@ -4818,6 +5339,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &337170752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 337170747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &347758421
 GameObject:
   m_ObjectHideFlags: 0
@@ -4830,6 +5363,7 @@ GameObject:
   - component: {fileID: 347758423}
   - component: {fileID: 347758424}
   - component: {fileID: 347758425}
+  - component: {fileID: 347758426}
   m_Layer: 0
   m_Name: pellet_energizer (245)
   m_TagString: PacManfood
@@ -4931,6 +5465,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &347758426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 347758421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &348367629
 GameObject:
   m_ObjectHideFlags: 0
@@ -4943,6 +5489,7 @@ GameObject:
   - component: {fileID: 348367631}
   - component: {fileID: 348367632}
   - component: {fileID: 348367633}
+  - component: {fileID: 348367634}
   m_Layer: 0
   m_Name: pellet_energizer (186)
   m_TagString: PacManfood
@@ -5044,6 +5591,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &348367634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 348367629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &348981905
 GameObject:
   m_ObjectHideFlags: 0
@@ -5056,6 +5615,7 @@ GameObject:
   - component: {fileID: 348981907}
   - component: {fileID: 348981908}
   - component: {fileID: 348981909}
+  - component: {fileID: 348981910}
   m_Layer: 0
   m_Name: pellet_energizer (185)
   m_TagString: PacManfood
@@ -5157,6 +5717,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &348981910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 348981905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &350864948
 GameObject:
   m_ObjectHideFlags: 0
@@ -5169,6 +5741,7 @@ GameObject:
   - component: {fileID: 350864950}
   - component: {fileID: 350864951}
   - component: {fileID: 350864952}
+  - component: {fileID: 350864953}
   m_Layer: 0
   m_Name: pellet_energizer (260)
   m_TagString: PacManfood
@@ -5270,6 +5843,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &350864953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350864948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &352382954
 GameObject:
   m_ObjectHideFlags: 0
@@ -5282,6 +5867,7 @@ GameObject:
   - component: {fileID: 352382956}
   - component: {fileID: 352382957}
   - component: {fileID: 352382958}
+  - component: {fileID: 352382959}
   m_Layer: 0
   m_Name: pellet_energizer (178)
   m_TagString: PacManfood
@@ -5383,6 +5969,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &352382959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352382954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &353219499
 GameObject:
   m_ObjectHideFlags: 0
@@ -5395,6 +5993,7 @@ GameObject:
   - component: {fileID: 353219501}
   - component: {fileID: 353219502}
   - component: {fileID: 353219503}
+  - component: {fileID: 353219504}
   m_Layer: 0
   m_Name: pellet_energizer (181)
   m_TagString: PacManfood
@@ -5496,6 +6095,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &353219504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 353219499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &372796314
 GameObject:
   m_ObjectHideFlags: 0
@@ -5508,6 +6119,7 @@ GameObject:
   - component: {fileID: 372796316}
   - component: {fileID: 372796317}
   - component: {fileID: 372796318}
+  - component: {fileID: 372796319}
   m_Layer: 0
   m_Name: pellet_energizer (33)
   m_TagString: PacManfood
@@ -5609,6 +6221,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &372796319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 372796314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &386200202
 GameObject:
   m_ObjectHideFlags: 0
@@ -5621,6 +6245,7 @@ GameObject:
   - component: {fileID: 386200204}
   - component: {fileID: 386200205}
   - component: {fileID: 386200206}
+  - component: {fileID: 386200207}
   m_Layer: 0
   m_Name: pellet_energizer (131)
   m_TagString: PacManfood
@@ -5722,6 +6347,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &386200207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 386200202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &386826355
 GameObject:
   m_ObjectHideFlags: 0
@@ -5734,6 +6371,7 @@ GameObject:
   - component: {fileID: 386826357}
   - component: {fileID: 386826358}
   - component: {fileID: 386826359}
+  - component: {fileID: 386826360}
   m_Layer: 0
   m_Name: pellet_energizer (247)
   m_TagString: PacManfood
@@ -5835,6 +6473,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &386826360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 386826355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &388360386
 GameObject:
   m_ObjectHideFlags: 0
@@ -5847,6 +6497,7 @@ GameObject:
   - component: {fileID: 388360388}
   - component: {fileID: 388360389}
   - component: {fileID: 388360390}
+  - component: {fileID: 388360391}
   m_Layer: 0
   m_Name: pellet_energizer (111)
   m_TagString: PacManfood
@@ -5948,6 +6599,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &388360391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 388360386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &388913181
 GameObject:
   m_ObjectHideFlags: 0
@@ -5960,6 +6623,7 @@ GameObject:
   - component: {fileID: 388913183}
   - component: {fileID: 388913184}
   - component: {fileID: 388913185}
+  - component: {fileID: 388913186}
   m_Layer: 0
   m_Name: pellet_energizer (261)
   m_TagString: PacManfood
@@ -6061,6 +6725,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &388913186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 388913181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &392163733
 GameObject:
   m_ObjectHideFlags: 0
@@ -6073,6 +6749,7 @@ GameObject:
   - component: {fileID: 392163735}
   - component: {fileID: 392163736}
   - component: {fileID: 392163737}
+  - component: {fileID: 392163738}
   m_Layer: 0
   m_Name: pellet_energizer (42)
   m_TagString: PacManfood
@@ -6174,6 +6851,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &392163738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 392163733}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &395950132
 GameObject:
   m_ObjectHideFlags: 0
@@ -6186,6 +6875,7 @@ GameObject:
   - component: {fileID: 395950134}
   - component: {fileID: 395950135}
   - component: {fileID: 395950136}
+  - component: {fileID: 395950137}
   m_Layer: 0
   m_Name: pellet_energizer (91)
   m_TagString: PacManfood
@@ -6287,6 +6977,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &395950137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 395950132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &396929413
 GameObject:
   m_ObjectHideFlags: 0
@@ -6299,6 +7001,7 @@ GameObject:
   - component: {fileID: 396929415}
   - component: {fileID: 396929416}
   - component: {fileID: 396929417}
+  - component: {fileID: 396929418}
   m_Layer: 0
   m_Name: pellet_energizer (36)
   m_TagString: PacManfood
@@ -6400,6 +7103,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &396929418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 396929413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &397901001
 GameObject:
   m_ObjectHideFlags: 0
@@ -6412,6 +7127,7 @@ GameObject:
   - component: {fileID: 397901003}
   - component: {fileID: 397901004}
   - component: {fileID: 397901005}
+  - component: {fileID: 397901006}
   m_Layer: 0
   m_Name: pellet_energizer (259)
   m_TagString: PacManfood
@@ -6513,6 +7229,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &397901006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 397901001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &399951741
 GameObject:
   m_ObjectHideFlags: 0
@@ -6525,6 +7253,7 @@ GameObject:
   - component: {fileID: 399951743}
   - component: {fileID: 399951744}
   - component: {fileID: 399951745}
+  - component: {fileID: 399951746}
   m_Layer: 0
   m_Name: pellet_energizer (120)
   m_TagString: PacManfood
@@ -6626,6 +7355,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &399951746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 399951741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &401875866
 GameObject:
   m_ObjectHideFlags: 0
@@ -6638,6 +7379,7 @@ GameObject:
   - component: {fileID: 401875868}
   - component: {fileID: 401875869}
   - component: {fileID: 401875870}
+  - component: {fileID: 401875871}
   m_Layer: 0
   m_Name: pellet_energizer (142)
   m_TagString: PacManfood
@@ -6739,6 +7481,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &401875871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 401875866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &405814117
 GameObject:
   m_ObjectHideFlags: 0
@@ -6831,6 +7585,7 @@ GameObject:
   - component: {fileID: 407903494}
   - component: {fileID: 407903495}
   - component: {fileID: 407903496}
+  - component: {fileID: 407903497}
   m_Layer: 0
   m_Name: pellet_energizer (238)
   m_TagString: PacManfood
@@ -6932,6 +7687,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &407903497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 407903492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &408530810
 GameObject:
   m_ObjectHideFlags: 0
@@ -6944,6 +7711,7 @@ GameObject:
   - component: {fileID: 408530812}
   - component: {fileID: 408530813}
   - component: {fileID: 408530814}
+  - component: {fileID: 408530815}
   m_Layer: 0
   m_Name: pellet_energizer (52)
   m_TagString: PacManfood
@@ -7045,6 +7813,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &408530815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 408530810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &412850196
 GameObject:
   m_ObjectHideFlags: 0
@@ -7057,6 +7837,7 @@ GameObject:
   - component: {fileID: 412850198}
   - component: {fileID: 412850199}
   - component: {fileID: 412850200}
+  - component: {fileID: 412850201}
   m_Layer: 0
   m_Name: pellet_energizer (119)
   m_TagString: PacManfood
@@ -7158,6 +7939,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &412850201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 412850196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &415531359
 GameObject:
   m_ObjectHideFlags: 0
@@ -7170,6 +7963,7 @@ GameObject:
   - component: {fileID: 415531361}
   - component: {fileID: 415531362}
   - component: {fileID: 415531363}
+  - component: {fileID: 415531364}
   m_Layer: 0
   m_Name: pellet_energizer (158)
   m_TagString: PacManfood
@@ -7271,6 +8065,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &415531364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415531359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &422569223
 GameObject:
   m_ObjectHideFlags: 0
@@ -7283,6 +8089,7 @@ GameObject:
   - component: {fileID: 422569225}
   - component: {fileID: 422569226}
   - component: {fileID: 422569227}
+  - component: {fileID: 422569228}
   m_Layer: 0
   m_Name: pellet_energizer (172)
   m_TagString: PacManfood
@@ -7384,6 +8191,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &422569228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 422569223}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &428015626
 GameObject:
   m_ObjectHideFlags: 0
@@ -7396,6 +8215,7 @@ GameObject:
   - component: {fileID: 428015628}
   - component: {fileID: 428015629}
   - component: {fileID: 428015630}
+  - component: {fileID: 428015631}
   m_Layer: 0
   m_Name: pellet_energizer (102)
   m_TagString: PacManfood
@@ -7497,6 +8317,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &428015631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 428015626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &451554737
 GameObject:
   m_ObjectHideFlags: 0
@@ -7509,6 +8341,7 @@ GameObject:
   - component: {fileID: 451554739}
   - component: {fileID: 451554740}
   - component: {fileID: 451554741}
+  - component: {fileID: 451554742}
   m_Layer: 0
   m_Name: pellet_energizer (75)
   m_TagString: PacManfood
@@ -7610,6 +8443,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &451554742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 451554737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &468704880
 GameObject:
   m_ObjectHideFlags: 0
@@ -7622,6 +8467,7 @@ GameObject:
   - component: {fileID: 468704882}
   - component: {fileID: 468704883}
   - component: {fileID: 468704884}
+  - component: {fileID: 468704885}
   m_Layer: 0
   m_Name: pellet_energizer (114)
   m_TagString: PacManfood
@@ -7723,6 +8569,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &468704885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 468704880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &491387602
 GameObject:
   m_ObjectHideFlags: 0
@@ -7735,6 +8593,7 @@ GameObject:
   - component: {fileID: 491387604}
   - component: {fileID: 491387605}
   - component: {fileID: 491387606}
+  - component: {fileID: 491387607}
   m_Layer: 0
   m_Name: pellet_energizer (174)
   m_TagString: PacManfood
@@ -7836,6 +8695,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &491387607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 491387602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -7931,6 +8802,7 @@ GameObject:
   - component: {fileID: 528756784}
   - component: {fileID: 528756785}
   - component: {fileID: 528756786}
+  - component: {fileID: 528756787}
   m_Layer: 0
   m_Name: pellet_energizer (243)
   m_TagString: PacManfood
@@ -8032,6 +8904,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &528756787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 528756782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &571421322
 GameObject:
   m_ObjectHideFlags: 0
@@ -8044,6 +8928,7 @@ GameObject:
   - component: {fileID: 571421324}
   - component: {fileID: 571421325}
   - component: {fileID: 571421326}
+  - component: {fileID: 571421327}
   m_Layer: 0
   m_Name: pellet_energizer (156)
   m_TagString: PacManfood
@@ -8145,6 +9030,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &571421327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 571421322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &575087317
 GameObject:
   m_ObjectHideFlags: 0
@@ -8157,6 +9054,7 @@ GameObject:
   - component: {fileID: 575087319}
   - component: {fileID: 575087320}
   - component: {fileID: 575087321}
+  - component: {fileID: 575087322}
   m_Layer: 0
   m_Name: pellet_energizer (150)
   m_TagString: PacManfood
@@ -8258,6 +9156,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &575087322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 575087317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &577426636
 GameObject:
   m_ObjectHideFlags: 0
@@ -8270,6 +9180,7 @@ GameObject:
   - component: {fileID: 577426638}
   - component: {fileID: 577426639}
   - component: {fileID: 577426640}
+  - component: {fileID: 577426641}
   m_Layer: 0
   m_Name: pellet_energizer (163)
   m_TagString: PacManfood
@@ -8371,6 +9282,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &577426641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 577426636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &593472622
 GameObject:
   m_ObjectHideFlags: 0
@@ -8383,6 +9306,7 @@ GameObject:
   - component: {fileID: 593472624}
   - component: {fileID: 593472625}
   - component: {fileID: 593472626}
+  - component: {fileID: 593472627}
   m_Layer: 0
   m_Name: pellet_energizer (221)
   m_TagString: PacManfood
@@ -8484,6 +9408,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &593472627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 593472622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &617251563
 GameObject:
   m_ObjectHideFlags: 0
@@ -8496,6 +9432,7 @@ GameObject:
   - component: {fileID: 617251565}
   - component: {fileID: 617251566}
   - component: {fileID: 617251567}
+  - component: {fileID: 617251568}
   m_Layer: 0
   m_Name: pellet_energizer (220)
   m_TagString: PacManfood
@@ -8597,6 +9534,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &617251568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 617251563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &619198259
 GameObject:
   m_ObjectHideFlags: 0
@@ -8609,6 +9558,7 @@ GameObject:
   - component: {fileID: 619198261}
   - component: {fileID: 619198262}
   - component: {fileID: 619198263}
+  - component: {fileID: 619198264}
   m_Layer: 0
   m_Name: pellet_energizer (215)
   m_TagString: PacManfood
@@ -8710,6 +9660,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &619198264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 619198259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &637934190
 GameObject:
   m_ObjectHideFlags: 0
@@ -8722,6 +9684,7 @@ GameObject:
   - component: {fileID: 637934192}
   - component: {fileID: 637934193}
   - component: {fileID: 637934194}
+  - component: {fileID: 637934195}
   m_Layer: 0
   m_Name: pellet_energizer (199)
   m_TagString: PacManfood
@@ -8823,6 +9786,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &637934195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 637934190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &642580294
 GameObject:
   m_ObjectHideFlags: 0
@@ -8835,6 +9810,7 @@ GameObject:
   - component: {fileID: 642580296}
   - component: {fileID: 642580297}
   - component: {fileID: 642580298}
+  - component: {fileID: 642580299}
   m_Layer: 0
   m_Name: pellet_energizer (97)
   m_TagString: PacManfood
@@ -8936,6 +9912,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &642580299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 642580294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &643424849
 GameObject:
   m_ObjectHideFlags: 0
@@ -8948,6 +9936,7 @@ GameObject:
   - component: {fileID: 643424851}
   - component: {fileID: 643424852}
   - component: {fileID: 643424853}
+  - component: {fileID: 643424854}
   m_Layer: 0
   m_Name: pellet_energizer (146)
   m_TagString: PacManfood
@@ -9049,6 +10038,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &643424854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 643424849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &654716690
 GameObject:
   m_ObjectHideFlags: 0
@@ -9061,6 +10062,7 @@ GameObject:
   - component: {fileID: 654716692}
   - component: {fileID: 654716693}
   - component: {fileID: 654716694}
+  - component: {fileID: 654716695}
   m_Layer: 0
   m_Name: pellet_energizer (270)
   m_TagString: PacManfood
@@ -9162,6 +10164,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &654716695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654716690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &672336846
 GameObject:
   m_ObjectHideFlags: 0
@@ -9174,6 +10188,7 @@ GameObject:
   - component: {fileID: 672336848}
   - component: {fileID: 672336849}
   - component: {fileID: 672336850}
+  - component: {fileID: 672336851}
   m_Layer: 0
   m_Name: pellet_energizer (133)
   m_TagString: PacManfood
@@ -9275,6 +10290,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &672336851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 672336846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &697509892
 GameObject:
   m_ObjectHideFlags: 0
@@ -9319,6 +10346,7 @@ GameObject:
   - component: {fileID: 699428779}
   - component: {fileID: 699428780}
   - component: {fileID: 699428781}
+  - component: {fileID: 699428782}
   m_Layer: 0
   m_Name: pellet_energizer (222)
   m_TagString: PacManfood
@@ -9420,6 +10448,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &699428782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 699428777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &702291583
 GameObject:
   m_ObjectHideFlags: 0
@@ -9432,6 +10472,7 @@ GameObject:
   - component: {fileID: 702291585}
   - component: {fileID: 702291586}
   - component: {fileID: 702291587}
+  - component: {fileID: 702291588}
   m_Layer: 0
   m_Name: pellet_energizer (234)
   m_TagString: PacManfood
@@ -9533,6 +10574,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &702291588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 702291583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &703040738
 GameObject:
   m_ObjectHideFlags: 0
@@ -9832,6 +10885,7 @@ GameObject:
   - component: {fileID: 722017619}
   - component: {fileID: 722017620}
   - component: {fileID: 722017621}
+  - component: {fileID: 722017622}
   m_Layer: 0
   m_Name: pellet_energizer (173)
   m_TagString: PacManfood
@@ -9933,6 +10987,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &722017622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722017617}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &732289808
 GameObject:
   m_ObjectHideFlags: 0
@@ -9945,6 +11011,7 @@ GameObject:
   - component: {fileID: 732289810}
   - component: {fileID: 732289811}
   - component: {fileID: 732289812}
+  - component: {fileID: 732289813}
   m_Layer: 0
   m_Name: pellet_energizer (64)
   m_TagString: PacManfood
@@ -10046,6 +11113,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &732289813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 732289808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &737074368
 GameObject:
   m_ObjectHideFlags: 0
@@ -10058,6 +11137,7 @@ GameObject:
   - component: {fileID: 737074370}
   - component: {fileID: 737074371}
   - component: {fileID: 737074372}
+  - component: {fileID: 737074373}
   m_Layer: 0
   m_Name: pellet_energizer (136)
   m_TagString: PacManfood
@@ -10159,6 +11239,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &737074373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 737074368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &759911869
 GameObject:
   m_ObjectHideFlags: 0
@@ -10171,6 +11263,7 @@ GameObject:
   - component: {fileID: 759911871}
   - component: {fileID: 759911872}
   - component: {fileID: 759911873}
+  - component: {fileID: 759911874}
   m_Layer: 0
   m_Name: pellet_energizer (194)
   m_TagString: PacManfood
@@ -10272,6 +11365,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &759911874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 759911869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &762113003
 GameObject:
   m_ObjectHideFlags: 0
@@ -10284,6 +11389,7 @@ GameObject:
   - component: {fileID: 762113005}
   - component: {fileID: 762113006}
   - component: {fileID: 762113007}
+  - component: {fileID: 762113008}
   m_Layer: 0
   m_Name: pellet_energizer (184)
   m_TagString: PacManfood
@@ -10385,6 +11491,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &762113008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 762113003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &774207181
 GameObject:
   m_ObjectHideFlags: 0
@@ -10397,6 +11515,7 @@ GameObject:
   - component: {fileID: 774207183}
   - component: {fileID: 774207184}
   - component: {fileID: 774207185}
+  - component: {fileID: 774207186}
   m_Layer: 0
   m_Name: pellet_energizer (154)
   m_TagString: PacManfood
@@ -10498,6 +11617,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &774207186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 774207181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &788025693
 GameObject:
   m_ObjectHideFlags: 0
@@ -10510,6 +11641,7 @@ GameObject:
   - component: {fileID: 788025695}
   - component: {fileID: 788025696}
   - component: {fileID: 788025697}
+  - component: {fileID: 788025698}
   m_Layer: 0
   m_Name: pellet_energizer (177)
   m_TagString: PacManfood
@@ -10611,6 +11743,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &788025698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 788025693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &795900322
 GameObject:
   m_ObjectHideFlags: 0
@@ -10623,6 +11767,7 @@ GameObject:
   - component: {fileID: 795900324}
   - component: {fileID: 795900325}
   - component: {fileID: 795900326}
+  - component: {fileID: 795900327}
   m_Layer: 0
   m_Name: pellet_energizer (53)
   m_TagString: PacManfood
@@ -10724,6 +11869,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &795900327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 795900322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &799265898
 GameObject:
   m_ObjectHideFlags: 0
@@ -10736,6 +11893,7 @@ GameObject:
   - component: {fileID: 799265900}
   - component: {fileID: 799265901}
   - component: {fileID: 799265902}
+  - component: {fileID: 799265903}
   m_Layer: 0
   m_Name: pellet_energizer (99)
   m_TagString: PacManfood
@@ -10837,6 +11995,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &799265903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 799265898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &808348608
 GameObject:
   m_ObjectHideFlags: 0
@@ -10849,6 +12019,7 @@ GameObject:
   - component: {fileID: 808348610}
   - component: {fileID: 808348611}
   - component: {fileID: 808348612}
+  - component: {fileID: 808348613}
   m_Layer: 0
   m_Name: pellet_energizer (262)
   m_TagString: PacManfood
@@ -10950,6 +12121,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &808348613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 808348608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &815448602
 GameObject:
   m_ObjectHideFlags: 0
@@ -10962,6 +12145,7 @@ GameObject:
   - component: {fileID: 815448604}
   - component: {fileID: 815448605}
   - component: {fileID: 815448606}
+  - component: {fileID: 815448607}
   m_Layer: 0
   m_Name: pellet_energizer (138)
   m_TagString: PacManfood
@@ -11063,6 +12247,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &815448607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 815448602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &824068394
 GameObject:
   m_ObjectHideFlags: 0
@@ -11293,6 +12489,7 @@ GameObject:
   - component: {fileID: 844846966}
   - component: {fileID: 844846967}
   - component: {fileID: 844846968}
+  - component: {fileID: 844846969}
   m_Layer: 0
   m_Name: pellet_energizer (76)
   m_TagString: PacManfood
@@ -11394,6 +12591,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &844846969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 844846964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &846968471
 GameObject:
   m_ObjectHideFlags: 0
@@ -11406,6 +12615,7 @@ GameObject:
   - component: {fileID: 846968473}
   - component: {fileID: 846968474}
   - component: {fileID: 846968475}
+  - component: {fileID: 846968476}
   m_Layer: 0
   m_Name: pellet_energizer (88)
   m_TagString: PacManfood
@@ -11507,6 +12717,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &846968476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 846968471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &858400337
 GameObject:
   m_ObjectHideFlags: 0
@@ -11519,6 +12741,7 @@ GameObject:
   - component: {fileID: 858400339}
   - component: {fileID: 858400340}
   - component: {fileID: 858400341}
+  - component: {fileID: 858400342}
   m_Layer: 0
   m_Name: pellet_energizer (208)
   m_TagString: PacManfood
@@ -11620,6 +12843,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &858400342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 858400337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &890561723
 GameObject:
   m_ObjectHideFlags: 0
@@ -11632,6 +12867,7 @@ GameObject:
   - component: {fileID: 890561725}
   - component: {fileID: 890561726}
   - component: {fileID: 890561727}
+  - component: {fileID: 890561728}
   m_Layer: 0
   m_Name: pellet_energizer (235)
   m_TagString: PacManfood
@@ -11733,6 +12969,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &890561728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 890561723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &901762248
 GameObject:
   m_ObjectHideFlags: 0
@@ -11745,6 +12993,7 @@ GameObject:
   - component: {fileID: 901762250}
   - component: {fileID: 901762251}
   - component: {fileID: 901762252}
+  - component: {fileID: 901762253}
   m_Layer: 0
   m_Name: pellet_energizer (252)
   m_TagString: PacManfood
@@ -11846,6 +13095,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &901762253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 901762248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &906701696
 GameObject:
   m_ObjectHideFlags: 0
@@ -11965,6 +13226,7 @@ GameObject:
   - component: {fileID: 907533230}
   - component: {fileID: 907533231}
   - component: {fileID: 907533232}
+  - component: {fileID: 907533233}
   m_Layer: 0
   m_Name: pellet_energizer (160)
   m_TagString: PacManfood
@@ -12066,6 +13328,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &907533233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 907533228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &920444028
 GameObject:
   m_ObjectHideFlags: 0
@@ -12078,6 +13352,7 @@ GameObject:
   - component: {fileID: 920444030}
   - component: {fileID: 920444031}
   - component: {fileID: 920444032}
+  - component: {fileID: 920444033}
   m_Layer: 0
   m_Name: pellet_energizer (79)
   m_TagString: PacManfood
@@ -12179,6 +13454,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &920444033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 920444028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &928146342
 GameObject:
   m_ObjectHideFlags: 0
@@ -12191,6 +13478,7 @@ GameObject:
   - component: {fileID: 928146344}
   - component: {fileID: 928146345}
   - component: {fileID: 928146346}
+  - component: {fileID: 928146347}
   m_Layer: 0
   m_Name: pellet_energizer (256)
   m_TagString: PacManfood
@@ -12292,6 +13580,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &928146347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 928146342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &933200640
 GameObject:
   m_ObjectHideFlags: 0
@@ -12304,6 +13604,7 @@ GameObject:
   - component: {fileID: 933200642}
   - component: {fileID: 933200643}
   - component: {fileID: 933200644}
+  - component: {fileID: 933200645}
   m_Layer: 0
   m_Name: pellet_energizer (44)
   m_TagString: PacManfood
@@ -12405,6 +13706,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &933200645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 933200640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &941815674
 GameObject:
   m_ObjectHideFlags: 0
@@ -12417,6 +13730,7 @@ GameObject:
   - component: {fileID: 941815676}
   - component: {fileID: 941815677}
   - component: {fileID: 941815678}
+  - component: {fileID: 941815679}
   m_Layer: 0
   m_Name: pellet_energizer (94)
   m_TagString: PacManfood
@@ -12518,6 +13832,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &941815679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 941815674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &943083618
 GameObject:
   m_ObjectHideFlags: 0
@@ -12530,6 +13856,7 @@ GameObject:
   - component: {fileID: 943083620}
   - component: {fileID: 943083621}
   - component: {fileID: 943083622}
+  - component: {fileID: 943083623}
   m_Layer: 0
   m_Name: pellet_energizer (241)
   m_TagString: PacManfood
@@ -12631,6 +13958,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &943083623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 943083618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &948647640
 GameObject:
   m_ObjectHideFlags: 0
@@ -12643,6 +13982,7 @@ GameObject:
   - component: {fileID: 948647642}
   - component: {fileID: 948647643}
   - component: {fileID: 948647644}
+  - component: {fileID: 948647645}
   m_Layer: 0
   m_Name: pellet_energizer (41)
   m_TagString: PacManfood
@@ -12744,6 +14084,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &948647645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 948647640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &952444808
 GameObject:
   m_ObjectHideFlags: 0
@@ -12756,6 +14108,7 @@ GameObject:
   - component: {fileID: 952444810}
   - component: {fileID: 952444811}
   - component: {fileID: 952444812}
+  - component: {fileID: 952444813}
   m_Layer: 0
   m_Name: pellet_energizer (98)
   m_TagString: PacManfood
@@ -12857,6 +14210,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &952444813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952444808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &953790340
 GameObject:
   m_ObjectHideFlags: 0
@@ -12869,6 +14234,7 @@ GameObject:
   - component: {fileID: 953790342}
   - component: {fileID: 953790343}
   - component: {fileID: 953790344}
+  - component: {fileID: 953790345}
   m_Layer: 0
   m_Name: pellet_energizer (110)
   m_TagString: PacManfood
@@ -12970,6 +14336,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &953790345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953790340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &960384732
 GameObject:
   m_ObjectHideFlags: 0
@@ -12982,6 +14360,7 @@ GameObject:
   - component: {fileID: 960384734}
   - component: {fileID: 960384735}
   - component: {fileID: 960384736}
+  - component: {fileID: 960384737}
   m_Layer: 0
   m_Name: pellet_energizer (246)
   m_TagString: PacManfood
@@ -13083,6 +14462,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &960384737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 960384732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &961455904
 GameObject:
   m_ObjectHideFlags: 0
@@ -13095,6 +14486,7 @@ GameObject:
   - component: {fileID: 961455906}
   - component: {fileID: 961455907}
   - component: {fileID: 961455908}
+  - component: {fileID: 961455909}
   m_Layer: 0
   m_Name: pellet_energizer (157)
   m_TagString: PacManfood
@@ -13196,6 +14588,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &961455909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 961455904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &973101841
 GameObject:
   m_ObjectHideFlags: 0
@@ -13208,6 +14612,7 @@ GameObject:
   - component: {fileID: 973101843}
   - component: {fileID: 973101844}
   - component: {fileID: 973101845}
+  - component: {fileID: 973101846}
   m_Layer: 0
   m_Name: pellet_energizer (48)
   m_TagString: PacManfood
@@ -13309,6 +14714,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &973101846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 973101841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &983369278
 GameObject:
   m_ObjectHideFlags: 0
@@ -13321,6 +14738,7 @@ GameObject:
   - component: {fileID: 983369280}
   - component: {fileID: 983369281}
   - component: {fileID: 983369282}
+  - component: {fileID: 983369283}
   m_Layer: 0
   m_Name: pellet_energizer (106)
   m_TagString: PacManfood
@@ -13422,6 +14840,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &983369283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983369278}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &987166637
 GameObject:
   m_ObjectHideFlags: 0
@@ -13434,6 +14864,7 @@ GameObject:
   - component: {fileID: 987166639}
   - component: {fileID: 987166640}
   - component: {fileID: 987166641}
+  - component: {fileID: 987166642}
   m_Layer: 0
   m_Name: pellet_energizer (207)
   m_TagString: PacManfood
@@ -13535,6 +14966,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &987166642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987166637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &987462147
 GameObject:
   m_ObjectHideFlags: 0
@@ -13547,6 +14990,7 @@ GameObject:
   - component: {fileID: 987462149}
   - component: {fileID: 987462150}
   - component: {fileID: 987462151}
+  - component: {fileID: 987462152}
   m_Layer: 0
   m_Name: pellet_energizer (202)
   m_TagString: PacManfood
@@ -13648,6 +15092,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &987462152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987462147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1005443163
 GameObject:
   m_ObjectHideFlags: 0
@@ -13660,6 +15116,7 @@ GameObject:
   - component: {fileID: 1005443165}
   - component: {fileID: 1005443166}
   - component: {fileID: 1005443167}
+  - component: {fileID: 1005443168}
   m_Layer: 0
   m_Name: pellet_energizer (192)
   m_TagString: PacManfood
@@ -13761,6 +15218,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1005443168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1005443163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1011026008
 GameObject:
   m_ObjectHideFlags: 0
@@ -13773,6 +15242,7 @@ GameObject:
   - component: {fileID: 1011026010}
   - component: {fileID: 1011026011}
   - component: {fileID: 1011026012}
+  - component: {fileID: 1011026013}
   m_Layer: 0
   m_Name: pellet_energizer (153)
   m_TagString: PacManfood
@@ -13874,6 +15344,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1011026013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1011026008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1013050793
 GameObject:
   m_ObjectHideFlags: 0
@@ -13886,6 +15368,7 @@ GameObject:
   - component: {fileID: 1013050795}
   - component: {fileID: 1013050796}
   - component: {fileID: 1013050797}
+  - component: {fileID: 1013050798}
   m_Layer: 0
   m_Name: pellet_energizer (217)
   m_TagString: PacManfood
@@ -13987,6 +15470,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1013050798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1013050793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1016559780
 GameObject:
   m_ObjectHideFlags: 0
@@ -13999,6 +15494,8 @@ GameObject:
   - component: {fileID: 1016559782}
   - component: {fileID: 1016559783}
   - component: {fileID: 1016559784}
+  - component: {fileID: 1016559786}
+  - component: {fileID: 1016559785}
   m_Layer: 0
   m_Name: pellet_energizer (77)
   m_TagString: PacManfood
@@ -14100,6 +15597,30 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1016559785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1016559780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1016559786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1016559780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1017167727
 GameObject:
   m_ObjectHideFlags: 0
@@ -14112,6 +15633,7 @@ GameObject:
   - component: {fileID: 1017167729}
   - component: {fileID: 1017167730}
   - component: {fileID: 1017167731}
+  - component: {fileID: 1017167732}
   m_Layer: 0
   m_Name: pellet_energizer (249)
   m_TagString: PacManfood
@@ -14213,6 +15735,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1017167732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1017167727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1035381037
 GameObject:
   m_ObjectHideFlags: 0
@@ -14225,6 +15759,7 @@ GameObject:
   - component: {fileID: 1035381039}
   - component: {fileID: 1035381040}
   - component: {fileID: 1035381041}
+  - component: {fileID: 1035381042}
   m_Layer: 0
   m_Name: pellet_energizer (113)
   m_TagString: PacManfood
@@ -14326,6 +15861,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1035381042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1035381037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1052391290
 GameObject:
   m_ObjectHideFlags: 0
@@ -14338,6 +15885,7 @@ GameObject:
   - component: {fileID: 1052391292}
   - component: {fileID: 1052391293}
   - component: {fileID: 1052391294}
+  - component: {fileID: 1052391295}
   m_Layer: 0
   m_Name: pellet_energizer (122)
   m_TagString: PacManfood
@@ -14439,6 +15987,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1052391295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1052391290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1082845434
 GameObject:
   m_ObjectHideFlags: 0
@@ -14451,6 +16011,7 @@ GameObject:
   - component: {fileID: 1082845436}
   - component: {fileID: 1082845437}
   - component: {fileID: 1082845438}
+  - component: {fileID: 1082845439}
   m_Layer: 0
   m_Name: pellet_energizer (63)
   m_TagString: PacManfood
@@ -14552,6 +16113,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1082845439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1082845434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1088208179
 GameObject:
   m_ObjectHideFlags: 0
@@ -14596,6 +16169,7 @@ GameObject:
   - component: {fileID: 1094905779}
   - component: {fileID: 1094905780}
   - component: {fileID: 1094905781}
+  - component: {fileID: 1094905782}
   m_Layer: 0
   m_Name: pellet_energizer (182)
   m_TagString: PacManfood
@@ -14697,6 +16271,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1094905782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1094905777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1106003360
 GameObject:
   m_ObjectHideFlags: 0
@@ -14709,6 +16295,7 @@ GameObject:
   - component: {fileID: 1106003362}
   - component: {fileID: 1106003363}
   - component: {fileID: 1106003364}
+  - component: {fileID: 1106003365}
   m_Layer: 0
   m_Name: pellet_energizer (57)
   m_TagString: PacManfood
@@ -14810,6 +16397,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1106003365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106003360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1120900946
 GameObject:
   m_ObjectHideFlags: 0
@@ -14822,6 +16421,7 @@ GameObject:
   - component: {fileID: 1120900948}
   - component: {fileID: 1120900949}
   - component: {fileID: 1120900950}
+  - component: {fileID: 1120900951}
   m_Layer: 0
   m_Name: pellet_energizer (93)
   m_TagString: PacManfood
@@ -14923,6 +16523,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1120900951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1120900946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1125164978
 GameObject:
   m_ObjectHideFlags: 0
@@ -14935,6 +16547,7 @@ GameObject:
   - component: {fileID: 1125164980}
   - component: {fileID: 1125164981}
   - component: {fileID: 1125164982}
+  - component: {fileID: 1125164983}
   m_Layer: 0
   m_Name: pellet_energizer (229)
   m_TagString: PacManfood
@@ -15036,6 +16649,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1125164983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1125164978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1129386962
 GameObject:
   m_ObjectHideFlags: 0
@@ -15048,6 +16673,7 @@ GameObject:
   - component: {fileID: 1129386964}
   - component: {fileID: 1129386965}
   - component: {fileID: 1129386966}
+  - component: {fileID: 1129386967}
   m_Layer: 0
   m_Name: pellet_energizer (269)
   m_TagString: PacManfood
@@ -15149,6 +16775,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1129386967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1129386962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1134383639
 GameObject:
   m_ObjectHideFlags: 0
@@ -15161,6 +16799,7 @@ GameObject:
   - component: {fileID: 1134383641}
   - component: {fileID: 1134383642}
   - component: {fileID: 1134383643}
+  - component: {fileID: 1134383644}
   m_Layer: 0
   m_Name: pellet_energizer (81)
   m_TagString: PacManfood
@@ -15262,6 +16901,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1134383644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1134383639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1156942749
 GameObject:
   m_ObjectHideFlags: 0
@@ -15274,6 +16925,7 @@ GameObject:
   - component: {fileID: 1156942751}
   - component: {fileID: 1156942752}
   - component: {fileID: 1156942753}
+  - component: {fileID: 1156942754}
   m_Layer: 0
   m_Name: pellet_energizer (212)
   m_TagString: PacManfood
@@ -15375,6 +17027,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1156942754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1156942749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1169493795
 GameObject:
   m_ObjectHideFlags: 0
@@ -15473,6 +17137,7 @@ GameObject:
   - component: {fileID: 1170988429}
   - component: {fileID: 1170988430}
   - component: {fileID: 1170988431}
+  - component: {fileID: 1170988432}
   m_Layer: 0
   m_Name: pellet_energizer (236)
   m_TagString: PacManfood
@@ -15574,6 +17239,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1170988432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1170988427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1177277446
 GameObject:
   m_ObjectHideFlags: 0
@@ -15586,6 +17263,7 @@ GameObject:
   - component: {fileID: 1177277448}
   - component: {fileID: 1177277449}
   - component: {fileID: 1177277450}
+  - component: {fileID: 1177277451}
   m_Layer: 0
   m_Name: pellet_energizer (263)
   m_TagString: PacManfood
@@ -15687,6 +17365,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1177277451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1177277446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1178947582
 GameObject:
   m_ObjectHideFlags: 0
@@ -15699,6 +17389,7 @@ GameObject:
   - component: {fileID: 1178947584}
   - component: {fileID: 1178947585}
   - component: {fileID: 1178947586}
+  - component: {fileID: 1178947587}
   m_Layer: 0
   m_Name: pellet_energizer (39)
   m_TagString: PacManfood
@@ -15800,6 +17491,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1178947587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1178947582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1181697140
 GameObject:
   m_ObjectHideFlags: 0
@@ -15812,6 +17515,7 @@ GameObject:
   - component: {fileID: 1181697142}
   - component: {fileID: 1181697143}
   - component: {fileID: 1181697144}
+  - component: {fileID: 1181697145}
   m_Layer: 0
   m_Name: pellet_energizer (129)
   m_TagString: PacManfood
@@ -15913,6 +17617,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1181697145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1181697140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1188881578
 GameObject:
   m_ObjectHideFlags: 0
@@ -15925,6 +17641,7 @@ GameObject:
   - component: {fileID: 1188881580}
   - component: {fileID: 1188881581}
   - component: {fileID: 1188881582}
+  - component: {fileID: 1188881583}
   m_Layer: 0
   m_Name: pellet_energizer (116)
   m_TagString: PacManfood
@@ -16026,6 +17743,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1188881583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188881578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1198930259
 GameObject:
   m_ObjectHideFlags: 0
@@ -16118,6 +17847,7 @@ GameObject:
   - component: {fileID: 1216187551}
   - component: {fileID: 1216187552}
   - component: {fileID: 1216187553}
+  - component: {fileID: 1216187554}
   m_Layer: 0
   m_Name: pellet_energizer (62)
   m_TagString: PacManfood
@@ -16219,6 +17949,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1216187554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1216187549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1231892604
 GameObject:
   m_ObjectHideFlags: 0
@@ -16231,6 +17973,7 @@ GameObject:
   - component: {fileID: 1231892606}
   - component: {fileID: 1231892607}
   - component: {fileID: 1231892608}
+  - component: {fileID: 1231892609}
   m_Layer: 0
   m_Name: pellet_energizer (253)
   m_TagString: PacManfood
@@ -16332,6 +18075,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1231892609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1231892604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1236951191
 GameObject:
   m_ObjectHideFlags: 0
@@ -16344,6 +18099,7 @@ GameObject:
   - component: {fileID: 1236951193}
   - component: {fileID: 1236951194}
   - component: {fileID: 1236951195}
+  - component: {fileID: 1236951196}
   m_Layer: 0
   m_Name: pellet_energizer (188)
   m_TagString: PacManfood
@@ -16445,6 +18201,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1236951196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1236951191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1254308282
 GameObject:
   m_ObjectHideFlags: 0
@@ -16457,6 +18225,7 @@ GameObject:
   - component: {fileID: 1254308284}
   - component: {fileID: 1254308285}
   - component: {fileID: 1254308286}
+  - component: {fileID: 1254308287}
   m_Layer: 0
   m_Name: pellet_energizer (87)
   m_TagString: PacManfood
@@ -16558,6 +18327,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1254308287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1254308282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1258658292
 GameObject:
   m_ObjectHideFlags: 0
@@ -16570,6 +18351,7 @@ GameObject:
   - component: {fileID: 1258658294}
   - component: {fileID: 1258658295}
   - component: {fileID: 1258658296}
+  - component: {fileID: 1258658297}
   m_Layer: 0
   m_Name: pellet_energizer (66)
   m_TagString: PacManfood
@@ -16671,6 +18453,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1258658297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1258658292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1261651844
 GameObject:
   m_ObjectHideFlags: 0
@@ -16776,6 +18570,7 @@ GameObject:
   - component: {fileID: 1262399987}
   - component: {fileID: 1262399988}
   - component: {fileID: 1262399989}
+  - component: {fileID: 1262399990}
   m_Layer: 0
   m_Name: pellet_energizer (226)
   m_TagString: PacManfood
@@ -16877,6 +18672,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1262399990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1262399985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1269274601
 GameObject:
   m_ObjectHideFlags: 0
@@ -16889,6 +18696,7 @@ GameObject:
   - component: {fileID: 1269274603}
   - component: {fileID: 1269274604}
   - component: {fileID: 1269274605}
+  - component: {fileID: 1269274606}
   m_Layer: 0
   m_Name: pellet_energizer (242)
   m_TagString: PacManfood
@@ -16990,6 +18798,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1269274606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1269274601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1274475087
 GameObject:
   m_ObjectHideFlags: 0
@@ -17002,6 +18822,7 @@ GameObject:
   - component: {fileID: 1274475089}
   - component: {fileID: 1274475090}
   - component: {fileID: 1274475091}
+  - component: {fileID: 1274475092}
   m_Layer: 0
   m_Name: pellet_energizer (27)
   m_TagString: PacManfood
@@ -17103,6 +18924,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1274475092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1274475087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1285196676
 GameObject:
   m_ObjectHideFlags: 0
@@ -17115,6 +18948,7 @@ GameObject:
   - component: {fileID: 1285196678}
   - component: {fileID: 1285196679}
   - component: {fileID: 1285196680}
+  - component: {fileID: 1285196681}
   m_Layer: 0
   m_Name: pellet_energizer (67)
   m_TagString: PacManfood
@@ -17216,6 +19050,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1285196681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285196676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1307132436
 GameObject:
   m_ObjectHideFlags: 0
@@ -17228,6 +19074,7 @@ GameObject:
   - component: {fileID: 1307132438}
   - component: {fileID: 1307132439}
   - component: {fileID: 1307132440}
+  - component: {fileID: 1307132441}
   m_Layer: 0
   m_Name: pellet_energizer (187)
   m_TagString: PacManfood
@@ -17329,6 +19176,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1307132441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1307132436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1312036500
 GameObject:
   m_ObjectHideFlags: 0
@@ -17341,6 +19200,7 @@ GameObject:
   - component: {fileID: 1312036502}
   - component: {fileID: 1312036503}
   - component: {fileID: 1312036504}
+  - component: {fileID: 1312036505}
   m_Layer: 0
   m_Name: pellet_energizer (204)
   m_TagString: PacManfood
@@ -17442,6 +19302,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1312036505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1312036500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1320312965
 GameObject:
   m_ObjectHideFlags: 0
@@ -17454,6 +19326,7 @@ GameObject:
   - component: {fileID: 1320312967}
   - component: {fileID: 1320312968}
   - component: {fileID: 1320312969}
+  - component: {fileID: 1320312970}
   m_Layer: 0
   m_Name: pellet_energizer (59)
   m_TagString: PacManfood
@@ -17555,6 +19428,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1320312970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1320312965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1335182807
 GameObject:
   m_ObjectHideFlags: 0
@@ -17567,6 +19452,7 @@ GameObject:
   - component: {fileID: 1335182809}
   - component: {fileID: 1335182810}
   - component: {fileID: 1335182811}
+  - component: {fileID: 1335182812}
   m_Layer: 0
   m_Name: pellet_energizer (35)
   m_TagString: PacManfood
@@ -17668,6 +19554,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1335182812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335182807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1335749063
 GameObject:
   m_ObjectHideFlags: 0
@@ -17680,6 +19578,7 @@ GameObject:
   - component: {fileID: 1335749065}
   - component: {fileID: 1335749066}
   - component: {fileID: 1335749067}
+  - component: {fileID: 1335749068}
   m_Layer: 0
   m_Name: pellet_energizer (47)
   m_TagString: PacManfood
@@ -17781,6 +19680,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1335749068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335749063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1343289318
 GameObject:
   m_ObjectHideFlags: 0
@@ -17793,6 +19704,7 @@ GameObject:
   - component: {fileID: 1343289320}
   - component: {fileID: 1343289321}
   - component: {fileID: 1343289322}
+  - component: {fileID: 1343289323}
   m_Layer: 0
   m_Name: pellet_energizer (71)
   m_TagString: PacManfood
@@ -17894,6 +19806,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1343289323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1343289318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1343601196
 GameObject:
   m_ObjectHideFlags: 0
@@ -17906,6 +19830,7 @@ GameObject:
   - component: {fileID: 1343601198}
   - component: {fileID: 1343601199}
   - component: {fileID: 1343601200}
+  - component: {fileID: 1343601201}
   m_Layer: 0
   m_Name: pellet_energizer (96)
   m_TagString: PacManfood
@@ -18007,6 +19932,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1343601201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1343601196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1347306136
 GameObject:
   m_ObjectHideFlags: 0
@@ -18099,6 +20036,7 @@ GameObject:
   - component: {fileID: 1347425545}
   - component: {fileID: 1347425546}
   - component: {fileID: 1347425547}
+  - component: {fileID: 1347425548}
   m_Layer: 0
   m_Name: pellet_energizer (128)
   m_TagString: PacManfood
@@ -18200,6 +20138,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1347425548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1347425543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1370424053
 GameObject:
   m_ObjectHideFlags: 0
@@ -18212,6 +20162,7 @@ GameObject:
   - component: {fileID: 1370424055}
   - component: {fileID: 1370424056}
   - component: {fileID: 1370424057}
+  - component: {fileID: 1370424058}
   m_Layer: 0
   m_Name: pellet_energizer (161)
   m_TagString: PacManfood
@@ -18313,6 +20264,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1370424058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1370424053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1370574317
 GameObject:
   m_ObjectHideFlags: 0
@@ -18325,6 +20288,7 @@ GameObject:
   - component: {fileID: 1370574319}
   - component: {fileID: 1370574320}
   - component: {fileID: 1370574321}
+  - component: {fileID: 1370574322}
   m_Layer: 0
   m_Name: pellet_energizer (134)
   m_TagString: PacManfood
@@ -18426,6 +20390,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1370574322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1370574317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1390492490
 GameObject:
   m_ObjectHideFlags: 0
@@ -18438,6 +20414,7 @@ GameObject:
   - component: {fileID: 1390492492}
   - component: {fileID: 1390492493}
   - component: {fileID: 1390492494}
+  - component: {fileID: 1390492495}
   m_Layer: 0
   m_Name: pellet_energizer (191)
   m_TagString: PacManfood
@@ -18539,6 +20516,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1390492495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390492490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1391917822
 GameObject:
   m_ObjectHideFlags: 0
@@ -18551,6 +20540,7 @@ GameObject:
   - component: {fileID: 1391917824}
   - component: {fileID: 1391917825}
   - component: {fileID: 1391917826}
+  - component: {fileID: 1391917827}
   m_Layer: 0
   m_Name: pellet_energizer (73)
   m_TagString: PacManfood
@@ -18652,6 +20642,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1391917827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1391917822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1396360532
 GameObject:
   m_ObjectHideFlags: 0
@@ -19712,6 +21714,7 @@ GameObject:
   - component: {fileID: 1405608239}
   - component: {fileID: 1405608240}
   - component: {fileID: 1405608241}
+  - component: {fileID: 1405608242}
   m_Layer: 0
   m_Name: pellet_energizer (258)
   m_TagString: PacManfood
@@ -19813,6 +21816,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1405608242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1405608237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1406334706
 GameObject:
   m_ObjectHideFlags: 0
@@ -19825,6 +21840,7 @@ GameObject:
   - component: {fileID: 1406334708}
   - component: {fileID: 1406334709}
   - component: {fileID: 1406334710}
+  - component: {fileID: 1406334711}
   m_Layer: 0
   m_Name: pellet_energizer (135)
   m_TagString: PacManfood
@@ -19926,6 +21942,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1406334711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1406334706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1419506908
 GameObject:
   m_ObjectHideFlags: 0
@@ -20045,6 +22073,7 @@ GameObject:
   - component: {fileID: 1427089363}
   - component: {fileID: 1427089364}
   - component: {fileID: 1427089365}
+  - component: {fileID: 1427089366}
   m_Layer: 0
   m_Name: pellet_energizer (176)
   m_TagString: PacManfood
@@ -20146,6 +22175,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1427089366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1427089361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1430541908
 GameObject:
   m_ObjectHideFlags: 0
@@ -20158,6 +22199,7 @@ GameObject:
   - component: {fileID: 1430541910}
   - component: {fileID: 1430541911}
   - component: {fileID: 1430541912}
+  - component: {fileID: 1430541913}
   m_Layer: 0
   m_Name: pellet_energizer (209)
   m_TagString: PacManfood
@@ -20259,6 +22301,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1430541913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430541908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1432321704
 GameObject:
   m_ObjectHideFlags: 0
@@ -20271,6 +22325,7 @@ GameObject:
   - component: {fileID: 1432321706}
   - component: {fileID: 1432321707}
   - component: {fileID: 1432321708}
+  - component: {fileID: 1432321709}
   m_Layer: 0
   m_Name: pellet_energizer (225)
   m_TagString: PacManfood
@@ -20372,6 +22427,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1432321709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1432321704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1439888225
 GameObject:
   m_ObjectHideFlags: 0
@@ -20384,6 +22451,7 @@ GameObject:
   - component: {fileID: 1439888227}
   - component: {fileID: 1439888228}
   - component: {fileID: 1439888229}
+  - component: {fileID: 1439888230}
   m_Layer: 0
   m_Name: pellet_energizer (49)
   m_TagString: PacManfood
@@ -20485,6 +22553,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1439888230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1439888225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1472475031
 GameObject:
   m_ObjectHideFlags: 0
@@ -20497,6 +22577,7 @@ GameObject:
   - component: {fileID: 1472475033}
   - component: {fileID: 1472475034}
   - component: {fileID: 1472475035}
+  - component: {fileID: 1472475036}
   m_Layer: 0
   m_Name: pellet_energizer (70)
   m_TagString: PacManfood
@@ -20598,6 +22679,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1472475036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1472475031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1476270592
 GameObject:
   m_ObjectHideFlags: 0
@@ -20612,6 +22705,7 @@ GameObject:
   - component: {fileID: 1476270595}
   - component: {fileID: 1476270594}
   - component: {fileID: 1476270597}
+  - component: {fileID: 1476270599}
   m_Layer: 0
   m_Name: pacman_sprite
   m_TagString: Player
@@ -20751,6 +22845,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1476270599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1476270592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isFood: 0
+  Player: {fileID: 0}
+  Food: {fileID: 0}
 --- !u!1 &1478403602
 GameObject:
   m_ObjectHideFlags: 0
@@ -20763,6 +22872,7 @@ GameObject:
   - component: {fileID: 1478403604}
   - component: {fileID: 1478403605}
   - component: {fileID: 1478403606}
+  - component: {fileID: 1478403607}
   m_Layer: 0
   m_Name: pellet_energizer (267)
   m_TagString: PacManfood
@@ -20864,6 +22974,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1478403607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1478403602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1483985085
 GameObject:
   m_ObjectHideFlags: 0
@@ -20876,6 +22998,7 @@ GameObject:
   - component: {fileID: 1483985087}
   - component: {fileID: 1483985088}
   - component: {fileID: 1483985089}
+  - component: {fileID: 1483985090}
   m_Layer: 0
   m_Name: pellet_energizer (68)
   m_TagString: PacManfood
@@ -20977,6 +23100,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1483985090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1483985085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1500957628
 GameObject:
   m_ObjectHideFlags: 0
@@ -20989,6 +23124,7 @@ GameObject:
   - component: {fileID: 1500957630}
   - component: {fileID: 1500957631}
   - component: {fileID: 1500957632}
+  - component: {fileID: 1500957633}
   m_Layer: 0
   m_Name: pellet_energizer (126)
   m_TagString: PacManfood
@@ -21090,6 +23226,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1500957633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1500957628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1512690070
 GameObject:
   m_ObjectHideFlags: 0
@@ -21102,6 +23250,7 @@ GameObject:
   - component: {fileID: 1512690072}
   - component: {fileID: 1512690073}
   - component: {fileID: 1512690074}
+  - component: {fileID: 1512690075}
   m_Layer: 0
   m_Name: pellet_energizer (183)
   m_TagString: PacManfood
@@ -21203,6 +23352,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1512690075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512690070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1523542688
 GameObject:
   m_ObjectHideFlags: 0
@@ -21215,6 +23376,7 @@ GameObject:
   - component: {fileID: 1523542690}
   - component: {fileID: 1523542691}
   - component: {fileID: 1523542692}
+  - component: {fileID: 1523542693}
   m_Layer: 0
   m_Name: pellet_energizer (12)
   m_TagString: PacManfood
@@ -21316,6 +23478,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1523542693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523542688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1528373786
 GameObject:
   m_ObjectHideFlags: 0
@@ -21328,6 +23502,7 @@ GameObject:
   - component: {fileID: 1528373788}
   - component: {fileID: 1528373789}
   - component: {fileID: 1528373790}
+  - component: {fileID: 1528373791}
   m_Layer: 0
   m_Name: pellet_energizer (132)
   m_TagString: PacManfood
@@ -21429,6 +23604,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1528373791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528373786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1560797865
 GameObject:
   m_ObjectHideFlags: 0
@@ -21441,6 +23628,7 @@ GameObject:
   - component: {fileID: 1560797867}
   - component: {fileID: 1560797868}
   - component: {fileID: 1560797869}
+  - component: {fileID: 1560797870}
   m_Layer: 0
   m_Name: pellet_energizer (164)
   m_TagString: PacManfood
@@ -21542,6 +23730,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1560797870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1560797865}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1579682058
 GameObject:
   m_ObjectHideFlags: 0
@@ -21554,6 +23754,7 @@ GameObject:
   - component: {fileID: 1579682060}
   - component: {fileID: 1579682061}
   - component: {fileID: 1579682062}
+  - component: {fileID: 1579682063}
   m_Layer: 0
   m_Name: pellet_energizer (149)
   m_TagString: PacManfood
@@ -21655,6 +23856,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1579682063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579682058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1583298989
 GameObject:
   m_ObjectHideFlags: 0
@@ -21667,6 +23880,7 @@ GameObject:
   - component: {fileID: 1583298991}
   - component: {fileID: 1583298992}
   - component: {fileID: 1583298993}
+  - component: {fileID: 1583298994}
   m_Layer: 0
   m_Name: pellet_energizer (112)
   m_TagString: PacManfood
@@ -21768,6 +23982,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1583298994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1583298989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1583654755
 GameObject:
   m_ObjectHideFlags: 0
@@ -21780,6 +24006,7 @@ GameObject:
   - component: {fileID: 1583654757}
   - component: {fileID: 1583654758}
   - component: {fileID: 1583654759}
+  - component: {fileID: 1583654760}
   m_Layer: 0
   m_Name: pellet_energizer (151)
   m_TagString: PacManfood
@@ -21881,6 +24108,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1583654760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1583654755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1614266275
 GameObject:
   m_ObjectHideFlags: 0
@@ -21893,6 +24132,7 @@ GameObject:
   - component: {fileID: 1614266277}
   - component: {fileID: 1614266278}
   - component: {fileID: 1614266279}
+  - component: {fileID: 1614266280}
   m_Layer: 0
   m_Name: pellet_energizer (125)
   m_TagString: PacManfood
@@ -21994,6 +24234,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1614266280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1614266275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1616471426
 GameObject:
   m_ObjectHideFlags: 0
@@ -22006,6 +24258,7 @@ GameObject:
   - component: {fileID: 1616471428}
   - component: {fileID: 1616471429}
   - component: {fileID: 1616471430}
+  - component: {fileID: 1616471431}
   m_Layer: 0
   m_Name: pellet_energizer (219)
   m_TagString: PacManfood
@@ -22107,6 +24360,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1616471431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616471426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1617945373
 GameObject:
   m_ObjectHideFlags: 0
@@ -22119,6 +24384,7 @@ GameObject:
   - component: {fileID: 1617945375}
   - component: {fileID: 1617945376}
   - component: {fileID: 1617945377}
+  - component: {fileID: 1617945378}
   m_Layer: 0
   m_Name: pellet_energizer (165)
   m_TagString: PacManfood
@@ -22220,6 +24486,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1617945378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1617945373}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1625665149
 GameObject:
   m_ObjectHideFlags: 0
@@ -22232,6 +24510,7 @@ GameObject:
   - component: {fileID: 1625665151}
   - component: {fileID: 1625665152}
   - component: {fileID: 1625665153}
+  - component: {fileID: 1625665154}
   m_Layer: 0
   m_Name: pellet_energizer (148)
   m_TagString: PacManfood
@@ -22333,6 +24612,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1625665154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1625665149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1626102546
 GameObject:
   m_ObjectHideFlags: 0
@@ -22345,6 +24636,7 @@ GameObject:
   - component: {fileID: 1626102548}
   - component: {fileID: 1626102549}
   - component: {fileID: 1626102550}
+  - component: {fileID: 1626102551}
   m_Layer: 0
   m_Name: pellet_energizer (31)
   m_TagString: PacManfood
@@ -22446,6 +24738,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1626102551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1626102546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1628041486
 GameObject:
   m_ObjectHideFlags: 0
@@ -22458,6 +24762,7 @@ GameObject:
   - component: {fileID: 1628041488}
   - component: {fileID: 1628041489}
   - component: {fileID: 1628041490}
+  - component: {fileID: 1628041491}
   m_Layer: 0
   m_Name: pellet_energizer (10)
   m_TagString: PacManfood
@@ -22559,6 +24864,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1628041491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1628041486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1631865211
 GameObject:
   m_ObjectHideFlags: 0
@@ -22571,6 +24888,7 @@ GameObject:
   - component: {fileID: 1631865213}
   - component: {fileID: 1631865214}
   - component: {fileID: 1631865215}
+  - component: {fileID: 1631865216}
   m_Layer: 0
   m_Name: pellet_energizer (265)
   m_TagString: PacManfood
@@ -22672,6 +24990,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1631865216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1631865211}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1637701874
 GameObject:
   m_ObjectHideFlags: 0
@@ -22684,6 +25014,7 @@ GameObject:
   - component: {fileID: 1637701876}
   - component: {fileID: 1637701877}
   - component: {fileID: 1637701878}
+  - component: {fileID: 1637701879}
   m_Layer: 0
   m_Name: pellet_energizer (175)
   m_TagString: PacManfood
@@ -22785,6 +25116,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1637701879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1637701874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1646082657
 GameObject:
   m_ObjectHideFlags: 0
@@ -22797,6 +25140,7 @@ GameObject:
   - component: {fileID: 1646082659}
   - component: {fileID: 1646082660}
   - component: {fileID: 1646082661}
+  - component: {fileID: 1646082662}
   m_Layer: 0
   m_Name: pellet_energizer (152)
   m_TagString: PacManfood
@@ -22898,6 +25242,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1646082662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1646082657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1667336565
 GameObject:
   m_ObjectHideFlags: 0
@@ -22910,6 +25266,7 @@ GameObject:
   - component: {fileID: 1667336567}
   - component: {fileID: 1667336568}
   - component: {fileID: 1667336569}
+  - component: {fileID: 1667336570}
   m_Layer: 0
   m_Name: pellet_energizer (140)
   m_TagString: PacManfood
@@ -23011,6 +25368,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1667336570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1667336565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1671250321
 GameObject:
   m_ObjectHideFlags: 0
@@ -23023,6 +25392,7 @@ GameObject:
   - component: {fileID: 1671250323}
   - component: {fileID: 1671250324}
   - component: {fileID: 1671250325}
+  - component: {fileID: 1671250326}
   m_Layer: 0
   m_Name: pellet_energizer (193)
   m_TagString: PacManfood
@@ -23124,6 +25494,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1671250326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1671250321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1672156852
 GameObject:
   m_ObjectHideFlags: 0
@@ -23136,6 +25518,8 @@ GameObject:
   - component: {fileID: 1672156854}
   - component: {fileID: 1672156855}
   - component: {fileID: 1672156856}
+  - component: {fileID: 1672156858}
+  - component: {fileID: 1672156857}
   m_Layer: 0
   m_Name: pellet_energizer (124)
   m_TagString: PacManfood
@@ -23237,6 +25621,30 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1672156857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1672156852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1672156858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1672156852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1673340251
 GameObject:
   m_ObjectHideFlags: 0
@@ -23249,6 +25657,7 @@ GameObject:
   - component: {fileID: 1673340253}
   - component: {fileID: 1673340254}
   - component: {fileID: 1673340255}
+  - component: {fileID: 1673340256}
   m_Layer: 0
   m_Name: pellet_energizer (195)
   m_TagString: PacManfood
@@ -23350,6 +25759,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1673340256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1673340251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1679589905
 GameObject:
   m_ObjectHideFlags: 0
@@ -23362,6 +25783,7 @@ GameObject:
   - component: {fileID: 1679589907}
   - component: {fileID: 1679589908}
   - component: {fileID: 1679589909}
+  - component: {fileID: 1679589910}
   m_Layer: 0
   m_Name: pellet_energizer (107)
   m_TagString: PacManfood
@@ -23463,6 +25885,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1679589910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1679589905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1694707281
 GameObject:
   m_ObjectHideFlags: 0
@@ -23475,6 +25909,7 @@ GameObject:
   - component: {fileID: 1694707283}
   - component: {fileID: 1694707284}
   - component: {fileID: 1694707285}
+  - component: {fileID: 1694707286}
   m_Layer: 0
   m_Name: pellet_energizer (268)
   m_TagString: PacManfood
@@ -23576,6 +26011,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1694707286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1694707281}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1706054864
 GameObject:
   m_ObjectHideFlags: 0
@@ -23588,6 +26035,7 @@ GameObject:
   - component: {fileID: 1706054866}
   - component: {fileID: 1706054867}
   - component: {fileID: 1706054868}
+  - component: {fileID: 1706054869}
   m_Layer: 0
   m_Name: pellet_energizer (169)
   m_TagString: PacManfood
@@ -23689,6 +26137,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1706054869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706054864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1709692575
 GameObject:
   m_ObjectHideFlags: 0
@@ -23701,6 +26161,7 @@ GameObject:
   - component: {fileID: 1709692577}
   - component: {fileID: 1709692578}
   - component: {fileID: 1709692579}
+  - component: {fileID: 1709692580}
   m_Layer: 0
   m_Name: pellet_energizer (248)
   m_TagString: PacManfood
@@ -23802,6 +26263,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1709692580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709692575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1738845054
 GameObject:
   m_ObjectHideFlags: 0
@@ -23814,6 +26287,7 @@ GameObject:
   - component: {fileID: 1738845056}
   - component: {fileID: 1738845057}
   - component: {fileID: 1738845058}
+  - component: {fileID: 1738845059}
   m_Layer: 0
   m_Name: pellet_energizer (166)
   m_TagString: PacManfood
@@ -23915,6 +26389,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1738845059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1738845054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1745576989
 GameObject:
   m_ObjectHideFlags: 0
@@ -23927,6 +26413,7 @@ GameObject:
   - component: {fileID: 1745576991}
   - component: {fileID: 1745576992}
   - component: {fileID: 1745576993}
+  - component: {fileID: 1745576994}
   m_Layer: 0
   m_Name: pellet_energizer (100)
   m_TagString: PacManfood
@@ -24028,6 +26515,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1745576994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1745576989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1745943521
 GameObject:
   m_ObjectHideFlags: 0
@@ -24120,6 +26619,7 @@ GameObject:
   - component: {fileID: 1746637818}
   - component: {fileID: 1746637819}
   - component: {fileID: 1746637820}
+  - component: {fileID: 1746637821}
   m_Layer: 0
   m_Name: pellet_energizer (196)
   m_TagString: PacManfood
@@ -24221,6 +26721,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1746637821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1746637816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1753898366
 GameObject:
   m_ObjectHideFlags: 0
@@ -24233,6 +26745,7 @@ GameObject:
   - component: {fileID: 1753898368}
   - component: {fileID: 1753898369}
   - component: {fileID: 1753898370}
+  - component: {fileID: 1753898371}
   m_Layer: 0
   m_Name: pellet_energizer (89)
   m_TagString: PacManfood
@@ -24334,6 +26847,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1753898371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1753898366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1767491129
 GameObject:
   m_ObjectHideFlags: 0
@@ -24346,6 +26871,7 @@ GameObject:
   - component: {fileID: 1767491131}
   - component: {fileID: 1767491132}
   - component: {fileID: 1767491133}
+  - component: {fileID: 1767491134}
   m_Layer: 0
   m_Name: pellet_energizer (141)
   m_TagString: PacManfood
@@ -24447,6 +26973,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1767491134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1767491129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1768114905
 GameObject:
   m_ObjectHideFlags: 0
@@ -24459,6 +26997,7 @@ GameObject:
   - component: {fileID: 1768114907}
   - component: {fileID: 1768114908}
   - component: {fileID: 1768114909}
+  - component: {fileID: 1768114910}
   m_Layer: 0
   m_Name: pellet_energizer (83)
   m_TagString: PacManfood
@@ -24560,6 +27099,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1768114910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1768114905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1798099216
 GameObject:
   m_ObjectHideFlags: 0
@@ -24572,6 +27123,7 @@ GameObject:
   - component: {fileID: 1798099218}
   - component: {fileID: 1798099219}
   - component: {fileID: 1798099220}
+  - component: {fileID: 1798099221}
   m_Layer: 0
   m_Name: pellet_energizer (65)
   m_TagString: PacManfood
@@ -24673,6 +27225,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1798099221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1798099216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1804532533
 GameObject:
   m_ObjectHideFlags: 0
@@ -24685,6 +27249,7 @@ GameObject:
   - component: {fileID: 1804532535}
   - component: {fileID: 1804532536}
   - component: {fileID: 1804532537}
+  - component: {fileID: 1804532538}
   m_Layer: 0
   m_Name: pellet_energizer (223)
   m_TagString: PacManfood
@@ -24786,6 +27351,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1804532538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1804532533}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1810231515
 GameObject:
   m_ObjectHideFlags: 0
@@ -24798,6 +27375,7 @@ GameObject:
   - component: {fileID: 1810231517}
   - component: {fileID: 1810231518}
   - component: {fileID: 1810231519}
+  - component: {fileID: 1810231520}
   m_Layer: 0
   m_Name: pellet_energizer (145)
   m_TagString: PacManfood
@@ -24899,6 +27477,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1810231520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1810231515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1818849450
 GameObject:
   m_ObjectHideFlags: 0
@@ -24911,6 +27501,7 @@ GameObject:
   - component: {fileID: 1818849452}
   - component: {fileID: 1818849453}
   - component: {fileID: 1818849454}
+  - component: {fileID: 1818849455}
   m_Layer: 0
   m_Name: pellet_energizer (137)
   m_TagString: PacManfood
@@ -25012,6 +27603,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1818849455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1818849450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1822994754
 GameObject:
   m_ObjectHideFlags: 0
@@ -25024,6 +27627,7 @@ GameObject:
   - component: {fileID: 1822994756}
   - component: {fileID: 1822994757}
   - component: {fileID: 1822994758}
+  - component: {fileID: 1822994759}
   m_Layer: 0
   m_Name: pellet_energizer (51)
   m_TagString: PacManfood
@@ -25125,6 +27729,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1822994759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1822994754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1824429259
 GameObject:
   m_ObjectHideFlags: 0
@@ -25137,6 +27753,7 @@ GameObject:
   - component: {fileID: 1824429261}
   - component: {fileID: 1824429262}
   - component: {fileID: 1824429263}
+  - component: {fileID: 1824429264}
   m_Layer: 0
   m_Name: pellet_energizer (101)
   m_TagString: PacManfood
@@ -25238,6 +27855,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1824429264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824429259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1827945396
 GameObject:
   m_ObjectHideFlags: 0
@@ -25250,6 +27879,7 @@ GameObject:
   - component: {fileID: 1827945398}
   - component: {fileID: 1827945399}
   - component: {fileID: 1827945400}
+  - component: {fileID: 1827945401}
   m_Layer: 0
   m_Name: pellet_energizer (200)
   m_TagString: PacManfood
@@ -25351,6 +27981,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1827945401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827945396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1829765805
 GameObject:
   m_ObjectHideFlags: 0
@@ -25363,6 +28005,7 @@ GameObject:
   - component: {fileID: 1829765807}
   - component: {fileID: 1829765808}
   - component: {fileID: 1829765809}
+  - component: {fileID: 1829765810}
   m_Layer: 0
   m_Name: pellet_energizer (250)
   m_TagString: PacManfood
@@ -25464,6 +28107,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1829765810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1829765805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1839748905
 GameObject:
   m_ObjectHideFlags: 0
@@ -25476,6 +28131,7 @@ GameObject:
   - component: {fileID: 1839748907}
   - component: {fileID: 1839748908}
   - component: {fileID: 1839748909}
+  - component: {fileID: 1839748910}
   m_Layer: 0
   m_Name: pellet_energizer (237)
   m_TagString: PacManfood
@@ -25577,6 +28233,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1839748910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1839748905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1839803050
 GameObject:
   m_ObjectHideFlags: 0
@@ -25589,6 +28257,7 @@ GameObject:
   - component: {fileID: 1839803052}
   - component: {fileID: 1839803053}
   - component: {fileID: 1839803054}
+  - component: {fileID: 1839803055}
   m_Layer: 0
   m_Name: pellet_energizer (95)
   m_TagString: PacManfood
@@ -25690,6 +28359,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1839803055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1839803050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1864263785
 GameObject:
   m_ObjectHideFlags: 0
@@ -25736,6 +28417,7 @@ GameObject:
   - component: {fileID: 1864393050}
   - component: {fileID: 1864393051}
   - component: {fileID: 1864393052}
+  - component: {fileID: 1864393053}
   m_Layer: 0
   m_Name: pellet_energizer (13)
   m_TagString: PacManfood
@@ -25837,6 +28519,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1864393053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1864393048}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1875523626
 GameObject:
   m_ObjectHideFlags: 0
@@ -25849,6 +28543,7 @@ GameObject:
   - component: {fileID: 1875523628}
   - component: {fileID: 1875523629}
   - component: {fileID: 1875523630}
+  - component: {fileID: 1875523631}
   m_Layer: 0
   m_Name: pellet_energizer (143)
   m_TagString: PacManfood
@@ -25950,6 +28645,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1875523631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1875523626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1892463176
 GameObject:
   m_ObjectHideFlags: 0
@@ -25962,6 +28669,7 @@ GameObject:
   - component: {fileID: 1892463178}
   - component: {fileID: 1892463179}
   - component: {fileID: 1892463180}
+  - component: {fileID: 1892463181}
   m_Layer: 0
   m_Name: pellet_energizer (127)
   m_TagString: PacManfood
@@ -26063,6 +28771,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1892463181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892463176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1893088376
 GameObject:
   m_ObjectHideFlags: 0
@@ -26075,6 +28795,8 @@ GameObject:
   - component: {fileID: 1893088378}
   - component: {fileID: 1893088379}
   - component: {fileID: 1893088380}
+  - component: {fileID: 1893088382}
+  - component: {fileID: 1893088381}
   m_Layer: 0
   m_Name: pellet_energizer (78)
   m_TagString: PacManfood
@@ -26176,6 +28898,30 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1893088381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893088376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1893088382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893088376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1898754903
 GameObject:
   m_ObjectHideFlags: 0
@@ -26188,6 +28934,7 @@ GameObject:
   - component: {fileID: 1898754905}
   - component: {fileID: 1898754906}
   - component: {fileID: 1898754907}
+  - component: {fileID: 1898754908}
   m_Layer: 0
   m_Name: pellet_energizer (121)
   m_TagString: PacManfood
@@ -26289,6 +29036,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1898754908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1898754903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1902312162
 GameObject:
   m_ObjectHideFlags: 0
@@ -26301,6 +29060,7 @@ GameObject:
   - component: {fileID: 1902312164}
   - component: {fileID: 1902312165}
   - component: {fileID: 1902312166}
+  - component: {fileID: 1902312167}
   m_Layer: 0
   m_Name: pellet_energizer (80)
   m_TagString: PacManfood
@@ -26402,6 +29162,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1902312167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1902312162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1909493950
 GameObject:
   m_ObjectHideFlags: 0
@@ -26521,6 +29293,7 @@ GameObject:
   - component: {fileID: 1922655826}
   - component: {fileID: 1922655827}
   - component: {fileID: 1922655828}
+  - component: {fileID: 1922655829}
   m_Layer: 0
   m_Name: pellet_energizer (34)
   m_TagString: PacManfood
@@ -26622,6 +29395,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1922655829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1922655824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1927779575
 GameObject:
   m_ObjectHideFlags: 0
@@ -26634,6 +29419,7 @@ GameObject:
   - component: {fileID: 1927779577}
   - component: {fileID: 1927779578}
   - component: {fileID: 1927779579}
+  - component: {fileID: 1927779580}
   m_Layer: 0
   m_Name: pellet_energizer (38)
   m_TagString: PacManfood
@@ -26735,6 +29521,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1927779580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927779575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1930470805
 GameObject:
   m_ObjectHideFlags: 0
@@ -26747,6 +29545,7 @@ GameObject:
   - component: {fileID: 1930470807}
   - component: {fileID: 1930470808}
   - component: {fileID: 1930470809}
+  - component: {fileID: 1930470810}
   m_Layer: 0
   m_Name: pellet_energizer (264)
   m_TagString: PacManfood
@@ -26848,6 +29647,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1930470810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1930470805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1935717187
 GameObject:
   m_ObjectHideFlags: 0
@@ -26860,6 +29671,7 @@ GameObject:
   - component: {fileID: 1935717189}
   - component: {fileID: 1935717190}
   - component: {fileID: 1935717191}
+  - component: {fileID: 1935717192}
   m_Layer: 0
   m_Name: pellet_energizer (201)
   m_TagString: PacManfood
@@ -26961,6 +29773,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1935717192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1935717187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1950156155
 GameObject:
   m_ObjectHideFlags: 0
@@ -26973,6 +29797,7 @@ GameObject:
   - component: {fileID: 1950156157}
   - component: {fileID: 1950156158}
   - component: {fileID: 1950156159}
+  - component: {fileID: 1950156160}
   m_Layer: 0
   m_Name: pellet_energizer (203)
   m_TagString: PacManfood
@@ -27074,6 +29899,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1950156160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1950156155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1970399050
 GameObject:
   m_ObjectHideFlags: 0
@@ -27086,6 +29923,7 @@ GameObject:
   - component: {fileID: 1970399052}
   - component: {fileID: 1970399053}
   - component: {fileID: 1970399054}
+  - component: {fileID: 1970399055}
   m_Layer: 0
   m_Name: pellet_energizer (218)
   m_TagString: PacManfood
@@ -27187,6 +30025,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1970399055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1970399050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1971296321
 GameObject:
   m_ObjectHideFlags: 0
@@ -27199,6 +30049,7 @@ GameObject:
   - component: {fileID: 1971296323}
   - component: {fileID: 1971296324}
   - component: {fileID: 1971296325}
+  - component: {fileID: 1971296326}
   m_Layer: 0
   m_Name: pellet_energizer (240)
   m_TagString: PacManfood
@@ -27300,6 +30151,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1971296326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1971296321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1975684211
 GameObject:
   m_ObjectHideFlags: 0
@@ -27312,6 +30175,7 @@ GameObject:
   - component: {fileID: 1975684213}
   - component: {fileID: 1975684214}
   - component: {fileID: 1975684215}
+  - component: {fileID: 1975684216}
   m_Layer: 0
   m_Name: pellet_energizer (37)
   m_TagString: PacManfood
@@ -27413,6 +30277,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1975684216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1975684211}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1985402684
 GameObject:
   m_ObjectHideFlags: 0
@@ -27425,6 +30301,7 @@ GameObject:
   - component: {fileID: 1985402686}
   - component: {fileID: 1985402687}
   - component: {fileID: 1985402688}
+  - component: {fileID: 1985402689}
   m_Layer: 0
   m_Name: pellet_energizer (233)
   m_TagString: PacManfood
@@ -27526,6 +30403,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1985402689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1985402684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1988945423
 GameObject:
   m_ObjectHideFlags: 0
@@ -27538,6 +30427,7 @@ GameObject:
   - component: {fileID: 1988945425}
   - component: {fileID: 1988945426}
   - component: {fileID: 1988945427}
+  - component: {fileID: 1988945428}
   m_Layer: 0
   m_Name: pellet_energizer (139)
   m_TagString: PacManfood
@@ -27639,6 +30529,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1988945428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1988945423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1989401121
 GameObject:
   m_ObjectHideFlags: 0
@@ -27651,6 +30553,7 @@ GameObject:
   - component: {fileID: 1989401123}
   - component: {fileID: 1989401124}
   - component: {fileID: 1989401125}
+  - component: {fileID: 1989401126}
   m_Layer: 0
   m_Name: pellet_energizer (210)
   m_TagString: PacManfood
@@ -27752,6 +30655,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1989401126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1989401121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1990816837
 GameObject:
   m_ObjectHideFlags: 0
@@ -27764,6 +30679,7 @@ GameObject:
   - component: {fileID: 1990816839}
   - component: {fileID: 1990816840}
   - component: {fileID: 1990816841}
+  - component: {fileID: 1990816842}
   m_Layer: 0
   m_Name: pellet_energizer (123)
   m_TagString: PacManfood
@@ -27865,6 +30781,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &1990816842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990816837}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2003285883
 GameObject:
   m_ObjectHideFlags: 0
@@ -27877,6 +30805,7 @@ GameObject:
   - component: {fileID: 2003285885}
   - component: {fileID: 2003285886}
   - component: {fileID: 2003285887}
+  - component: {fileID: 2003285888}
   m_Layer: 0
   m_Name: pellet_energizer (32)
   m_TagString: PacManfood
@@ -27978,6 +30907,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2003285888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2003285883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2005379578
 GameObject:
   m_ObjectHideFlags: 0
@@ -27990,6 +30931,7 @@ GameObject:
   - component: {fileID: 2005379580}
   - component: {fileID: 2005379581}
   - component: {fileID: 2005379582}
+  - component: {fileID: 2005379583}
   m_Layer: 0
   m_Name: pellet_energizer (50)
   m_TagString: PacManfood
@@ -28091,6 +31033,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2005379583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2005379578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2011539502
 GameObject:
   m_ObjectHideFlags: 0
@@ -28103,6 +31057,7 @@ GameObject:
   - component: {fileID: 2011539504}
   - component: {fileID: 2011539505}
   - component: {fileID: 2011539506}
+  - component: {fileID: 2011539507}
   m_Layer: 0
   m_Name: pellet_energizer (130)
   m_TagString: PacManfood
@@ -28204,6 +31159,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2011539507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2011539502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2012295544
 GameObject:
   m_ObjectHideFlags: 0
@@ -28216,6 +31183,7 @@ GameObject:
   - component: {fileID: 2012295546}
   - component: {fileID: 2012295547}
   - component: {fileID: 2012295548}
+  - component: {fileID: 2012295549}
   m_Layer: 0
   m_Name: pellet_energizer (92)
   m_TagString: PacManfood
@@ -28317,6 +31285,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2012295549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012295544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2022107764
 GameObject:
   m_ObjectHideFlags: 0
@@ -28329,6 +31309,7 @@ GameObject:
   - component: {fileID: 2022107766}
   - component: {fileID: 2022107767}
   - component: {fileID: 2022107768}
+  - component: {fileID: 2022107769}
   m_Layer: 0
   m_Name: pellet_energizer (54)
   m_TagString: PacManfood
@@ -28430,6 +31411,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2022107769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022107764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2024231452
 GameObject:
   m_ObjectHideFlags: 0
@@ -28442,6 +31435,7 @@ GameObject:
   - component: {fileID: 2024231454}
   - component: {fileID: 2024231455}
   - component: {fileID: 2024231456}
+  - component: {fileID: 2024231457}
   m_Layer: 0
   m_Name: pellet_energizer (171)
   m_TagString: PacManfood
@@ -28543,6 +31537,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2024231457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2024231452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2025801856
 GameObject:
   m_ObjectHideFlags: 0
@@ -28555,6 +31561,7 @@ GameObject:
   - component: {fileID: 2025801858}
   - component: {fileID: 2025801859}
   - component: {fileID: 2025801860}
+  - component: {fileID: 2025801861}
   m_Layer: 0
   m_Name: pellet_energizer (255)
   m_TagString: PacManfood
@@ -28656,6 +31663,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2025801861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025801856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2032801776
 GameObject:
   m_ObjectHideFlags: 0
@@ -28668,6 +31687,7 @@ GameObject:
   - component: {fileID: 2032801778}
   - component: {fileID: 2032801779}
   - component: {fileID: 2032801780}
+  - component: {fileID: 2032801781}
   m_Layer: 0
   m_Name: pellet_energizer (205)
   m_TagString: PacManfood
@@ -28769,6 +31789,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2032801781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2032801776}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2040547249
 GameObject:
   m_ObjectHideFlags: 0
@@ -28781,6 +31813,7 @@ GameObject:
   - component: {fileID: 2040547251}
   - component: {fileID: 2040547252}
   - component: {fileID: 2040547253}
+  - component: {fileID: 2040547254}
   m_Layer: 0
   m_Name: pellet_energizer (115)
   m_TagString: PacManfood
@@ -28882,6 +31915,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2040547254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2040547249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2043556337
 GameObject:
   m_ObjectHideFlags: 0
@@ -28894,6 +31939,7 @@ GameObject:
   - component: {fileID: 2043556339}
   - component: {fileID: 2043556340}
   - component: {fileID: 2043556341}
+  - component: {fileID: 2043556342}
   m_Layer: 0
   m_Name: pellet_energizer (103)
   m_TagString: PacManfood
@@ -28995,6 +32041,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2043556342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2043556337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2046961536
 GameObject:
   m_ObjectHideFlags: 0
@@ -29007,6 +32065,7 @@ GameObject:
   - component: {fileID: 2046961538}
   - component: {fileID: 2046961539}
   - component: {fileID: 2046961540}
+  - component: {fileID: 2046961541}
   m_Layer: 0
   m_Name: pellet_energizer (85)
   m_TagString: PacManfood
@@ -29108,6 +32167,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2046961541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2046961536}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2055364980
 GameObject:
   m_ObjectHideFlags: 0
@@ -29120,6 +32191,7 @@ GameObject:
   - component: {fileID: 2055364982}
   - component: {fileID: 2055364983}
   - component: {fileID: 2055364984}
+  - component: {fileID: 2055364985}
   m_Layer: 0
   m_Name: pellet_energizer (147)
   m_TagString: PacManfood
@@ -29221,6 +32293,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2055364985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055364980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2055567888
 GameObject:
   m_ObjectHideFlags: 0
@@ -29233,6 +32317,7 @@ GameObject:
   - component: {fileID: 2055567890}
   - component: {fileID: 2055567891}
   - component: {fileID: 2055567892}
+  - component: {fileID: 2055567893}
   m_Layer: 0
   m_Name: pellet_energizer (56)
   m_TagString: PacManfood
@@ -29334,6 +32419,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2055567893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055567888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2061244269
 GameObject:
   m_ObjectHideFlags: 0
@@ -29346,6 +32443,7 @@ GameObject:
   - component: {fileID: 2061244271}
   - component: {fileID: 2061244272}
   - component: {fileID: 2061244273}
+  - component: {fileID: 2061244274}
   m_Layer: 0
   m_Name: pellet_energizer (251)
   m_TagString: PacManfood
@@ -29447,6 +32545,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2061244274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2061244269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2063569417
 GameObject:
   m_ObjectHideFlags: 0
@@ -29459,6 +32569,7 @@ GameObject:
   - component: {fileID: 2063569419}
   - component: {fileID: 2063569420}
   - component: {fileID: 2063569421}
+  - component: {fileID: 2063569422}
   m_Layer: 0
   m_Name: pellet_energizer (72)
   m_TagString: PacManfood
@@ -29560,6 +32671,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2063569422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2063569417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2079314608
 GameObject:
   m_ObjectHideFlags: 0
@@ -29572,6 +32695,7 @@ GameObject:
   - component: {fileID: 2079314610}
   - component: {fileID: 2079314611}
   - component: {fileID: 2079314612}
+  - component: {fileID: 2079314613}
   m_Layer: 0
   m_Name: pellet_energizer (86)
   m_TagString: PacManfood
@@ -29673,6 +32797,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2079314613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2079314608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2088223586
 GameObject:
   m_ObjectHideFlags: 0
@@ -29796,6 +32932,7 @@ GameObject:
   - component: {fileID: 2097392331}
   - component: {fileID: 2097392332}
   - component: {fileID: 2097392333}
+  - component: {fileID: 2097392334}
   m_Layer: 0
   m_Name: pellet_energizer (230)
   m_TagString: PacManfood
@@ -29897,6 +33034,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2097392334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2097392329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2110138491
 GameObject:
   m_ObjectHideFlags: 0
@@ -29909,6 +33058,7 @@ GameObject:
   - component: {fileID: 2110138493}
   - component: {fileID: 2110138494}
   - component: {fileID: 2110138495}
+  - component: {fileID: 2110138496}
   m_Layer: 0
   m_Name: pellet_energizer (74)
   m_TagString: PacManfood
@@ -30010,6 +33160,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2110138496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2110138491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2124356170
 GameObject:
   m_ObjectHideFlags: 0
@@ -30022,6 +33184,7 @@ GameObject:
   - component: {fileID: 2124356172}
   - component: {fileID: 2124356173}
   - component: {fileID: 2124356174}
+  - component: {fileID: 2124356175}
   m_Layer: 0
   m_Name: pellet_energizer (228)
   m_TagString: PacManfood
@@ -30123,6 +33286,18 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2124356175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2124356170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2147313316
 GameObject:
   m_ObjectHideFlags: 0
@@ -30135,6 +33310,7 @@ GameObject:
   - component: {fileID: 2147313318}
   - component: {fileID: 2147313319}
   - component: {fileID: 2147313320}
+  - component: {fileID: 2147313321}
   m_Layer: 0
   m_Name: pellet_energizer (214)
   m_TagString: PacManfood
@@ -30236,3 +33412,15 @@ MonoBehaviour:
   isFood: 1
   Player: {fileID: 0}
   Food: {fileID: 0}
+--- !u!114 &2147313321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2147313316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
