@@ -4,14 +4,15 @@ using UnityEngine;
 
 public class Pallina : MonoBehaviour
 {
-    Pallina cibo;
+    public bool attivo = true;
+    Collider2D collider;
 
     void Start()
     {
-        if(gameObject.GetComponent<Renderer>().enabled == false || gameObject.GetComponent<Collider>().enabled == false)
+        if(gameObject.GetComponent<Renderer>().enabled == false || attivo == false)
         {
             gameObject.GetComponent<Renderer>().enabled = true;
-            gameObject.GetComponent<Collider>().enabled = true;
+            collider.gameObject.SetActive(true);
         }
         
     }
@@ -21,7 +22,8 @@ public class Pallina : MonoBehaviour
         if (other.gameObject.tag == "Player")
         {
             gameObject.GetComponent<Renderer>().enabled = false;
-            gameObject.GetComponent<Collider>().enabled = false;
+            gameObject.SetActive(false);
+            attivo = false;
         }
     }
 }
