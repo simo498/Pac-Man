@@ -5,7 +5,10 @@ using UnityEngine;
 public class PacManFood : MonoBehaviour
 {
     public bool isFood;
-    private int score = 0;
+    int score;
+
+    public GameObject Player;
+    public GameObject Food;
 
     // Start is called before the first frame update
     void Start()
@@ -19,15 +22,12 @@ public class PacManFood : MonoBehaviour
 
         
     }
-    public void OnCollisionEnter2D(Collision2D other)
-    {
-        for(int i = 0; i < 10; i++ )
-        { 
-            if (other.gameObject.tag == "PacManfood")
-            {
-                score = score + 1;
-                Debug.Log("Score = " + score);
-            }
-        }
-    }
+    void OnTriggerEnter2D(Collider2D other)
+    {             
+         if (other.gameObject.tag == "Player")
+         {
+              score = score + 1;
+              Debug.Log("Score = " + score);
+         }      
+     }
 }
