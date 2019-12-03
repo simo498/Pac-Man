@@ -20611,7 +20611,7 @@ GameObject:
   - component: {fileID: 1476270596}
   - component: {fileID: 1476270595}
   - component: {fileID: 1476270594}
-  - component: {fileID: 1476270599}
+  - component: {fileID: 1476270597}
   m_Layer: 0
   m_Name: pacman_sprite
   m_TagString: Player
@@ -20627,8 +20627,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1476270592}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 17.57, y: 9.261, z: 0}
-  m_LocalScale: {x: 1.3593882, y: 1.3917117, z: 1}
+  m_LocalPosition: {x: 18.2, y: 9.35, z: 0}
+  m_LocalScale: {x: 1.124214, y: 1.1773881, z: 1}
   m_Children: []
   m_Father: {fileID: 263326343}
   m_RootOrder: 0
@@ -20686,6 +20686,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!58 &1476270597
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1476270592}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000012516975, y: 0}
+  serializedVersion: 2
+  m_Radius: 1
 --- !u!212 &1476270598
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20735,32 +20751,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &1476270599
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1476270592}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.012823582, y: -0.029280007}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2, y: 2}
-    newSize: {x: 2, y: 2}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.9743528, y: 1.94144}
-  m_EdgeRadius: 0
 --- !u!1 &1478403602
 GameObject:
   m_ObjectHideFlags: 0
