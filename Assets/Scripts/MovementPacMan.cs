@@ -84,12 +84,13 @@ public class MovementPacMan : MonoBehaviour
     Rigidbody2D pacManRB;
     Collider2D _pacManCollider;
     public float PacManSpeed;
-    public Vector2 direzione = Vector2.left;
-    public Vector2 _nextDirection = Vector2.zero;
+    public Vector2 direzione = Vector2.zero;
+    public Vector2 _nextDirection;
     void Start()
     {
         pacManRB = GetComponent<Rigidbody2D>();
         _pacManCollider = GetComponent<Collider2D>();
+        _nextDirection = Vector2.left;
     }
 
     void Update()

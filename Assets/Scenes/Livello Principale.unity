@@ -14690,8 +14690,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0685451bfe289b34bb4130df65c72c94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedPacMan: 4
+  PacManSpeed: 5
   direzione: {x: 0, y: 0}
+  _nextDirection: {x: 0, y: 0}
 --- !u!50 &1476270596
 Rigidbody2D:
   serializedVersion: 4
