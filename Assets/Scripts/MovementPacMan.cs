@@ -9,7 +9,7 @@ public class MovementPacMan : MonoBehaviour
     public Vector2 direzione = Vector2.zero;
     void Start()
     {
-        pacManRB = GetComponent<Rigidbody2D>();
+        pacManRB = GetComponent<Rigidbody2D>();        
     }
 
     void Update()
@@ -50,4 +50,6 @@ public class MovementPacMan : MonoBehaviour
     {
         transform.localPosition += (Vector3)(direzione * speedPacMan) * Time.deltaTime;
     }
+
+ 
 }
