@@ -9,6 +9,7 @@ public class Collisioni : MonoBehaviour
 {
     int score;
     bool superPower = false;
+    public uint DURATA_POTERE_MS;
     Stopwatch timer;
     public Text ScoreText;
     public GameObject Player;
@@ -20,7 +21,6 @@ public class Collisioni : MonoBehaviour
         if (other.gameObject.tag == "PacManfood")
         {
             score += 5;
-            //UnityEngine.Debug.Log("Score = " + score);
             ScoreText.text = "Score: " + score.ToString();
         }
 
@@ -28,13 +28,14 @@ public class Collisioni : MonoBehaviour
         {
             if (superPower == true)
             {
-                //CODICE MORTE FANTASMA
                 other.gameObject.GetComponent<Renderer>().enabled = false;
                 other.gameObject.SetActive(false);
             }
+
             else
             {
-                //PACMAN MUORE
+                GetComponent<Renderer>().enabled = false;
+                gameObject.SetActive(false);
             }
 
         }
@@ -44,20 +45,15 @@ public class Collisioni : MonoBehaviour
             superPower = true;
             timer = new Stopwatch();
             timer.Start();
-            UnityEngine.Debug.Log("SUPER POWER INIZIO");
-            //CODICE PER I FANTASMI
         }
     }
 
     void FixedUpdate()
     {
-        if (superPower == true && timer.ElapsedMilliseconds > 7000)
+        if (superPower == true && timer.ElapsedMilliseconds >= DURATA_POTERE_MS)
         {
             superPower = false;
             timer.Stop();
-            UnityEngine.Debug.Log("SUPER POWER FINE");
-            //I FANTASMI TORNANO NORMALI
         }
     }
 }
-
