@@ -11,7 +11,6 @@ public class MovementPacMan : MonoBehaviour
     const int RIGHT_DIRECTION = 0;
     
     Vector2 NextDirection;
-    Collider2D pacManCollider;
     Vector2 Direction = Vector2.zero;
 
     public float PacManSpeed;
@@ -55,7 +54,7 @@ public class MovementPacMan : MonoBehaviour
     bool IsValid(Vector2 direction)
     {
         Vector2 pos = transform.position;
-        Vector2 linecastVector = Vector2.zero;
+        Vector2 linecastVector;
         if (direction == Vector2.left)
             linecastVector = pos + new Vector2(-0.4f, 0.0f);
         else if (direction == Vector2.right)
@@ -72,10 +71,8 @@ public class MovementPacMan : MonoBehaviour
         else return true;
     }
 
-
     void Start()
     {
-        pacManCollider = GetComponent<Collider2D>();
         NextDirection = Vector2.left;
     }
 
