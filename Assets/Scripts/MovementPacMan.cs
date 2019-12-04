@@ -55,7 +55,7 @@ public class MovementPacMan : MonoBehaviour
     bool IsValid(Vector2 direction)
     {
         Vector2 pos = transform.position;
-        Vector2 linecastVector;
+        Vector2 linecastVector = Vector2.zero;
         if (direction == Vector2.left)
             linecastVector = pos + new Vector2(-0.4f, 0.0f);
         else if (direction == Vector2.right)
@@ -67,7 +67,7 @@ public class MovementPacMan : MonoBehaviour
         else return false;
 
         var hit = Physics2D.Linecast(linecastVector, pos);
-        if (hit.collider == pacManCollider || hit.collider.CompareTag("PacManfood"))
+        if (hit.collider == pacManCollider || hit.collider.tag == "PacManfood")
             return true;
         else return false;
     }
