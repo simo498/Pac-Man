@@ -14,9 +14,9 @@ public class PacManFood : MonoBehaviour
     {             
          if (other.gameObject.tag == "PacManfood")
          {
-              score = score + 1;
+              score += 5;
               Debug.Log("Score = " + score);
-              ScoreText.text= "Score = " + score.ToString();
+              ScoreText.text= "Score: " + score.ToString();
          }      
      }
 }

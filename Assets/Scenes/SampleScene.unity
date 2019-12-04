@@ -231,9 +231,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2200606
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -358,9 +355,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &4476793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -485,9 +479,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &6230278
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -612,9 +603,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &13328106
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -739,9 +727,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &23374882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -866,9 +851,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &25082378
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -993,9 +975,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &35061936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1120,9 +1099,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &40933603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1247,9 +1223,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &75954775
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1374,9 +1347,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &100468935
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1501,9 +1471,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &102244072
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1628,9 +1595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &109415201
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1755,9 +1719,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &110922112
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1882,9 +1843,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &115469998
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2009,9 +1967,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &119496289
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2136,9 +2091,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &123322788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2263,9 +2215,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &136665413
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2390,9 +2339,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &146209599
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2517,9 +2463,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &148437641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2678,9 +2621,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &167178027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2805,9 +2745,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &167226550
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2932,9 +2869,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &175185051
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3059,9 +2993,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &176176081
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3186,9 +3117,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &197108458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3313,9 +3241,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &212175645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3440,9 +3365,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &222722439
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3567,9 +3489,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &227315279
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3694,9 +3613,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &228537713
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3821,9 +3737,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &234496641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3948,9 +3861,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &245092224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4075,9 +3985,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &263277124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4233,9 +4140,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &267108144
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4360,9 +4264,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &272383008
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4487,9 +4388,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &273718643
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4614,9 +4512,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &278758918
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4741,9 +4636,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &286080671
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4868,9 +4760,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &299792411
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4995,9 +4884,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &326836467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5122,9 +5008,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &328506671
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5249,9 +5132,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &330223227
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5376,9 +5256,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &337170752
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5503,9 +5380,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &347758426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5630,9 +5504,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &348367634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5757,9 +5628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &348981910
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5884,9 +5752,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &350864953
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6011,9 +5876,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &352382959
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6138,9 +6000,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &353219504
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6265,9 +6124,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &372796319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6392,9 +6248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &386200207
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6519,9 +6372,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &386826360
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6646,9 +6496,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &388360391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6773,9 +6620,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &388913186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6900,9 +6744,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &392163738
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7027,9 +6868,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &395950137
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7154,9 +6992,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &396929418
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7281,9 +7116,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &397901006
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7408,9 +7240,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &399951746
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7535,9 +7364,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &401875871
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7742,9 +7568,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &407903497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7869,9 +7692,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &408530815
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7996,9 +7816,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &412850201
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8123,9 +7940,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &415531364
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8250,9 +8064,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &422569228
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8377,9 +8188,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &428015631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8504,9 +8312,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &451554742
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8631,9 +8436,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &468704885
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8758,9 +8560,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &491387607
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8968,9 +8767,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &528756787
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9095,9 +8891,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &571421327
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9222,9 +9015,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &575087322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9349,9 +9139,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &577426641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9575,9 +9362,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &593472627
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9702,9 +9486,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &617251568
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9829,9 +9610,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &619198264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9956,9 +9734,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &637934195
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10083,9 +9858,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &642580299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10210,9 +9982,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &643424854
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10337,9 +10106,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &654716695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10464,9 +10230,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &672336851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10623,9 +10386,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &699428782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10750,9 +10510,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &702291588
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11050,9 +10807,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!1 &722017617
 GameObject:
   m_ObjectHideFlags: 0
@@ -11164,9 +10918,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &722017622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11291,9 +11042,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &732289813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11418,9 +11166,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &737074373
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11545,9 +11290,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &759911874
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11672,9 +11414,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &762113008
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11799,9 +11538,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &774207186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11926,9 +11662,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &788025698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12053,9 +11786,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &795900327
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12180,9 +11910,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &799265903
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12307,9 +12034,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &808348613
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12434,9 +12158,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &815448607
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12779,9 +12500,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &844846969
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12906,9 +12624,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &846968476
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13033,9 +12748,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &858400342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13160,9 +12872,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &890561728
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13287,9 +12996,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &901762253
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13521,9 +13227,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &907533233
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13648,9 +13351,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &920444033
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13775,9 +13475,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &928146347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13902,9 +13599,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &933200645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14029,9 +13723,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &941815679
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14156,9 +13847,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &943083623
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14283,9 +13971,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &948647645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14410,9 +14095,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &952444813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14537,9 +14219,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &953790345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14664,9 +14343,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &960384737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14791,9 +14467,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &961455909
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14918,9 +14591,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &973101846
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15045,9 +14715,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &983369283
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15172,9 +14839,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &987166642
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15299,9 +14963,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &987462152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15426,9 +15087,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1005443168
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15553,9 +15211,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1011026013
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15680,9 +15335,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1013050798
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15808,9 +15460,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1016559785
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15948,9 +15597,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1017167732
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16075,9 +15721,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1035381042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16202,9 +15845,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1052391295
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16329,9 +15969,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1082845439
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16488,9 +16125,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1094905782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16615,9 +16249,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1106003365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16742,9 +16373,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1120900951
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16869,9 +16497,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1125164983
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16996,9 +16621,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1129386967
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17123,9 +16745,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1134383644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17250,9 +16869,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1156942754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17463,9 +17079,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1170988432
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17590,9 +17203,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1177277451
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17717,9 +17327,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1178947587
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17844,9 +17451,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1181697145
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17971,9 +17575,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1188881583
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18178,9 +17779,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1216187554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18305,9 +17903,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1231892609
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18432,9 +18027,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1236951196
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18559,9 +18151,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1254308287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18686,9 +18275,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1258658297
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18906,9 +18492,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1262399990
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19033,9 +18616,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1269274606
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19160,9 +18740,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1274475092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19287,9 +18864,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1285196681
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19414,9 +18988,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1307132441
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19541,9 +19112,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1312036505
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19668,9 +19236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1320312970
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19795,9 +19360,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1335182812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19922,9 +19484,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1335749068
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20049,9 +19608,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1343289323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20176,9 +19732,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1343601201
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20383,9 +19936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1347425548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20510,9 +20060,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1370424058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20637,9 +20184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1370574322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20764,9 +20308,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1390492495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20891,9 +20432,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1391917827
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22066,9 +21604,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1405608242
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22193,9 +21728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1406334711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22427,9 +21959,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1427089366
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22554,9 +22083,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1430541913
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22681,9 +22207,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1432321709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22808,9 +22331,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1439888230
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22935,9 +22455,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1472475036
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22963,6 +22480,7 @@ GameObject:
   - component: {fileID: 1476270598}
   - component: {fileID: 1476270596}
   - component: {fileID: 1476270595}
+  - component: {fileID: 1476270600}
   - component: {fileID: 1476270599}
   - component: {fileID: 1476270594}
   - component: {fileID: 1476270597}
@@ -23117,6 +22635,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1476270600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1476270592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95aaf57254d9da3438567525b580711c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
   ScoreText: {fileID: 1612996045}
   Player: {fileID: 0}
   Food: {fileID: 0}
@@ -23231,9 +22761,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1478403607
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23358,9 +22885,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1483985090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23485,9 +23009,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1500957633
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23612,9 +23133,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1512690075
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23739,9 +23257,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1523542693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23866,9 +23381,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1528373791
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24059,9 +23571,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1560797870
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24186,9 +23695,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1579682063
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24313,9 +23819,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1583298994
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24440,9 +23943,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1583654760
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24512,7 +24012,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: d1b15a42d2526d64fa4e8103e5c210e4, type: 3}
     m_FontSize: 21
     m_FontStyle: 0
     m_BestFit: 0
@@ -24644,9 +24144,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1614266280
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24771,9 +24268,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1616471431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24898,9 +24392,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1617945378
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25025,9 +24516,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1625665154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25152,9 +24640,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1626102551
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25279,9 +24764,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1628041491
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25406,9 +24888,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1631865216
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25533,9 +25012,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1637701879
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25660,9 +25136,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1646082662
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25787,9 +25260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1667336570
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25914,9 +25384,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1671250326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26042,9 +25509,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1672156857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26182,9 +25646,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1673340256
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26309,9 +25770,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1679589910
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26436,9 +25894,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1694707286
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26563,9 +26018,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1706054869
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26690,9 +26142,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1709692580
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26817,9 +26266,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1738845059
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26944,9 +26390,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1745576994
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27151,9 +26594,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1746637821
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27278,9 +26718,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1753898371
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27405,9 +26842,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1767491134
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27532,9 +26966,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1768114910
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27659,9 +27090,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1798099221
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27786,9 +27214,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1804532538
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27913,9 +27338,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1810231520
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28040,9 +27462,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1818849455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28167,9 +27586,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1822994759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28294,9 +27710,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1824429264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28421,9 +27834,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1827945401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28548,9 +27958,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1829765810
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28675,9 +28082,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1839748910
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28802,9 +28206,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1839803055
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28963,9 +28364,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1864393053
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29090,9 +28488,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1875523631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29217,9 +28612,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1892463181
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29345,9 +28737,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1893088381
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29485,9 +28874,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1898754908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29612,9 +28998,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1902312167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29846,9 +29229,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1922655829
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29973,9 +29353,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1927779580
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30100,9 +29477,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1930470810
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30227,9 +29601,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1935717192
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30354,9 +29725,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1950156160
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30481,9 +29849,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1970399055
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30608,9 +29973,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1971296326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30735,9 +30097,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1975684216
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30862,9 +30221,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1985402689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30989,9 +30345,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1988945428
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31116,9 +30469,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1989401126
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31243,9 +30593,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &1990816842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31370,9 +30717,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2003285888
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31497,9 +30841,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2005379583
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31624,9 +30965,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2011539507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31751,9 +31089,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2012295549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31878,9 +31213,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2022107769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32005,9 +31337,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2024231457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32132,9 +31461,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2025801861
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32259,9 +31585,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2032801781
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32386,9 +31709,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2040547254
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32513,9 +31833,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2043556342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32640,9 +31957,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2046961541
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32767,9 +32081,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2055364985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32894,9 +32205,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2055567893
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33021,9 +32329,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2061244274
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33148,9 +32453,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2063569422
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33275,9 +32577,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2079314613
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33513,9 +32812,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2097392334
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33640,9 +32936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2110138496
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33767,9 +33060,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2124356175
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33894,9 +33184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 0}
-  Player: {fileID: 0}
-  Food: {fileID: 0}
 --- !u!114 &2147313321
 MonoBehaviour:
   m_ObjectHideFlags: 0
