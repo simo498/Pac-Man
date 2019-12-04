@@ -11128,6 +11128,7 @@ GameObject:
   - component: {fileID: 831300766}
   - component: {fileID: 831300768}
   - component: {fileID: 831300767}
+  - component: {fileID: 831300769}
   m_Layer: 0
   m_Name: RedGhost
   m_TagString: Ghost
@@ -11224,6 +11225,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &831300769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831300765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0685451bfe289b34bb4130df65c72c94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Speed: 0
 --- !u!1 &844846964
 GameObject:
   m_ObjectHideFlags: 0
@@ -11790,6 +11804,7 @@ GameObject:
   - component: {fileID: 906701697}
   - component: {fileID: 906701699}
   - component: {fileID: 906701698}
+  - component: {fileID: 906701700}
   m_Layer: 0
   m_Name: OrangeGhost
   m_TagString: Ghost
@@ -11886,6 +11901,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &906701700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 906701696}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0685451bfe289b34bb4130df65c72c94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Speed: 0
 --- !u!1 &907533228
 GameObject:
   m_ObjectHideFlags: 0
@@ -19830,6 +19858,7 @@ GameObject:
   - component: {fileID: 1419506909}
   - component: {fileID: 1419506911}
   - component: {fileID: 1419506910}
+  - component: {fileID: 1419506912}
   m_Layer: 0
   m_Name: BlueGhost
   m_TagString: Ghost
@@ -19926,6 +19955,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1419506912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419506908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0685451bfe289b34bb4130df65c72c94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Speed: 0
 --- !u!1 &1427089361
 GameObject:
   m_ObjectHideFlags: 0
@@ -20492,10 +20534,10 @@ GameObject:
   - component: {fileID: 1476270593}
   - component: {fileID: 1476270598}
   - component: {fileID: 1476270596}
-  - component: {fileID: 1476270595}
   - component: {fileID: 1476270600}
   - component: {fileID: 1476270594}
   - component: {fileID: 1476270597}
+  - component: {fileID: 1476270595}
   m_Layer: 0
   m_Name: pacman_sprite
   m_TagString: Player
@@ -20545,10 +20587,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1476270592}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0685451bfe289b34bb4130df65c72c94, type: 3}
+  m_Script: {fileID: 11500000, guid: f58754da0bd6c754fac5fa2aeac1bd7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PacManSpeed: 6
+  Speed: 5
 --- !u!50 &1476270596
 Rigidbody2D:
   serializedVersion: 4
@@ -26422,6 +26464,7 @@ GameObject:
   - component: {fileID: 1909493951}
   - component: {fileID: 1909493953}
   - component: {fileID: 1909493952}
+  - component: {fileID: 1909493954}
   m_Layer: 0
   m_Name: PinkyGhost
   m_TagString: Ghost
@@ -26518,6 +26561,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1909493954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909493950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0685451bfe289b34bb4130df65c72c94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Speed: 0
 --- !u!1 &1922655824
 GameObject:
   m_ObjectHideFlags: 0
