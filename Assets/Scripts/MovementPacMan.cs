@@ -67,9 +67,9 @@ public class MovementPacMan : MonoBehaviour
         else return false;
 
         var hit = Physics2D.Linecast(linecastVector, pos);
-        if (hit.collider == pacManCollider || hit.collider.tag == "PacManfood")
-            return true;
-        else return false;
+        if (hit.collider.CompareTag("Wall") || hit.collider.CompareTag("orange") || hit.collider.CompareTag("blue"))
+            return false;
+        else return true;
     }
 
 
