@@ -1,8 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class MovementPacMan : MonoBehaviour
+public class PacManMovement : BaseMovement
 {
     //ROTAZIONE IN GRADI
     const int UP_DIRECTION = 90;
@@ -13,10 +12,8 @@ public class MovementPacMan : MonoBehaviour
     Vector2 NextDirection;
     Vector2 Direction = Vector2.zero;
 
-    public float PacManSpeed;
-
     //Muove PacMan in base al vettore passato come parametro
-    void Move(Vector2 direction)
+    public override void Move(Vector2 direction)
     {
         if (direction == Vector2.up)
             Rotate(UP_DIRECTION);
@@ -27,7 +24,7 @@ public class MovementPacMan : MonoBehaviour
         else if (direction == Vector2.right)
             Rotate(RIGHT_DIRECTION);
 
-        transform.localPosition += (Vector3)(direction * PacManSpeed) * Time.deltaTime;
+        base.Move(direction);
     }
 
     //Ottiene l'input da (WASD o freccette) e restituisce il vettore in cui PacMan dovrebbe
@@ -49,34 +46,6 @@ public class MovementPacMan : MonoBehaviour
     void Rotate(int rotation)
     {
         transform.localRotation = Quaternion.Euler(0, 0, rotation);
-    }
-
-    bool IsValid(Vector2 direction)
-    {
-        var hits = new RaycastHit2D[10];
-        Vector2 pos = transform.position;
-        Vector2 linecastVector;
-        if (direction == Vector2.left)
-            linecastVector = pos + new Vector2(-0.4f, 0.0f);
-        else if (direction == Vector2.right)
-            linecastVector = pos + new Vector2(0.4f, 0.0f);
-        else if (direction == Vector2.up)
-            linecastVector = pos + new Vector2(0.0f, 0.4f);
-        else if (direction == Vector2.down)
-            linecastVector = pos + new Vector2(0.0f, -0.4f);
-        else return false;
-
-        var filter = new ContactFilter2D(); filter.NoFilter();
-
-        Physics2D.Linecast(pos, linecastVector, filter, hits);
-        var hit = hits[1];
-        if (hit.collider != null && (
-                hit.collider.CompareTag("Wall") ||
-                hit.collider.CompareTag("orange") ||
-                hit.collider.CompareTag("blue")))
-            return false;
-
-        else return true;
     }
 
     void Start()
