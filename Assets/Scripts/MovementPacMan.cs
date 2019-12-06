@@ -9,7 +9,7 @@ public class MovementPacMan : MonoBehaviour
     const int DOWN_DIRECTION = -90;
     const int LEFT_DIRECTION = -180;
     const int RIGHT_DIRECTION = 0;
-    
+
     Vector2 NextDirection;
     Vector2 Direction = Vector2.zero;
 
@@ -53,6 +53,7 @@ public class MovementPacMan : MonoBehaviour
 
     bool IsValid(Vector2 direction)
     {
+        var hits = new RaycastHit2D[10];
         Vector2 pos = transform.position;
         Vector2 linecastVector;
         if (direction == Vector2.left)
@@ -65,9 +66,16 @@ public class MovementPacMan : MonoBehaviour
             linecastVector = pos + new Vector2(0.0f, -0.4f);
         else return false;
 
-        var hit = Physics2D.Linecast(linecastVector, pos);
-        if (hit.collider.CompareTag("Wall") || hit.collider.CompareTag("orange") || hit.collider.CompareTag("blue"))
+        var filter = new ContactFilter2D(); filter.NoFilter();
+
+        Physics2D.Linecast(pos, linecastVector, filter, hits);
+        var hit = hits[1];
+        if (hit.collider != null && (
+                hit.collider.CompareTag("Wall") ||
+                hit.collider.CompareTag("orange") ||
+                hit.collider.CompareTag("blue")))
             return false;
+
         else return true;
     }
 
