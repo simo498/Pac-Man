@@ -8,6 +8,7 @@ TagManager:
   - blue
   - PacManfood
   - PacManSfood
+  - Ghost
   layers:
   - Default
   - TransparentFX
