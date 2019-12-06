@@ -38,4 +38,3 @@ public class BaseMovement : MonoBehaviour
         else return true;
     }
 }
-
