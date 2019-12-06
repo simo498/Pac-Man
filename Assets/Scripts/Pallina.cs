@@ -5,14 +5,13 @@ using UnityEngine;
 public class Pallina : MonoBehaviour
 {
     public bool attivo = true;
-    Collider2D collider;
 
     void Start()
     {
         if(gameObject.GetComponent<Renderer>().enabled == false || attivo == false)
         {
             gameObject.GetComponent<Renderer>().enabled = true;
-            collider.gameObject.SetActive(true);
+            GetComponent<Collider>().gameObject.SetActive(true);
         }
         
     }

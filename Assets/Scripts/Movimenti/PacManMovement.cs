@@ -1,23 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class MovementPacMan : MonoBehaviour
+public class PacManMovement : BaseMovement
 {
     //ROTAZIONE IN GRADI
     const int UP_DIRECTION = 90;
     const int DOWN_DIRECTION = -90;
     const int LEFT_DIRECTION = -180;
     const int RIGHT_DIRECTION = 0;
-    
+
     Vector2 NextDirection;
-    Collider2D pacManCollider;
     Vector2 Direction = Vector2.zero;
 
-    public float PacManSpeed;
-
     //Muove PacMan in base al vettore passato come parametro
-    void Move(Vector2 direction)
+    public override void Move(Vector2 direction)
     {
         if (direction == Vector2.up)
             Rotate(UP_DIRECTION);
@@ -28,7 +24,7 @@ public class MovementPacMan : MonoBehaviour
         else if (direction == Vector2.right)
             Rotate(RIGHT_DIRECTION);
 
-        transform.localPosition += (Vector3)(direction * PacManSpeed) * Time.deltaTime;
+        base.Move(direction);
     }
 
     //Ottiene l'input da (WASD o freccette) e restituisce il vettore in cui PacMan dovrebbe
@@ -52,31 +48,8 @@ public class MovementPacMan : MonoBehaviour
         transform.localRotation = Quaternion.Euler(0, 0, rotation);
     }
 
-    bool IsValid(Vector2 direction)
-    {
-        Vector2 pos = transform.position;
-        Vector2 linecastVector = Vector2.zero;
-        if (direction == Vector2.left)
-            linecastVector = pos + new Vector2(-0.4f, 0.0f);
-        else if (direction == Vector2.right)
-            linecastVector = pos + new Vector2(0.4f, 0.0f);
-        else if (direction == Vector2.up)
-            linecastVector = pos + new Vector2(0.0f, 0.4f);
-        else if (direction == Vector2.down)
-            linecastVector = pos + new Vector2(0.0f, -0.4f);
-        else return false;
-
-        var hit = Physics2D.Linecast(linecastVector, pos);
-        if (hit.collider == pacManCollider || hit.collider.tag == "PacManfood" ||
-            hit.collider.tag == "PacManSfood")
-            return true;
-        else return false;
-    }
-
-
     void Start()
     {
-        pacManCollider = GetComponent<Collider2D>();
         NextDirection = Vector2.left;
     }
 
