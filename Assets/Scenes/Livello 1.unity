@@ -11128,6 +11128,8 @@ GameObject:
   - component: {fileID: 831300766}
   - component: {fileID: 831300768}
   - component: {fileID: 831300767}
+  - component: {fileID: 831300770}
+  - component: {fileID: 831300771}
   - component: {fileID: 831300769}
   m_Layer: 0
   m_Name: RedGhost
@@ -11144,8 +11146,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 831300765}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.80596584, y: 0.54504263, z: 22.53711}
-  m_LocalScale: {x: 0.9868, y: 0.9604, z: 1}
+  m_LocalPosition: {x: -1.995, y: 1.035, z: 22.53711}
+  m_LocalScale: {x: 0.719401, y: 0.75262326, z: 1}
   m_Children: []
   m_Father: {fileID: 155577083}
   m_RootOrder: 0
@@ -11157,7 +11159,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 831300765}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -11234,10 +11236,47 @@ MonoBehaviour:
   m_GameObject: {fileID: 831300765}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0685451bfe289b34bb4130df65c72c94, type: 3}
+  m_Script: {fileID: 11500000, guid: cfc921c0fb9638942b0da37c9e4c938b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 0
+  Speed: 1
+--- !u!50 &831300770
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831300765}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!70 &831300771
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831300765}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000000027939677, y: -0.000000059604645}
+  m_Size: {x: 0.32000002, y: 0.31999996}
+  m_Direction: 0
 --- !u!1 &844846964
 GameObject:
   m_ObjectHideFlags: 0
@@ -20590,7 +20629,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f58754da0bd6c754fac5fa2aeac1bd7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 5
+  Speed: 1
 --- !u!50 &1476270596
 Rigidbody2D:
   serializedVersion: 4

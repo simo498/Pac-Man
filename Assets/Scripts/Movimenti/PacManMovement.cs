@@ -31,13 +31,13 @@ public class PacManMovement : BaseMovement
     //svoltare, o un vettore nullo se non viene dato alcun input
     Vector2 GetInput()
     {
-        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
             return Vector2.left;
-        else if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
+        else if (Input.GetKeyDown(KeyCode.RightArrow))
             return Vector2.right;
-        else if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W))
+        else if (Input.GetKeyDown(KeyCode.UpArrow))
             return Vector2.up;
-        else if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S))
+        else if (Input.GetKeyDown(KeyCode.DownArrow))
             return Vector2.down;
 
         else return Vector2.zero;
@@ -68,4 +68,6 @@ public class PacManMovement : BaseMovement
         }
         Move(Direction);
     }
+
+    
 }
