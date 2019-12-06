@@ -8,6 +8,11 @@ TagManager:
   - blue
   - PacManfood
   - PacManSfood
+<<<<<<< Updated upstream
+=======
+  - Ghost
+  - Incrocio
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX

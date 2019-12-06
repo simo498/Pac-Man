@@ -9,6 +9,7 @@ public class MovementPacMan : MonoBehaviour
     const int DOWN_DIRECTION = -90;
     const int LEFT_DIRECTION = -180;
     const int RIGHT_DIRECTION = 0;
+    public bool svolta=false;
     
     Vector2 NextDirection;
     Collider2D pacManCollider;
@@ -35,14 +36,34 @@ public class MovementPacMan : MonoBehaviour
     //svoltare, o un vettore nullo se non viene dato alcun input
     Vector2 GetInput()
     {
-        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
-            return Vector2.left;
+        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A) && svolta == true)
+        {
+            if (svolta == true)
+            {
+                return Vector2.left;
+            }
+            else return Vector2.zero;
+        }
         else if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
-            return Vector2.right;
+        {
+            if (svolta == true)
+            {
+                return Vector2.right;
+            }
+            else return Vector2.zero;
+        }
         else if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W))
-            return Vector2.up;
+            if (svolta == true)
+            {
+                return Vector2.up;
+            }
+            else return Vector2.zero; 
         else if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S))
-            return Vector2.down;
+            if (svolta == true)
+            {
+                return Vector2.down;
+            }
+            else return Vector2.zero; 
 
         else return Vector2.zero;
     }
@@ -52,7 +73,7 @@ public class MovementPacMan : MonoBehaviour
         transform.localRotation = Quaternion.Euler(0, 0, rotation);
     }
 
-    bool IsValid(Vector2 direction)
+    /*bool IsValid(Vector2 direction)
     {
         Vector2 pos = transform.position;
         Vector2 linecastVector = Vector2.zero;
@@ -70,10 +91,17 @@ public class MovementPacMan : MonoBehaviour
         if (hit.collider == pacManCollider || hit.collider.tag == "PacManfood")
             return true;
         else return false;
+    }*/
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag == "Incrocio")
+        {
+            svolta = true;
+        }
     }
 
-
-    void Start()
+        void Start()
     {
         pacManCollider = GetComponent<Collider2D>();
         NextDirection = Vector2.left;
@@ -84,11 +112,13 @@ public class MovementPacMan : MonoBehaviour
         var input = GetInput();
         if (input != Vector2.zero)
         {
+            svolta = false;
             NextDirection = input;
         }
 
-        if (NextDirection != Vector2.zero && IsValid(NextDirection))
+        if (NextDirection != Vector2.zero )
         {
+            svolta = false;
             Direction = NextDirection;
             NextDirection = Vector2.zero;
         }
