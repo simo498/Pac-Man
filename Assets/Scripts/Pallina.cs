@@ -21,7 +21,7 @@ public class Pallina : MonoBehaviour
         if (other.gameObject.tag == "Player")
         {
             gameObject.GetComponent<Renderer>().enabled = false;
-            gameObject.SetActive(false);
+            //gameObject.SetActive(false);
             attivo = false;
         }
     }

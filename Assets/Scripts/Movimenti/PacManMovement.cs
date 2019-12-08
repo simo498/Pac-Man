@@ -61,7 +61,7 @@ public class PacManMovement : BaseMovement
             NextDirection = input;
         }
 
-        if (NextDirection != Vector2.zero && IsValid(NextDirection))
+        if (NextDirection != Vector2.zero && IsValid(NextDirection, "Ghost"))
         {
             Direction = NextDirection;
             NextDirection = Vector2.zero;
