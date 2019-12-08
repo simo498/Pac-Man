@@ -58,7 +58,14 @@ public class PacManMovement : BaseMovement
         var input = GetInput();
         if (input != Vector2.zero)
         {
-            NextDirection = input;
+            if (input == Inverso(Direction))
+            {
+                Direction = input;
+                NextDirection = Vector2.zero;
+                goto movimento;
+            }
+            else
+                NextDirection = input;
         }
 
         if (NextDirection != Vector2.zero && IsValid(NextDirection, "Ghost"))
@@ -66,6 +73,8 @@ public class PacManMovement : BaseMovement
             Direction = NextDirection;
             NextDirection = Vector2.zero;
         }
+
+    movimento:
         Move(Direction);
     }
 }
