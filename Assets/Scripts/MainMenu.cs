@@ -9,8 +9,8 @@ public class MainMenu : MonoBehaviour
     {
         Debug.Log("Scena 1");
         SceneManager.LoadScene("Livello1");
-        SceneManager.SetActiveScene(SceneManager.GetSceneByName("Livello1"));
     }
+
     public void ExitGame()
     {
         Debug.Log("Exit");
