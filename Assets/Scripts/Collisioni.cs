@@ -14,13 +14,14 @@ public class Collisioni : MonoBehaviour
     public GameObject Player;
     public GameObject Food;
     public GameObject[] Fantasmi;
+    public uint DURATA_POTERE_MS;
+    public uint vite = 3;
 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.tag == "PacManfood")
         {
             score += 5;
-            //UnityEngine.Debug.Log("Score = " + score);
             ScoreText.text = "Score: " + score.ToString();
         }
 
@@ -28,13 +29,28 @@ public class Collisioni : MonoBehaviour
         {
             if (superPower == true)
             {
-                //CODICE MORTE FANTASMA
                 other.gameObject.GetComponent<Renderer>().enabled = false;
                 other.gameObject.SetActive(false);
             }
+
             else
             {
-                //PACMAN MUORE
+                if (vite > 0)
+                {
+                    transform.localPosition = new Vector3(18.2f, 9.35f, 0.0f);
+                    vite--;
+                    superPower = false;
+                    var obj = GameObject.Find("pacman_sprite");
+                    var scriptableObj = obj.GetComponent<PacManMovement>();
+                    scriptableObj.Direction = Vector2.zero;
+                    scriptableObj.NextDirection = Vector2.left;
+                }
+
+                else
+                {
+                    GetComponent<Renderer>().enabled = false;
+                    gameObject.SetActive(false);
+                }
             }
 
         }
@@ -44,20 +60,15 @@ public class Collisioni : MonoBehaviour
             superPower = true;
             timer = new Stopwatch();
             timer.Start();
-            UnityEngine.Debug.Log("SUPER POWER INIZIO");
-            //CODICE PER I FANTASMI
         }
     }
 
     void FixedUpdate()
     {
-        if (superPower == true && timer.ElapsedMilliseconds > 7000)
+        if (superPower == true && timer.ElapsedMilliseconds >= DURATA_POTERE_MS)
         {
             superPower = false;
             timer.Stop();
-            UnityEngine.Debug.Log("SUPER POWER FINE");
-            //I FANTASMI TORNANO NORMALI
         }
     }
 }
-
