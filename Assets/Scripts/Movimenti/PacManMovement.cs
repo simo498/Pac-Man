@@ -9,8 +9,8 @@ public class PacManMovement : BaseMovement
     const int LEFT_DIRECTION = -180;
     const int RIGHT_DIRECTION = 0;
 
-    Vector2 NextDirection;
-    Vector2 Direction = Vector2.zero;
+    public Vector2 NextDirection;
+    public Vector2 Direction = Vector2.zero;
 
     //Muove PacMan in base al vettore passato come parametro
     public override void Move(Vector2 direction)
