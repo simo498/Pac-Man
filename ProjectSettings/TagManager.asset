@@ -11,7 +11,12 @@ TagManager:
 <<<<<<< Updated upstream
 =======
   - Ghost
+<<<<<<< Updated upstream
   - Incrocio
+>>>>>>> Stashed changes
+=======
+  - Turn
+  - TurnFantasmi
 >>>>>>> Stashed changes
   layers:
   - Default

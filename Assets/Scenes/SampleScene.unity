@@ -1499,7 +1499,7 @@ GameObject:
   - component: {fileID: 109415201}
   m_Layer: 0
   m_Name: pellet_energizer (254)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1512,7 +1512,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 109415196}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.329, y: 4.62, z: 0}
+  m_LocalPosition: {x: -4.337, y: 4.62, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -1580,9 +1580,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000009536743, y: -0.0000019073486}
+  m_Offset: {x: 0.0070150816, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.25512955
 --- !u!114 &109415200
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1623,7 +1623,7 @@ GameObject:
   - component: {fileID: 110922112}
   m_Layer: 0
   m_Name: pellet_energizer (206)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1704,9 +1704,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000038146973, y: 0}
+  m_Offset: {x: -0.012273414, y: 0}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.26702318
 --- !u!114 &110922111
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1747,7 +1747,7 @@ GameObject:
   - component: {fileID: 115469998}
   m_Layer: 0
   m_Name: pellet_energizer (227)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1828,9 +1828,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000071525574, y: 0.0000019073486}
+  m_Offset: {x: -0.0000007660244, y: 0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.22014199
 --- !u!114 &115469997
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1871,7 +1871,7 @@ GameObject:
   - component: {fileID: 119496289}
   m_Layer: 0
   m_Name: pellet_energizer (167)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1952,9 +1952,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000009536743, y: 0}
+  m_Offset: {x: -0.01568818, y: 0}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2648205
 --- !u!114 &119496288
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3517,7 +3517,7 @@ GameObject:
   - component: {fileID: 228537713}
   m_Layer: 0
   m_Name: pellet_energizer (90)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3530,7 +3530,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 228537708}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.0659947, y: 0.74655575, z: 0}
+  m_LocalPosition: {x: -2.027, y: 0.74655575, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -3598,9 +3598,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000009536743}
+  m_Offset: {x: -0.015355555, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.26981345
 --- !u!114 &228537712
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3765,7 +3765,7 @@ GameObject:
   - component: {fileID: 245092224}
   m_Layer: 0
   m_Name: pellet_energizer (58)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3778,7 +3778,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 245092219}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.026007662, y: 0.7433516, z: 0}
+  m_LocalPosition: {x: -0.026007662, y: 0.768, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -3846,9 +3846,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000009536743}
+  m_Offset: {x: -0.030710472, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.22377576
 --- !u!114 &245092223
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3889,7 +3889,7 @@ GameObject:
   - component: {fileID: 263277124}
   m_Layer: 0
   m_Name: pellet_energizer (45)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3970,9 +3970,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000019073486, y: -0.0000019073486}
+  m_Offset: {x: 0.0000020001748, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23587522
 --- !u!114 &263277123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4416,7 +4416,7 @@ GameObject:
   - component: {fileID: 278758918}
   m_Layer: 0
   m_Name: pellet_energizer (105)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4497,9 +4497,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000019073486, y: -0.0000019073486}
+  m_Offset: {x: -0.000002042732, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2544671
 --- !u!114 &278758917
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4664,7 +4664,7 @@ GameObject:
   - component: {fileID: 299792411}
   m_Layer: 0
   m_Name: pellet_energizer (104)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4677,7 +4677,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 299792406}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.9216514, y: -0.7769944, z: 0}
+  m_LocalPosition: {x: -5.9216514, y: -0.792, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -4745,9 +4745,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000019073486, y: -0.0000019073486}
+  m_Offset: {x: -0.000002042732, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.22377647
 --- !u!114 &299792410
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4773,6 +4773,130 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attivo: 1
+--- !u!1 &318193466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 318193467}
+  - component: {fileID: 318193471}
+  - component: {fileID: 318193470}
+  - component: {fileID: 318193469}
+  - component: {fileID: 318193468}
+  m_Layer: 0
+  m_Name: pellet_energizer (276)
+  m_TagString: TurnFantasmi
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &318193467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 318193466}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.825, y: 3.075, z: 0}
+  m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
+  m_Children: []
+  m_Father: {fileID: 703040739}
+  m_RootOrder: 247
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &318193468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 318193466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attivo: 1
+--- !u!114 &318193469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 318193466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!58 &318193470
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 318193466}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000027236424, y: -0.000001446002}
+  serializedVersion: 2
+  m_Radius: 0.23271175
+--- !u!212 &318193471
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 318193466}
+  m_Enabled: 0
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 79a7b4235e1aa45f68fc5dd2cd24d1f2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &326836462
 GameObject:
   m_ObjectHideFlags: 0
@@ -4925,7 +5049,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 328506666}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.5682704, y: -0.77379054, z: 0}
+  m_LocalPosition: {x: -2.558, y: -0.77379054, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -5656,7 +5780,7 @@ GameObject:
   - component: {fileID: 350864953}
   m_Layer: 0
   m_Name: pellet_energizer (260)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5737,9 +5861,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000047683716, y: 0}
+  m_Offset: {x: -0.015689202, y: 0}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23346196
 --- !u!114 &350864952
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5780,7 +5904,7 @@ GameObject:
   - component: {fileID: 352382959}
   m_Layer: 0
   m_Name: pellet_energizer (178)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5861,9 +5985,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000019073486, y: 0}
+  m_Offset: {x: -0.015686138, y: 0}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2648198
 --- !u!114 &352382958
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6028,7 +6152,7 @@ GameObject:
   - component: {fileID: 372796319}
   m_Layer: 0
   m_Name: pellet_energizer (33)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6109,9 +6233,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000071525574, y: -0.0000019073486}
+  m_Offset: {x: -0.0000007660244, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.19814336
 --- !u!114 &372796318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6648,7 +6772,7 @@ GameObject:
   - component: {fileID: 392163738}
   m_Layer: 0
   m_Name: pellet_energizer (42)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6661,7 +6785,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 392163733}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.077373, y: -0.7753925, z: 0}
+  m_LocalPosition: {x: -2.058, y: -0.7753925, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -6729,9 +6853,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000019073486}
+  m_Offset: {x: -0.018877907, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.29247382
 --- !u!114 &392163737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6896,7 +7020,7 @@ GameObject:
   - component: {fileID: 396929418}
   m_Layer: 0
   m_Name: pellet_energizer (36)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6977,9 +7101,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000009536743, y: -0.0000019073486}
+  m_Offset: {x: 0.03775513, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2736074
 --- !u!114 &396929417
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7020,7 +7144,7 @@ GameObject:
   - component: {fileID: 397901006}
   m_Layer: 0
   m_Name: pellet_energizer (259)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7101,9 +7225,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000071525574, y: 0}
+  m_Offset: {x: -0.031378403, y: 0}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.21778357
 --- !u!114 &397901005
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8212,8 +8336,8 @@ GameObject:
   - component: {fileID: 451554738}
   - component: {fileID: 451554739}
   - component: {fileID: 451554740}
-  - component: {fileID: 451554741}
   - component: {fileID: 451554742}
+  - component: {fileID: 451554741}
   m_Layer: 0
   m_Name: pellet_energizer (75)
   m_TagString: PacManfood
@@ -8229,7 +8353,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 451554737}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.0754225, y: -0.01281624, z: 0}
+  m_LocalPosition: {x: -3.202, y: -0.01281624, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -8297,9 +8421,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000035762787, y: -0.0000009536743}
+  m_Offset: {x: -0.031860787, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.213441
 --- !u!114 &451554741
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8307,9 +8431,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 451554737}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Script: {fileID: 11500000, guid: 49e694def99b26946bbf12c9ac4af78b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &451554742
@@ -8449,6 +8573,130 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attivo: 1
+--- !u!1 &470034233
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 470034234}
+  - component: {fileID: 470034238}
+  - component: {fileID: 470034237}
+  - component: {fileID: 470034236}
+  - component: {fileID: 470034235}
+  m_Layer: 0
+  m_Name: pellet_energizer (277)
+  m_TagString: TurnFantasmi
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &470034234
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 470034233}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.064, y: 2.277, z: 0}
+  m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
+  m_Children: []
+  m_Father: {fileID: 703040739}
+  m_RootOrder: 248
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &470034235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 470034233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attivo: 1
+--- !u!114 &470034236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 470034233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!58 &470034237
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 470034233}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000027236424, y: -0.000001446002}
+  serializedVersion: 2
+  m_Radius: 0.23271175
+--- !u!212 &470034238
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 470034233}
+  m_Enabled: 0
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 79a7b4235e1aa45f68fc5dd2cd24d1f2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &491387602
 GameObject:
   m_ObjectHideFlags: 0
@@ -8919,7 +9167,7 @@ GameObject:
   - component: {fileID: 575087322}
   m_Layer: 0
   m_Name: pellet_energizer (150)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9000,9 +9248,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000038146973, y: -0.0000009536743}
+  m_Offset: {x: -0.000003404553, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2544671
 --- !u!114 &575087321
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9623,6 +9871,130 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attivo: 1
+--- !u!1 &636024408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 636024409}
+  - component: {fileID: 636024413}
+  - component: {fileID: 636024412}
+  - component: {fileID: 636024411}
+  - component: {fileID: 636024410}
+  m_Layer: 0
+  m_Name: pellet_energizer (271)
+  m_TagString: TurnFantasmi
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &636024409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636024408}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.332, y: 3.041, z: 0}
+  m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
+  m_Children: []
+  m_Father: {fileID: 703040739}
+  m_RootOrder: 242
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &636024410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636024408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attivo: 1
+--- !u!114 &636024411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636024408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!58 &636024412
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636024408}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000027236424, y: -0.000001446002}
+  serializedVersion: 2
+  m_Radius: 0.23271175
+--- !u!212 &636024413
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636024408}
+  m_Enabled: 0
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 79a7b4235e1aa45f68fc5dd2cd24d1f2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &637934190
 GameObject:
   m_ObjectHideFlags: 0
@@ -10010,7 +10382,7 @@ GameObject:
   - component: {fileID: 654716695}
   m_Layer: 0
   m_Name: pellet_energizer (270)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10091,9 +10463,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.00000047683716, y: 0}
+  m_Offset: {x: 0.000000510683, y: 0}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.24914089
 --- !u!114 &654716694
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10793,6 +11165,14 @@ Transform:
   - {fileID: 1694707282}
   - {fileID: 1129386963}
   - {fileID: 654716691}
+  - {fileID: 949461124}
+  - {fileID: 636024409}
+  - {fileID: 1191200427}
+  - {fileID: 1140610909}
+  - {fileID: 2022027576}
+  - {fileID: 1775161797}
+  - {fileID: 318193467}
+  - {fileID: 470034234}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -10943,11 +11323,10 @@ GameObject:
   - component: {fileID: 732289809}
   - component: {fileID: 732289810}
   - component: {fileID: 732289811}
-  - component: {fileID: 732289812}
   - component: {fileID: 732289813}
   m_Layer: 0
   m_Name: pellet_energizer (64)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11028,21 +11407,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000009536743, y: -0.0000009536743}
+  m_Offset: {x: -0.018862585, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
---- !u!114 &732289812
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 732289808}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Radius: 0.29263952
 --- !u!114 &732289813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11691,7 +12058,7 @@ GameObject:
   - component: {fileID: 795900327}
   m_Layer: 0
   m_Name: pellet_energizer (53)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11772,9 +12139,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000009536743}
+  m_Offset: {x: 0, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2544664
 --- !u!114 &795900326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11815,7 +12182,7 @@ GameObject:
   - component: {fileID: 799265903}
   m_Layer: 0
   m_Name: pellet_energizer (99)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11896,9 +12263,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000009536743, y: -0.0000009536743}
+  m_Offset: {x: -0.030711792, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.12428405
 --- !u!114 &799265902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12063,7 +12430,7 @@ GameObject:
   - component: {fileID: 815448607}
   m_Layer: 0
   m_Name: pellet_energizer (138)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12144,9 +12511,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.000002861023, y: -0.0000009536743}
+  m_Offset: {x: -0.010858482, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.0827433
 --- !u!114 &815448606
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12405,7 +12772,7 @@ GameObject:
   - component: {fileID: 844846969}
   m_Layer: 0
   m_Name: pellet_energizer (76)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12486,9 +12853,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.00000029802322, y: -0.0000009536743}
+  m_Offset: {x: -0.046066325, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2391218
 --- !u!114 &844846968
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13489,6 +13856,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attivo: 1
+--- !u!1 &931529093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 931529094}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &931529094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 931529093}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.7296351, y: 0.13449338, z: -11.826629}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &933200640
 GameObject:
   m_ObjectHideFlags: 0
@@ -13889,7 +14286,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 948647640}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.3179452, y: -0.7753925, z: 0}
+  m_LocalPosition: {x: -2.305, y: -0.7753925, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -13985,6 +14382,130 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attivo: 1
+--- !u!1 &949461123
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 949461124}
+  - component: {fileID: 949461128}
+  - component: {fileID: 949461127}
+  - component: {fileID: 949461126}
+  - component: {fileID: 949461125}
+  m_Layer: 0
+  m_Name: pellet_energizer (216)
+  m_TagString: TurnFantasmi
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &949461124
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949461123}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.325, y: 2.31, z: 0}
+  m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
+  m_Children: []
+  m_Father: {fileID: 703040739}
+  m_RootOrder: 241
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &949461125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949461123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attivo: 1
+--- !u!114 &949461126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949461123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!58 &949461127
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949461123}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000027236424, y: -0.000001446002}
+  serializedVersion: 2
+  m_Radius: 0.23271175
+--- !u!212 &949461128
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949461123}
+  m_Enabled: 0
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 79a7b4235e1aa45f68fc5dd2cd24d1f2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &952444808
 GameObject:
   m_ObjectHideFlags: 0
@@ -14620,7 +15141,7 @@ GameObject:
   - component: {fileID: 983369283}
   m_Layer: 0
   m_Name: pellet_energizer (106)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14701,9 +15222,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000019073486}
+  m_Offset: {x: 0, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2544664
 --- !u!114 &983369282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14744,7 +15265,7 @@ GameObject:
   - component: {fileID: 987166642}
   m_Layer: 0
   m_Name: pellet_energizer (207)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14825,9 +15346,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000038146973, y: 0}
+  m_Offset: {x: -0.024543423, y: 0}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.25476244
 --- !u!114 &987166641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15360,12 +15881,11 @@ GameObject:
   - component: {fileID: 1016559781}
   - component: {fileID: 1016559782}
   - component: {fileID: 1016559783}
-  - component: {fileID: 1016559784}
-  - component: {fileID: 1016559786}
   - component: {fileID: 1016559785}
+  - component: {fileID: 1016559784}
   m_Layer: 0
   m_Name: pellet_energizer (77)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15378,7 +15898,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1016559780}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.5939531, y: -0.01281624, z: 0}
+  m_LocalPosition: {x: -3.589, y: -0.022, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -15446,9 +15966,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000009536743}
+  m_Offset: {x: 0, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.109661564
 --- !u!114 &1016559784
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15458,23 +15978,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1016559780}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Script: {fileID: 11500000, guid: 49e694def99b26946bbf12c9ac4af78b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1016559785
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1016559780}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  attivo: 1
---- !u!114 &1016559786
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -16274,11 +16781,10 @@ GameObject:
   - component: {fileID: 1120900947}
   - component: {fileID: 1120900948}
   - component: {fileID: 1120900949}
-  - component: {fileID: 1120900950}
   - component: {fileID: 1120900951}
   m_Layer: 0
   m_Name: pellet_energizer (93)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16359,21 +16865,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.00000023841858, y: -0.0000009536743}
+  m_Offset: {x: 0.018863522, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
---- !u!114 &1120900950
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1120900946}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Radius: 0.25493672
 --- !u!114 &1120900951
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16759,6 +17253,130 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attivo: 1
+--- !u!1 &1140610908
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1140610909}
+  - component: {fileID: 1140610913}
+  - component: {fileID: 1140610912}
+  - component: {fileID: 1140610911}
+  - component: {fileID: 1140610910}
+  m_Layer: 0
+  m_Name: pellet_energizer (273)
+  m_TagString: TurnFantasmi
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1140610909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140610908}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.061, y: 1.482, z: 0}
+  m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
+  m_Children: []
+  m_Father: {fileID: 703040739}
+  m_RootOrder: 244
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1140610910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140610908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attivo: 1
+--- !u!114 &1140610911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140610908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!58 &1140610912
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140610908}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000027236424, y: -0.000001446002}
+  serializedVersion: 2
+  m_Radius: 0.23271175
+--- !u!212 &1140610913
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140610908}
+  m_Enabled: 0
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 79a7b4235e1aa45f68fc5dd2cd24d1f2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1156942749
 GameObject:
   m_ObjectHideFlags: 0
@@ -17232,7 +17850,7 @@ GameObject:
   - component: {fileID: 1178947587}
   m_Layer: 0
   m_Name: pellet_energizer (39)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17313,9 +17931,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000047683716, y: 0}
+  m_Offset: {x: 0.03775598, y: 0}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23587543
 --- !u!114 &1178947586
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17589,6 +18207,130 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attivo: 1
+--- !u!1 &1191200426
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1191200427}
+  - component: {fileID: 1191200431}
+  - component: {fileID: 1191200430}
+  - component: {fileID: 1191200429}
+  - component: {fileID: 1191200428}
+  m_Layer: 0
+  m_Name: pellet_energizer (272)
+  m_TagString: TurnFantasmi
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1191200427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191200426}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.335, y: 1.482, z: 0}
+  m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
+  m_Children: []
+  m_Father: {fileID: 703040739}
+  m_RootOrder: 243
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1191200428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191200426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attivo: 1
+--- !u!114 &1191200429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191200426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!58 &1191200430
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191200426}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000027236424, y: -0.000001446002}
+  serializedVersion: 2
+  m_Radius: 0.23271175
+--- !u!212 &1191200431
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191200426}
+  m_Enabled: 0
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 79a7b4235e1aa45f68fc5dd2cd24d1f2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1198930259
 GameObject:
   m_ObjectHideFlags: 0
@@ -17614,7 +18356,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1198930259}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.3624173, y: -0.6105094, z: 16.112305}
+  m_LocalPosition: {x: 1.349, y: -0.468, z: 16.112305}
   m_LocalScale: {x: 0.6152, y: 0.6242, z: 1}
   m_Children: []
   m_Father: {fileID: 1864263786}
@@ -18013,9 +18755,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000019073486, y: -0.0000019073486}
+  m_Offset: {x: -0.015686138, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2648198
 --- !u!114 &1236951195
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18300,6 +19042,7 @@ GameObject:
   - component: {fileID: 1261651846}
   - component: {fileID: 1261651845}
   - component: {fileID: 1261651849}
+  - component: {fileID: 1261651847}
   m_Layer: 0
   m_Name: percorso
   m_TagString: Untagged
@@ -18370,6 +19113,18 @@ Transform:
   m_Father: {fileID: 697509893}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1261651847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1261651844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49e694def99b26946bbf12c9ac4af78b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &1261651849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18521,7 +19276,7 @@ GameObject:
   - component: {fileID: 1269274606}
   m_Layer: 0
   m_Name: pellet_energizer (242)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18602,9 +19357,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.00000047683716, y: 0.0000019073486}
+  m_Offset: {x: -0.01568835, y: 0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.26481962
 --- !u!114 &1269274605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18645,7 +19400,7 @@ GameObject:
   - component: {fileID: 1274475092}
   m_Layer: 0
   m_Name: pellet_energizer (27)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18726,9 +19481,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000019073486, y: -0.0000019073486}
+  m_Offset: {x: 0.0000020001748, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23587522
 --- !u!114 &1274475091
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19017,7 +19772,7 @@ GameObject:
   - component: {fileID: 1312036505}
   m_Layer: 0
   m_Name: pellet_energizer (204)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19098,9 +19853,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.000002861023, y: -0.0000014305115}
+  m_Offset: {x: -0.0000027236424, y: -0.000001446002}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23271175
 --- !u!114 &1312036504
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19389,7 +20144,7 @@ GameObject:
   - component: {fileID: 1335749068}
   m_Layer: 0
   m_Name: pellet_energizer (47)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19470,9 +20225,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000019073486}
+  m_Offset: {x: 0, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.29933944
 --- !u!114 &1335749067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19513,7 +20268,7 @@ GameObject:
   - component: {fileID: 1343289323}
   m_Layer: 0
   m_Name: pellet_energizer (71)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19637,7 +20392,7 @@ GameObject:
   - component: {fileID: 1343601201}
   m_Layer: 0
   m_Name: pellet_energizer (96)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19718,9 +20473,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000009536743, y: -0.0000009536743}
+  m_Offset: {x: -0.000001021366, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.1273887
 --- !u!114 &1343601200
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19771,7 +20526,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1347306136}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.5815825, y: -0.6105094, z: 16.112305}
+  m_LocalPosition: {x: -2.5815825, y: -0.46, z: 16.112305}
   m_LocalScale: {x: 0.6152, y: 0.6242, z: 1}
   m_Children: []
   m_Father: {fileID: 1864263786}
@@ -19965,7 +20720,7 @@ GameObject:
   - component: {fileID: 1370424058}
   m_Layer: 0
   m_Name: pellet_energizer (161)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20046,9 +20801,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000009536743, y: -0.0000019073486}
+  m_Offset: {x: 0.015689543, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23346299
 --- !u!114 &1370424057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21633,7 +22388,7 @@ GameObject:
   - component: {fileID: 1406334711}
   m_Layer: 0
   m_Name: pellet_energizer (135)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21714,9 +22469,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000014305115, y: -0.0000009536743}
+  m_Offset: {x: -0.015357258, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2698131
 --- !u!114 &1406334710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22500,7 +23255,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1476270592}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 18.2, y: 9.35, z: 0}
+  m_LocalPosition: {x: 18.2, y: 9.21, z: 0}
   m_LocalScale: {x: 1.124214, y: 1.1773881, z: 1}
   m_Children: []
   m_Father: {fileID: 263326343}
@@ -22537,7 +23292,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0685451bfe289b34bb4130df65c72c94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
   svolta: 0
+=======
+  AttivaMovimento: 1
+>>>>>>> Stashed changes:Assets/Scenes/Livello1.unity
   PacManSpeed: 6
 --- !u!50 &1476270596
 Rigidbody2D:
@@ -22573,9 +23332,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000012268033, y: 0.02948272}
+  m_Offset: {x: -0.011548268, y: -0.022572754}
   serializedVersion: 2
-  m_Radius: 0.91344535
+  m_Radius: 0.9341479
 --- !u!212 &1476270598
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22804,7 +23563,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1483985085}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.2682054, y: 0.74655575, z: 0}
+  m_LocalPosition: {x: -0.2682054, y: 0.759, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -23039,7 +23798,7 @@ GameObject:
   - component: {fileID: 1512690075}
   m_Layer: 0
   m_Name: pellet_energizer (183)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23120,9 +23879,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000019073486, y: -0.0000019073486}
+  m_Offset: {x: -0.031375, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.24914105
 --- !u!114 &1512690074
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23163,7 +23922,7 @@ GameObject:
   - component: {fileID: 1523542693}
   m_Layer: 0
   m_Name: pellet_energizer (12)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23244,9 +24003,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000023841858, y: -0.0000019073486}
+  m_Offset: {x: -0.0000003404553, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2736074
 --- !u!114 &1523542692
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23287,7 +24046,7 @@ GameObject:
   - component: {fileID: 1528373791}
   m_Layer: 0
   m_Name: pellet_energizer (132)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23368,9 +24127,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000014305115, y: -0.0000009536743}
+  m_Offset: {x: -0.038921192, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.11978647
 --- !u!114 &1528373790
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23984,17 +24743,25 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1612996043}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 93.83783}
+  m_LocalScale: {x: 0.9345238, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 577836384}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -124.32, y: 216}
   m_SizeDelta: {x: 435.37, y: 32.2}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 169, y: -32}
+  m_SizeDelta: {x: 435.37, y: 32.200012}
+  m_Pivot: {x: 1, y: 1}
+>>>>>>> Stashed changes:Assets/Scenes/Livello1.unity
 --- !u!114 &1612996045
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24298,7 +25065,7 @@ GameObject:
   - component: {fileID: 1617945378}
   m_Layer: 0
   m_Name: pellet_energizer (165)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24379,9 +25146,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000019073486, y: -0.0000014305115}
+  m_Offset: {x: -0.03137568, y: -0.000001446002}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.21778424
 --- !u!114 &1617945377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24794,7 +25561,7 @@ GameObject:
   - component: {fileID: 1631865216}
   m_Layer: 0
   m_Name: pellet_energizer (265)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24875,9 +25642,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000009536743, y: 0}
+  m_Offset: {x: 0.000001021366, y: 0}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.21778323
 --- !u!114 &1631865215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26337,7 +27104,7 @@ GameObject:
   - component: {fileID: 1738845059}
   m_Layer: 0
   m_Name: pellet_energizer (166)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26418,9 +27185,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.0000019073486}
+  m_Offset: {x: 0.01568886, y: 0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2334623
 --- !u!114 &1738845058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27146,6 +27913,130 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attivo: 1
+--- !u!1 &1775161796
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1775161797}
+  - component: {fileID: 1775161801}
+  - component: {fileID: 1775161800}
+  - component: {fileID: 1775161799}
+  - component: {fileID: 1775161798}
+  m_Layer: 0
+  m_Name: pellet_energizer (275)
+  m_TagString: TurnFantasmi
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1775161797
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775161796}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.601, y: 3.075, z: 0}
+  m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
+  m_Children: []
+  m_Father: {fileID: 703040739}
+  m_RootOrder: 246
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1775161798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775161796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attivo: 1
+--- !u!114 &1775161799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775161796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!58 &1775161800
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775161796}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000027236424, y: -0.000001446002}
+  serializedVersion: 2
+  m_Radius: 0.23271175
+--- !u!212 &1775161801
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775161796}
+  m_Enabled: 0
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 79a7b4235e1aa45f68fc5dd2cd24d1f2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1798099216
 GameObject:
   m_ObjectHideFlags: 0
@@ -27409,7 +28300,7 @@ GameObject:
   - component: {fileID: 1810231520}
   m_Layer: 0
   m_Name: pellet_energizer (145)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27490,9 +28381,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000009536743}
+  m_Offset: {x: -0.011325586, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23967502
 --- !u!114 &1810231519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27905,7 +28796,7 @@ GameObject:
   - component: {fileID: 1827945401}
   m_Layer: 0
   m_Name: pellet_energizer (200)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27986,9 +28877,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000038146973, y: -0.0000019073486}
+  m_Offset: {x: -0.024542741, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23023756
 --- !u!114 &1827945400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28153,7 +29044,7 @@ GameObject:
   - component: {fileID: 1839748910}
   m_Layer: 0
   m_Name: pellet_energizer (237)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28234,9 +29125,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000009536743, y: -0.0000019073486}
+  m_Offset: {x: -0.015689712, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23346214
 --- !u!114 &1839748909
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28435,7 +29326,7 @@ GameObject:
   - component: {fileID: 1864393053}
   m_Layer: 0
   m_Name: pellet_energizer (13)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28516,9 +29407,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000009536743, y: -0.0000019073486}
+  m_Offset: {x: -0.018877225, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.25474134
 --- !u!114 &1864393052
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28803,8 +29694,6 @@ GameObject:
   - component: {fileID: 1893088377}
   - component: {fileID: 1893088378}
   - component: {fileID: 1893088379}
-  - component: {fileID: 1893088380}
-  - component: {fileID: 1893088382}
   - component: {fileID: 1893088381}
   m_Layer: 0
   m_Name: pellet_energizer (78)
@@ -28892,32 +29781,7 @@ CircleCollider2D:
   m_Offset: {x: -0.00000047683716, y: -0.0000009536743}
   serializedVersion: 2
   m_Radius: 0.50000006
---- !u!114 &1893088380
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1893088376}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1893088381
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1893088376}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  attivo: 1
---- !u!114 &1893088382
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -29920,7 +30784,7 @@ GameObject:
   - component: {fileID: 1970399055}
   m_Layer: 0
   m_Name: pellet_energizer (218)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30001,9 +30865,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.0000019073486}
+  m_Offset: {x: -0.012269328, y: 0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.24249896
 --- !u!114 &1970399054
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30292,7 +31156,7 @@ GameObject:
   - component: {fileID: 1985402689}
   m_Layer: 0
   m_Name: pellet_energizer (233)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30373,9 +31237,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000071525574, y: -0.0000019073486}
+  m_Offset: {x: -0.014002841, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23413505
 --- !u!114 &1985402688
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30912,7 +31776,7 @@ GameObject:
   - component: {fileID: 2005379583}
   m_Layer: 0
   m_Name: pellet_energizer (50)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30993,9 +31857,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000009536743, y: -0.0000019073486}
+  m_Offset: {x: -0.018877566, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.25474134
 --- !u!114 &2005379582
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31269,6 +32133,130 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attivo: 1
+--- !u!1 &2022027575
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2022027576}
+  - component: {fileID: 2022027580}
+  - component: {fileID: 2022027579}
+  - component: {fileID: 2022027578}
+  - component: {fileID: 2022027577}
+  m_Layer: 0
+  m_Name: pellet_energizer (274)
+  m_TagString: TurnFantasmi
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2022027576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022027575}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2, y: 3.041, z: 0}
+  m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
+  m_Children: []
+  m_Father: {fileID: 703040739}
+  m_RootOrder: 245
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2022027577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022027575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b831a0c78e4744fb15391a4a4e7f27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attivo: 1
+--- !u!114 &2022027578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022027575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!58 &2022027579
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022027575}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0000027236424, y: -0.000001446002}
+  serializedVersion: 2
+  m_Radius: 0.23271175
+--- !u!212 &2022027580
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022027575}
+  m_Enabled: 0
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 79a7b4235e1aa45f68fc5dd2cd24d1f2, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &2022107764
 GameObject:
   m_ObjectHideFlags: 0
@@ -31656,7 +32644,7 @@ GameObject:
   - component: {fileID: 2032801781}
   m_Layer: 0
   m_Name: pellet_energizer (205)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31737,9 +32725,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000009536743, y: 0.0000019073486}
+  m_Offset: {x: 0.0000006809106, y: 0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23023823
 --- !u!114 &2032801780
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32024,11 +33012,10 @@ GameObject:
   - component: {fileID: 2046961537}
   - component: {fileID: 2046961538}
   - component: {fileID: 2046961539}
-  - component: {fileID: 2046961540}
   - component: {fileID: 2046961541}
   m_Layer: 0
   m_Name: pellet_energizer (85)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32109,21 +33096,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000009536743, y: -0.0000009536743}
+  m_Offset: {x: -0.02720374, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
---- !u!114 &2046961540
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2046961536}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Radius: 0.28430375
 --- !u!114 &2046961541
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32152,7 +33127,7 @@ GameObject:
   - component: {fileID: 2055364985}
   m_Layer: 0
   m_Name: pellet_energizer (147)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32165,7 +33140,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2055364980}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.393043, y: 0.26113442, z: 0}
+  m_LocalPosition: {x: -6.393043, y: -0.009, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -32233,9 +33208,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000009536743}
+  m_Offset: {x: 0, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.29626778
 --- !u!114 &2055364984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32276,7 +33251,7 @@ GameObject:
   - component: {fileID: 2055567893}
   m_Layer: 0
   m_Name: pellet_energizer (56)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32289,7 +33264,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2055567888}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.026007662, y: 0.24190968, z: 0}
+  m_LocalPosition: {x: -0.026007662, y: -0.008, z: 0}
   m_LocalScale: {x: 0.1422898, y: 0.14032866, z: 1.1082}
   m_Children: []
   m_Father: {fileID: 703040739}
@@ -32357,9 +33332,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000009536743}
+  m_Offset: {x: -0.015355215, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.2698131
 --- !u!114 &2055567892
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32400,7 +33375,7 @@ GameObject:
   - component: {fileID: 2061244274}
   m_Layer: 0
   m_Name: pellet_energizer (251)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32481,9 +33456,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000019073486}
+  m_Offset: {x: -0.03137772, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.24914105
 --- !u!114 &2061244273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33003,11 +33978,10 @@ GameObject:
   - component: {fileID: 2110138492}
   - component: {fileID: 2110138493}
   - component: {fileID: 2110138494}
-  - component: {fileID: 2110138495}
   - component: {fileID: 2110138496}
   m_Layer: 0
   m_Name: pellet_energizer (74)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33088,21 +34062,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000047683716, y: -0.0000009536743}
+  m_Offset: {x: 0.016399136, y: -0.00000093564836}
   serializedVersion: 2
-  m_Radius: 0.50000006
---- !u!114 &2110138495
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2110138491}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd678bc1d8375844598afbb7396ca991, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Radius: 0.2524746
 --- !u!114 &2110138496
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33255,7 +34217,7 @@ GameObject:
   - component: {fileID: 2147313321}
   m_Layer: 0
   m_Name: pellet_energizer (214)
-  m_TagString: PacManfood
+  m_TagString: Turn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33336,9 +34298,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000019073486, y: -0.0000019073486}
+  m_Offset: {x: -0.02454138, y: -0.0000019138263}
   serializedVersion: 2
-  m_Radius: 0.50000006
+  m_Radius: 0.23023756
 --- !u!114 &2147313320
 MonoBehaviour:
   m_ObjectHideFlags: 0
