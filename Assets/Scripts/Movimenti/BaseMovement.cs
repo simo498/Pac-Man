@@ -7,15 +7,31 @@ public class BaseMovement : MonoBehaviour
 {
     public float Speed;
     private List<RaycastHit2D> hits;
+    protected bool incastrato = false;
 
     public BaseMovement()
     {
         hits = new List<RaycastHit2D>(100);
     }
 
-    public virtual void Move(Vector2 direction)
+    public virtual void Move(Vector2 direction, Vector2? _vector)
     {
+        if (_vector.HasValue == true)
+        {
+
+        }
         transform.localPosition += (Vector3)(direction * Speed) * Time.deltaTime;
+
+        //Se l'oggetto e' in prossimita' di un muro, "incastrato" diventa true, senno' false
+        var ray = Physics2D.Linecast(
+            (Vector2)this.transform.position,
+            (Vector2)this.transform.position + direction);
+
+        if (ray.collider.CompareTag("Wall") == true)
+        {
+            this.incastrato = true;
+        }
+        else this.incastrato = false;
     }
 
     public virtual bool IsValid(Vector2 direction, string saltaOgg)
@@ -23,15 +39,25 @@ public class BaseMovement : MonoBehaviour
         /*
         Problemi:
         - Bisogna aggiustare i collider in modo da non far sbattere PacMan quando gira agli spigoli
-        - Bisogna aggiungere i pallini invisibili (usati come collider) nella posizione di
-          spawn di PacMan e nelle parti in cui non ci sono
-        - Quando gira, la posizione di PacMan dev'essere corretta per non farlo scivolare su
-          alcuni spigoli
+        - PacMan si blocca quando tocca un muro
         */
 
         bool ret = false;
         Vector2 pos = transform.position;
         Vector2 linecastVector;
+
+        if (this.incastrato == true)
+        {
+            if (direction == Vector2.left)
+                pos.x += 0.2f;
+            else if (direction == Vector2.right)
+                pos.x -= 0.2f;
+            else if (direction == Vector2.up)
+                pos.y -= 0.2f;
+            else if (direction == Vector2.down)
+                pos.y += 0.2f;
+        }
+
         if (direction == Vector2.left)
             linecastVector = pos + new Vector2(-0.3f, 0.0f);
         else if (direction == Vector2.right)
