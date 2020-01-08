@@ -7,15 +7,15 @@ using System.Diagnostics;
 
 public class Collisioni : MonoBehaviour
 {
-    uint vite = 3;
     int score;
     bool superPower = false;
-    public uint DURATA_POTERE_MS;
     Stopwatch timer;
     public Text ScoreText;
     public GameObject Player;
     public GameObject Food;
     public GameObject[] Fantasmi;
+    public uint DURATA_POTERE_MS;
+    public uint vite = 3;
 
     void OnTriggerEnter2D(Collider2D other)
     {

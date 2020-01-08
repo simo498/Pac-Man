@@ -8578,7 +8578,7 @@ Camera:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 0.75
+    width: 1
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -8608,7 +8608,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.47, y: 0.42, z: -10}
+  m_LocalPosition: {x: -0.05, y: 0.42, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -22619,7 +22619,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95aaf57254d9da3438567525b580711c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DURATA_POTERE_MS: 10000
   ScoreText: {fileID: 1612996045}
   Player: {fileID: 0}
   Food: {fileID: 0}
@@ -22628,6 +22627,8 @@ MonoBehaviour:
   - {fileID: 906701696}
   - {fileID: 1419506908}
   - {fileID: 1909493950}
+  DURATA_POTERE_MS: 10000
+  vite: 3
 --- !u!1 &1478403602
 GameObject:
   m_ObjectHideFlags: 0
@@ -23930,10 +23931,10 @@ RectTransform:
   m_Father: {fileID: 577836384}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -124.32, y: 216}
-  m_SizeDelta: {x: 435.37, y: 32.2}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 5, y: -71}
+  m_SizeDelta: {x: 435.37, y: 32.200012}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1612996045
 MonoBehaviour:
