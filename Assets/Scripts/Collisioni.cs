@@ -9,12 +9,13 @@ public class Collisioni : MonoBehaviour
 {
     int score;
     bool superPower = false;
-    public uint DURATA_POTERE_MS;
     Stopwatch timer;
     public Text ScoreText;
     public GameObject Player;
     public GameObject Food;
     public GameObject[] Fantasmi;
+    public uint DURATA_POTERE_MS;
+    public uint vite = 3;
 
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -34,8 +35,22 @@ public class Collisioni : MonoBehaviour
 
             else
             {
-                GetComponent<Renderer>().enabled = false;
-                gameObject.SetActive(false);
+                if (vite > 0)
+                {
+                    transform.localPosition = new Vector3(18.2f, 9.35f, 0.0f);
+                    vite--;
+                    superPower = false;
+                    var obj = GameObject.Find("pacman_sprite");
+                    var scriptableObj = obj.GetComponent<PacManMovement>();
+                    scriptableObj.Direction = Vector2.zero;
+                    scriptableObj.NextDirection = Vector2.left;
+                }
+
+                else
+                {
+                    GetComponent<Renderer>().enabled = false;
+                    gameObject.SetActive(false);
+                }
             }
 
         }
