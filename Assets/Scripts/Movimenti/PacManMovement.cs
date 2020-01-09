@@ -11,7 +11,7 @@ public class PacManMovement : BaseMovement
 
     public Vector2 NextDirection;
     public Vector2 Direction = Vector2.zero;
-
+   
     //Muove PacMan in base al vettore passato come parametro
     public override void Move(Vector2 direction)
     {
@@ -53,7 +53,7 @@ public class PacManMovement : BaseMovement
         NextDirection = Vector2.left;
     }
 
-    void Update()
+    void FixedUpdate()
     {
         var input = GetInput();
         if (input != Vector2.zero)

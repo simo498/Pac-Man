@@ -3,59 +3,111 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Diagnostics;
 
+
 public class BaseMovement : MonoBehaviour
 {
     public float Speed;
     private List<RaycastHit2D> hits;
-    protected bool incastrato = false;
+    protected bool bloccato = false;
 
     public BaseMovement()
     {
         hits = new List<RaycastHit2D>(100);
     }
 
-    public virtual void Move(Vector2 direction, Vector2? _vector)
+    public virtual void Move(Vector2 direction)
     {
-        if (_vector.HasValue == true)
+
+        /*CODICE NON TERMINATO
+         * |---------------------------------------------------------------------------------|
+          * Linecast deve salvare nella variabile "rayHits" i collider che il raggio ha colpito
+              con il ContactFilter2D settato su NOFILTER e scrivere il codice per evitare che il raggio
+              che dovrebbe controllare la collisione con il muro eviti lo sprite di PacMan e potenziali
+              ostacoli (es. collider dei pellet)
+              
+            * Accedendo alla posizione 1 dell'array "rayHits" si dovrebbe evitare lo sprite di PacMan e colpire
+               il muro.
+
+            * In alternativa (se sono presenti altri ostacoli tra pacman e il muro) usare un loop
+               che scarti tutti i collider con tag diverso da "Wall". Una volta trovato il muro impostare
+        *|----------------------------------------------------------------------------------------------------------|
+        Creare un campo nella classe per mantenere in memoria il valore bool dell'eventuale blocco di 
+        PacMan e se il Linecast colpisce il muro a una distanza ravvicinata dalla sua origine (PacMan)
+        allora settare quella variabile su true, senno' su false, e controllare ogni volta che viene
+        richiamato il metodo di spostamento se PacMan e' incastrato. Se lo e', spostarlo di una somma
+        minima nella direzione OPPOSTA a quella a cui e' rivolto attualmente (che dovrebbe essere la quella
+        che punta al muro) e riprovare a eseguire il check di valitita' per "nextDirection" richiesta 
+        dall'utente. In alternativa fare un loop che sposta PacMan di valori ancora piu' bassi fino a raggiungere
+        la direzione desiderata per evitare di spostarlo troppo in avanti o in indietro (il loop si ferma da solo
+        se entro un tot. di distanza non viene trovata alcuna strada percorribile)
+        *|-----------------------------------------------------------------------------------------------------------------------------|
+        Dividere tutto cio' in classi che gestiscono un singolo componente di PacMan (es. Input, Movimento,
+        Collisioni, ecc...) che non contengono funzioni che vanno in loop, e una che gestisce l'intero gioco
+        (Main per esempio)
+        *|----------------------------------------------------------------------------------------------------------------------------|
+
+         */
+
+        //codice per sbloccare pacman nel caso si trovi incastrato nel muro
+        if (bloccato)
         {
 
         }
+
         transform.localPosition += (Vector3)(direction * Speed) * Time.deltaTime;
+        var rayHits = new RaycastHit2D[4];
+        var contactFilter = new ContactFilter2D();
+        contactFilter.NoFilter();
 
         //Se l'oggetto e' in prossimita' di un muro, "incastrato" diventa true, senno' false
-        var ray = Physics2D.Linecast(
+        Physics2D.Linecast(
             (Vector2)this.transform.position,
-            (Vector2)this.transform.position + direction);
+            (Vector2)this.transform.position + direction,
+            contactFilter,
+            rayHits
+            );
 
-        if (ray.collider.CompareTag("Wall") == true)
+        //Ignora il collider di PacMan accedendo a quello successivo
+        if (rayHits[1].collider == null)
+            return;
+        if (rayHits[1].collider.CompareTag("Wall") == true)
         {
-            this.incastrato = true;
+            if (this.bloccato == false)
+                UnityEngine.Debug.Log("INCASTRATO TRUE");// DEBUG
+            this.bloccato = true;
         }
-        else this.incastrato = false;
+        else
+        {
+            if (this.bloccato == true)
+                UnityEngine.Debug.Log("INCASTRATO FALSE");// DEBUG
+            this.bloccato = false;
+        }
     }
 
-    public virtual bool IsValid(Vector2 direction, string saltaOgg)
+    public virtual bool IsValid(Vector2 direction,
+        string saltaOgg,
+        Vector2? position = null)
     {
-        /*
-        Problemi:
-        - Bisogna aggiustare i collider in modo da non far sbattere PacMan quando gira agli spigoli
-        - PacMan si blocca quando tocca un muro
-        */
-
         bool ret = false;
-        Vector2 pos = transform.position;
+        Vector2 pos;
+        if (position.HasValue)
+            pos = position.Value;
+        else pos = transform.position;
         Vector2 linecastVector;
 
-        if (this.incastrato == true)
+        if (this.bloccato == true)
         {
-            if (direction == Vector2.left)
+            /*CODICE NON FUNZIONANTE, RIVEDERE
+             * if (direction == Vector2.left)
                 pos.x += 0.2f;
             else if (direction == Vector2.right)
                 pos.x -= 0.2f;
             else if (direction == Vector2.up)
                 pos.y -= 0.2f;
             else if (direction == Vector2.down)
-                pos.y += 0.2f;
+                pos.y += 0.2f; */
+            transform.localPosition += (Vector3)Inverso(
+                transform.GetComponent<PacManMovement>().Direction, 0.2f);
         }
 
         if (direction == Vector2.left)
@@ -107,17 +159,28 @@ public class BaseMovement : MonoBehaviour
         return ret;
     }
 
-    public static Vector2 Inverso(Vector2 dir)
+    /*Restituisce il vettore (Vector2) inverso a quello specificato
+     *
+     * float dist: Se modificato crea un vettore opposto a quello
+     *             specificato, ma con modulo variabile
+     */
+    public static Vector2 Inverso(Vector2 dir, float dist = 1.0f)
     {
-        if (dir == Vector2.right)
-            return Vector2.left;
-        else if (dir == Vector2.left)
-            return Vector2.right;
-        else if (dir == Vector2.up)
-            return Vector2.down;
-        else if (dir == Vector2.down)
-            return Vector2.up;
+        float posX = 0;
+        float posY = 0;
 
-        else return Vector2.zero;
+        //Valore assoluto del parametro "dist"
+        float absDist = System.Math.Abs(dist);
+
+        if (dir == Vector2.right)
+            posX = -absDist; //Vector2(-Dist, 0)
+        else if (dir == Vector2.left)
+            posX = absDist; //Vector2(+Dist, 0)
+        else if (dir == Vector2.up)
+            posY = -absDist; //Vector2(0, -Dist)
+        else if (dir == Vector2.down)
+            posY = absDist; //Vector2(0, +Dist)
+
+        return new Vector2(posX, posY);
     }
 }
