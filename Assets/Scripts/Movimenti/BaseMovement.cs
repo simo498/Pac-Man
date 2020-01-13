@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Diagnostics;
 
-
 public class BaseMovement : MonoBehaviour
 {
     public float Speed;
