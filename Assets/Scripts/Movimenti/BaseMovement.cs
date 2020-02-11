@@ -51,7 +51,8 @@ public class BaseMovement : MonoBehaviour
         //codice per sbloccare pacman nel caso si trovi incastrato nel muro
         if (bloccato)
         {
-
+            var inverse = Inverso(direction, 0.4f);
+            this.transform.localPosition += (Vector3)inverse;
         }
 
         transform.localPosition += (Vector3)(direction * Speed) * Time.deltaTime;
